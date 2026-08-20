@@ -10,5 +10,6 @@
   "practice/sql/easy/easy-orderby-001/solution.sql": "971187c12f815aaf6041b57e87718d042cff78f29b75b78a540337154a64ee06",
   "practice/sql/easy/easy-distinct-006/solution.sql": "e8096a7e1236949544aa308e8f6c84a3c993985fcdc692cf95ffa0e666130069",
   "practice/sql/easy/easy-limit-002/solution.sql": "d550cb894ef6a429effa276c59c22474cb833a6f8294e6e362b3f6c9b659271b",
-  "practice/sql/easy/easy-avg-001/solution.sql": "a65faa9e1a446bea5d6062232d14afb99df8701ea70dcb10934b7b9c1a2956d1"
+  "practice/sql/easy/easy-avg-001/solution.sql": "a65faa9e1a446bea5d6062232d14afb99df8701ea70dcb10934b7b9c1a2956d1",
+  "practice/sql/easy/easy-isnull-002/solution.sql": "c0e543543a856b13f5cece10d7903028b94aa7c81b1619199f2a104be22ab26b"
 }
