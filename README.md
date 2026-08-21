@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**16** problems solved on [Xom Data](https://xomdata.com/practice).
+**37** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 16 | 0 | 0 | 0 | 16 |
+| SQL | 37 | 0 | 0 | 0 | 37 |
 
 **Recently solved**
 
-- [easy-where-003](https://xomdata.com/practice/easy-where-003) · Easy · 2026-08-21
-- [easy-minmax-001](https://xomdata.com/practice/easy-minmax-001) · Easy · 2026-08-20
-- [easy-where-010](https://xomdata.com/practice/easy-where-010) · Easy · 2026-08-20
-- [easy-isnull-002](https://xomdata.com/practice/easy-isnull-002) · Easy · 2026-08-20
-- [easy-avg-001](https://xomdata.com/practice/easy-avg-001) · Easy · 2026-08-19
-- [easy-limit-002](https://xomdata.com/practice/easy-limit-002) · Easy · 2026-08-19
-- [easy-distinct-006](https://xomdata.com/practice/easy-distinct-006) · Easy · 2026-08-19
-- [easy-orderby-001](https://xomdata.com/practice/easy-orderby-001) · Easy · 2026-08-19
-- [easy-like-001](https://xomdata.com/practice/easy-like-001) · Easy · 2026-08-19
-- [easy-count-002](https://xomdata.com/practice/easy-count-002) · Easy · 2026-08-19
+- [easy-join-007](https://xomdata.com/practice/easy-join-007) · Easy · 2026-08-21
+- [easy-join-006](https://xomdata.com/practice/easy-join-006) · Easy · 2026-08-21
+- [easy-join-005](https://xomdata.com/practice/easy-join-005) · Easy · 2026-08-21
+- [easy-join-004](https://xomdata.com/practice/easy-join-004) · Easy · 2026-08-21
+- [easy-join-003](https://xomdata.com/practice/easy-join-003) · Easy · 2026-08-21
+- [easy-case-002](https://xomdata.com/practice/easy-case-002) · Easy · 2026-08-21
+- [easy-case-001](https://xomdata.com/practice/easy-case-001) · Easy · 2026-08-21
+- [easy-between-002](https://xomdata.com/practice/easy-between-002) · Easy · 2026-08-21
+- [easy-between-001](https://xomdata.com/practice/easy-between-001) · Easy · 2026-08-21
+- [easy-avg-003](https://xomdata.com/practice/easy-avg-003) · Easy · 2026-08-21
 
-_Synced 16 solutions · last update 2026-08-21_
+_Synced 37 solutions · last update 2026-08-21_
 
 <!-- xomdata:stats:end -->
 
