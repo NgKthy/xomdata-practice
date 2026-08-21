@@ -35,5 +35,7 @@
   "practice/sql/easy/easy-join-004/solution.sql": "4ba36e820568aa062239042fd1974f9f016fd27b9f5734ec8a8af7a58b54b04b",
   "practice/sql/easy/easy-join-005/solution.sql": "f81b6e3070761e6dd3419ec1500e3431c263065ab78ba458deb686410504085a",
   "practice/sql/easy/easy-join-006/solution.sql": "f2ac96a1baf38b19e42a81dbe26efac3b5803da246a22717ce48cc6a68fda6bc",
-  "practice/sql/easy/easy-join-007/solution.sql": "ca0e13d529c15e2aef523d040c917c66d12878c9bdaee51c60783b31fd2edcf5"
+  "practice/sql/easy/easy-join-007/solution.sql": "ca0e13d529c15e2aef523d040c917c66d12878c9bdaee51c60783b31fd2edcf5",
+  "practice/sql/medium/medium-cohort-003/solution.sql": "69741e9344a197dfe5c95bb12a783c481919ab030c4466a701666e13af78e145",
+  "practice/sql/medium/medium-churn-001/solution.sql": "58bdff7e19c3fd5706e549834c82ef5cd10f8842076d03bd17e550fe9c284d41"
 }
