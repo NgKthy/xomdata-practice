@@ -39,5 +39,8 @@
   "practice/sql/medium/medium-cohort-003/solution.sql": "69741e9344a197dfe5c95bb12a783c481919ab030c4466a701666e13af78e145",
   "practice/sql/medium/medium-churn-001/solution.sql": "58bdff7e19c3fd5706e549834c82ef5cd10f8842076d03bd17e550fe9c284d41",
   "practice/sql/easy/easy-where-027/solution.sql": "d23153c1e3329be70a1b7a8e1dcfc2c5785cb2c7eb8e865abacb6146830c10cf",
-  "practice/sql/medium/medium-repeat-001/solution.sql": "f856fcd7b83083d3c84deae445927bb0ed0fd7b7731daf8fd09a2274fb93ab4e"
+  "practice/sql/medium/medium-repeat-001/solution.sql": "f856fcd7b83083d3c84deae445927bb0ed0fd7b7731daf8fd09a2274fb93ab4e",
+  "practice/sql/easy/easy-distinct-007/solution.sql": "bf232c0ca1b14efe2974c781d84975d6ed3b07c20120b34b51889b71b35a2729",
+  "practice/sql/easy/easy-count-006/solution.sql": "95dca9ec0084d107965f7d305257f27fa54a14aceca86c56b2eb5ad69a1b61ab",
+  "practice/sql/easy/easy-avg-002/solution.sql": "a25f14ba4ae6bbaa376b31e1800f4c32e1375fecc9591df0a0c5edf433f6f84b"
 }
