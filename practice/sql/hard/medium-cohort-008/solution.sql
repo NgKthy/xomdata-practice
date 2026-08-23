@@ -1,4 +1,4 @@
--- Xom Data · Quy mô và tiền tươi tháng đầu của mỗi thế hệ
+-- Xom Data · Each cohort's size and first-month cash
 -- Problem: https://xomdata.com/practice/medium-cohort-008
 -- Solved: 2026-08-23
 

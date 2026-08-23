@@ -1,4 +1,4 @@
--- Xom Data · Thuê bao còn hiệu lực hay đã dừng
+-- Xom Data · Active or stopped subscription
 -- Problem: https://xomdata.com/practice/medium-churn-002
 -- Solved: 2026-08-23
 

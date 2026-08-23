@@ -1,4 +1,4 @@
--- Xom Data · So găng lượng khách giữa các quý
+-- Xom Data · Head-to-head customer count across quarters
 -- Problem: https://xomdata.com/practice/medium-active-006
 -- Solved: 2026-08-23
 

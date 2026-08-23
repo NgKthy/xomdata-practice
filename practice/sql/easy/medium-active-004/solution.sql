@@ -1,4 +1,4 @@
--- Xom Data · Ai chuyên cần suốt cả quý
+-- Xom Data · Who stayed loyal all quarter
 -- Problem: https://xomdata.com/practice/medium-active-004
 -- Solved: 2026-08-23
 

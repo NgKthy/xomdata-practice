@@ -1,4 +1,4 @@
--- Xom Data · Ai ghé đủ cả hai tháng liền nhau
+-- Xom Data · Who showed up in two consecutive months
 -- Problem: https://xomdata.com/practice/medium-active-002
 -- Solved: 2026-08-23
 

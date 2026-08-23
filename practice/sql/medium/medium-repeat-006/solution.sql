@@ -1,4 +1,4 @@
--- Xom Data · Khách chuyên cần đủ bốn mùa
+-- Xom Data · Diligent customers across all four quarters
 -- Problem: https://xomdata.com/practice/medium-repeat-006
 -- Solved: 2026-08-23
 

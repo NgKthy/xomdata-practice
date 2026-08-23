@@ -1,4 +1,4 @@
--- Xom Data · Tuổi đời mua sắm của khách
+-- Xom Data · Customer Shopping Tenure
 -- Problem: https://xomdata.com/practice/medium-cohort-006
 -- Solved: 2026-08-23
 

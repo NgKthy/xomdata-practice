@@ -1,4 +1,4 @@
--- Xom Data · Sổ đen những khách đã im lặng quá lâu
+-- Xom Data · The blacklist of long-silent customers
 -- Problem: https://xomdata.com/practice/medium-churn-004
 -- Solved: 2026-08-23
 

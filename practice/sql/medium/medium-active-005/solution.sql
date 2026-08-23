@@ -1,4 +1,4 @@
--- Xom Data · Đà tăng giảm lượng khách qua từng tháng
+-- Xom Data · Month-over-month momentum in customer count
 -- Problem: https://xomdata.com/practice/medium-active-005
 -- Solved: 2026-08-23
 

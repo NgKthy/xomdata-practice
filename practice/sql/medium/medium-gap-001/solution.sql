@@ -1,4 +1,4 @@
--- Xom Data · Khoảng lặng giữa hai lần mua liền kề
+-- Xom Data · The Silence Between Two Consecutive Purchases
 -- Problem: https://xomdata.com/practice/medium-gap-001
 -- Solved: 2026-08-23
 

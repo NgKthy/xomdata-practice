@@ -1,4 +1,4 @@
--- Xom Data · Doanh thu đội nón ra đi cùng khách cũ
+-- Xom Data · Revenue walking out the door with old customers
 -- Problem: https://xomdata.com/practice/medium-churn-007
 -- Solved: 2026-08-23
 

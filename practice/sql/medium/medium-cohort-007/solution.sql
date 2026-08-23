@@ -1,4 +1,4 @@
--- Xom Data · Ai nhập hội đúng mùa khuyến mãi
+-- Xom Data · Who Joined During Promo Season
 -- Problem: https://xomdata.com/practice/medium-cohort-007
 -- Solved: 2026-08-23
 

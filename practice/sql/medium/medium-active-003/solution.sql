@@ -1,4 +1,4 @@
--- Xom Data · Tháng bùng nổ khách mới
+-- Xom Data · The month that exploded with new customers
 -- Problem: https://xomdata.com/practice/medium-active-003
 -- Solved: 2026-08-23
 

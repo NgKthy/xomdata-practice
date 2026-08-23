@@ -1,4 +1,4 @@
--- Xom Data · Vùng cảnh báo vàng trước khi mất khách
+-- Xom Data · The yellow warning zone before losing a customer
 -- Problem: https://xomdata.com/practice/medium-churn-005
 -- Solved: 2026-08-23
 

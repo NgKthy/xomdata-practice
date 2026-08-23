@@ -1,4 +1,4 @@
--- Xom Data · Mỗi thế hệ khách đông cỡ nào
+-- Xom Data · The size of each customer cohort
 -- Problem: https://xomdata.com/practice/medium-cohort-004
 -- Solved: 2026-08-23
 

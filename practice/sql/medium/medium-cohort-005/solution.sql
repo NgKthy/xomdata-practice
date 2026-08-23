@@ -1,4 +1,4 @@
--- Xom Data · Quý khởi đầu của mỗi khách
+-- Xom Data · Each customer's starting quarter
 -- Problem: https://xomdata.com/practice/medium-cohort-005
 -- Solved: 2026-08-23
 

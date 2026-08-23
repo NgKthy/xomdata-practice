@@ -1,4 +1,4 @@
--- Xom Data · Đồng hồ đếm ngược trước khi mất khách
+-- Xom Data · Countdown before losing a customer
 -- Problem: https://xomdata.com/practice/medium-churn-003
 -- Solved: 2026-08-23
 

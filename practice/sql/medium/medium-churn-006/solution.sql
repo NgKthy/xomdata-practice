@@ -1,4 +1,4 @@
--- Xom Data · Bức ảnh tệp khách tại một thời điểm
+-- Xom Data · A snapshot of the customer base at a point in time
 -- Problem: https://xomdata.com/practice/medium-churn-006
 -- Solved: 2026-08-23
 
