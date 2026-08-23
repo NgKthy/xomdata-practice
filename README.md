@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**52** problems solved on [Xom Data](https://xomdata.com/practice).
+**83** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 49 | 3 | 0 | 0 | 52 |
+| SQL | 57 | 26 | 0 | 0 | 83 |
 
 **Recently solved**
 
-- [easy-leftjoin-001](https://xomdata.com/practice/easy-leftjoin-001) · Easy · 2026-08-22
-- [easy-join-002](https://xomdata.com/practice/easy-join-002) · Easy · 2026-08-22
-- [easy-join-001](https://xomdata.com/practice/easy-join-001) · Easy · 2026-08-22
-- [easy-isnull-003](https://xomdata.com/practice/easy-isnull-003) · Easy · 2026-08-22
-- [easy-in-002](https://xomdata.com/practice/easy-in-002) · Easy · 2026-08-22
-- [easy-in-001](https://xomdata.com/practice/easy-in-001) · Easy · 2026-08-22
-- [easy-having-001](https://xomdata.com/practice/easy-having-001) · Easy · 2026-08-22
-- [easy-having-002](https://xomdata.com/practice/easy-having-002) · Easy · 2026-08-22
-- [easy-avg-002](https://xomdata.com/practice/easy-avg-002) · Easy · 2026-08-22
-- [easy-count-006](https://xomdata.com/practice/easy-count-006) · Easy · 2026-08-22
+- [medium-active-006](https://xomdata.com/practice/medium-active-006) · Medium · 2026-08-23
+- [medium-repeat-006](https://xomdata.com/practice/medium-repeat-006) · Medium · 2026-08-23
+- [medium-cohort-008](https://xomdata.com/practice/medium-cohort-008) · Medium · 2026-08-23
+- [medium-churn-006](https://xomdata.com/practice/medium-churn-006) · Medium · 2026-08-23
+- [medium-active-003](https://xomdata.com/practice/medium-active-003) · Medium · 2026-08-23
+- [medium-churn-005](https://xomdata.com/practice/medium-churn-005) · Medium · 2026-08-23
+- [medium-cohort-007](https://xomdata.com/practice/medium-cohort-007) · Medium · 2026-08-23
+- [medium-churn-004](https://xomdata.com/practice/medium-churn-004) · Medium · 2026-08-23
+- [medium-cohort-006](https://xomdata.com/practice/medium-cohort-006) · Medium · 2026-08-23
+- [medium-churn-003](https://xomdata.com/practice/medium-churn-003) · Medium · 2026-08-23
 
-_Synced 52 solutions · last update 2026-08-22_
+_Synced 83 solutions · last update 2026-08-23_
 
 <!-- xomdata:stats:end -->
 
