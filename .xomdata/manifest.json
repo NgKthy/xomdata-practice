@@ -111,5 +111,10 @@
   "practice/python/hard/py-spiral-order/solution.py": "227fedb034d4ea31c03a32dd272d84b637b21a274c9c7698d4c6bafa5a086267",
   "practice/python/hard/py-anagram-groups/solution.py": "6e056112373561405e82b06b8f86451083ef0fcee358c72591f0394f8a352f09",
   "practice/python/hard/py-climb-stairs/solution.py": "8298c27749d962b755261100936e9027f6159680b9740839fa0a43d5fff5aa69",
-  "practice/python/hard/py-count-islands/solution.py": "307f4164687b4fb6dffcd6ee1e6cc3f6fb0a6f12c47242b355229ae9a55b5563"
+  "practice/python/hard/py-count-islands/solution.py": "307f4164687b4fb6dffcd6ee1e6cc3f6fb0a6f12c47242b355229ae9a55b5563",
+  "practice/sql/medium/medium-subquery-110/solution.sql": "74a642e6fb1d19d05c4833a7581ef50ac5f2a4d57dc3694e637be11f19a5085b",
+  "practice/sql/easy/easy-andor-001/solution.sql": "1acea9bba9c3b2a4ea38bfafe8d35af81abe7718d53a4d33596f73cf07edc893",
+  "practice/sql/easy/easy-coalesce-001/solution.sql": "93eaad86d4043d14fbf9c6424d486faa459dc82d39bf22569a4f5b9e5df1e250",
+  "practice/sql/easy/easy-groupby-005/solution.sql": "3607a1ee345b2c0e89f3f75121d7d050035ec8f7bcfe51c900ecfac89f6048f9",
+  "practice/sql/easy/easy-leftjoin-002/solution.sql": "630cd924c499fcd459646db03e9dc030c9f04707772870c4246607676f0607b8"
 }
