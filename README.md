@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**119** problems solved on [Xom Data](https://xomdata.com/practice).
+**120** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 10 | 11 | 10 | 0 | 31 |
+| Python | 10 | 11 | 10 | 1 | 32 |
 | SQL | 61 | 27 | 0 | 0 | 88 |
 
 **Recently solved**
 
+- [py-search-rotated](https://xomdata.com/practice/py-search-rotated) · Nightmare · 2026-08-27
 - [py-reverse-words](https://xomdata.com/practice/py-reverse-words) · Medium · 2026-08-26
 - [easy-leftjoin-002](https://xomdata.com/practice/easy-leftjoin-002) · Easy · 2026-08-25
 - [easy-groupby-005](https://xomdata.com/practice/easy-groupby-005) · Easy · 2026-08-25
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-count-islands](https://xomdata.com/practice/py-count-islands) · Hard · 2026-08-24
 - [py-climb-stairs](https://xomdata.com/practice/py-climb-stairs) · Hard · 2026-08-24
 - [py-anagram-groups](https://xomdata.com/practice/py-anagram-groups) · Hard · 2026-08-24
-- [py-spiral-order](https://xomdata.com/practice/py-spiral-order) · Hard · 2026-08-24
 
-_Synced 119 solutions · last update 2026-08-26_
+_Synced 120 solutions · last update 2026-08-27_
 
 <!-- xomdata:stats:end -->
 
