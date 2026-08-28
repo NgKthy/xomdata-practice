@@ -118,5 +118,8 @@
   "practice/sql/easy/easy-groupby-005/solution.sql": "3607a1ee345b2c0e89f3f75121d7d050035ec8f7bcfe51c900ecfac89f6048f9",
   "practice/sql/easy/easy-leftjoin-002/solution.sql": "630cd924c499fcd459646db03e9dc030c9f04707772870c4246607676f0607b8",
   "practice/python/medium/py-reverse-words/solution.py": "594349bbd791fb29efa739f4f3683f7e6fe64b3afae446ea2257a50b3e30c4f8",
-  "practice/python/nightmare/py-search-rotated/solution.py": "d1f58b5c54be9612c7efa5c21e0f6596d077c84d7f80026e34848924ae35d7e8"
+  "practice/python/nightmare/py-search-rotated/solution.py": "d1f58b5c54be9612c7efa5c21e0f6596d077c84d7f80026e34848924ae35d7e8",
+  "practice/python/easy/py-join-parts/solution.py": "8314a7dfa95e10e0712390458a43cc549432f91147bc31341c15903abdbbb141",
+  "practice/python/easy/py-late-fee/solution.py": "5ef08b5972c367ce7dd8c51580bd3f74b8604ca372a7dc3244bc2fa4c7bac707",
+  "practice/python/easy/py-leap-year/solution.py": "dc734ac1cea91b9bb69642d1209c659172f414bcd7a9ad8bbfafd3efbeef8e35"
 }
