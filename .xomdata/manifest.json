@@ -121,5 +121,7 @@
   "practice/python/nightmare/py-search-rotated/solution.py": "d1f58b5c54be9612c7efa5c21e0f6596d077c84d7f80026e34848924ae35d7e8",
   "practice/python/easy/py-join-parts/solution.py": "8314a7dfa95e10e0712390458a43cc549432f91147bc31341c15903abdbbb141",
   "practice/python/easy/py-late-fee/solution.py": "5ef08b5972c367ce7dd8c51580bd3f74b8604ca372a7dc3244bc2fa4c7bac707",
-  "practice/python/easy/py-leap-year/solution.py": "dc734ac1cea91b9bb69642d1209c659172f414bcd7a9ad8bbfafd3efbeef8e35"
+  "practice/python/easy/py-leap-year/solution.py": "dc734ac1cea91b9bb69642d1209c659172f414bcd7a9ad8bbfafd3efbeef8e35",
+  "practice/python/easy/py-abs-gap/solution.py": "8f6859d0ea0208b6672e3a402ec7c4eda4b199448f3a0020d8ff108a502b5cd3",
+  "practice/python/easy/py-all-passed/solution.py": "64ca33ae4968280f98447c014bd78c33038189eea51ebcc324abd3aa4afdca4e"
 }
