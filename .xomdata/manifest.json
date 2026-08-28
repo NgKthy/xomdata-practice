@@ -126,5 +126,7 @@
   "practice/python/easy/py-all-passed/solution.py": "64ca33ae4968280f98447c014bd78c33038189eea51ebcc324abd3aa4afdca4e",
   "practice/sql/easy/easy-orderby-003/solution.sql": "5c35cd9e99c0051e4b3428d2bbe8694f37d49a138e390a84f1e44626aacca193",
   "practice/sql/easy/easy-like-003/solution.sql": "d51036f2f42adbb2d03cf36cfa0e3a01b4c3beda9ed59ab7859ce39d6892eded",
-  "practice/sql/easy/easy-like-002/solution.sql": "b4cbd867dcf5a8d01c67852615c14bbdc2255d4805bcbfe127d8b25b4e11e8fa"
+  "practice/sql/easy/easy-like-002/solution.sql": "b4cbd867dcf5a8d01c67852615c14bbdc2255d4805bcbfe127d8b25b4e11e8fa",
+  "practice/sql/easy/easy-not-001/solution.sql": "cdb686c946af81561f020e90e687b92a7a24700e6f1512bcc91fb7cecdc60371",
+  "practice/sql/easy/easy-notlike-001/solution.sql": "69b41088ba9a8fd484dbe75b1c75b8e4bd50ac0a12fa3504d5469d1e1b37f78b"
 }
