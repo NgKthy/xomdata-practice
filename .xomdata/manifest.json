@@ -123,5 +123,8 @@
   "practice/python/easy/py-late-fee/solution.py": "5ef08b5972c367ce7dd8c51580bd3f74b8604ca372a7dc3244bc2fa4c7bac707",
   "practice/python/easy/py-leap-year/solution.py": "dc734ac1cea91b9bb69642d1209c659172f414bcd7a9ad8bbfafd3efbeef8e35",
   "practice/python/easy/py-abs-gap/solution.py": "8f6859d0ea0208b6672e3a402ec7c4eda4b199448f3a0020d8ff108a502b5cd3",
-  "practice/python/easy/py-all-passed/solution.py": "64ca33ae4968280f98447c014bd78c33038189eea51ebcc324abd3aa4afdca4e"
+  "practice/python/easy/py-all-passed/solution.py": "64ca33ae4968280f98447c014bd78c33038189eea51ebcc324abd3aa4afdca4e",
+  "practice/sql/easy/easy-orderby-003/solution.sql": "5c35cd9e99c0051e4b3428d2bbe8694f37d49a138e390a84f1e44626aacca193",
+  "practice/sql/easy/easy-like-003/solution.sql": "d51036f2f42adbb2d03cf36cfa0e3a01b4c3beda9ed59ab7859ce39d6892eded",
+  "practice/sql/easy/easy-like-002/solution.sql": "b4cbd867dcf5a8d01c67852615c14bbdc2255d4805bcbfe127d8b25b4e11e8fa"
 }
