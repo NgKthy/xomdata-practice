@@ -129,5 +129,6 @@
   "practice/sql/easy/easy-like-002/solution.sql": "b4cbd867dcf5a8d01c67852615c14bbdc2255d4805bcbfe127d8b25b4e11e8fa",
   "practice/sql/easy/easy-not-001/solution.sql": "cdb686c946af81561f020e90e687b92a7a24700e6f1512bcc91fb7cecdc60371",
   "practice/sql/easy/easy-notlike-001/solution.sql": "69b41088ba9a8fd484dbe75b1c75b8e4bd50ac0a12fa3504d5469d1e1b37f78b",
-  "practice/python/medium/py-duration-sum/solution.py": "6a5c5fd33ba1274f06dba4518d7031827f634b2cdfb33df4931787c5f54e5185"
+  "practice/python/medium/py-duration-sum/solution.py": "6a5c5fd33ba1274f06dba4518d7031827f634b2cdfb33df4931787c5f54e5185",
+  "practice/python/medium/py-running-max/solution.py": "3ff4b7cec14aa3a32468147f84b337738fa49cf6905b82f67602365b017bb939"
 }

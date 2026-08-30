@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**131** problems solved on [Xom Data](https://xomdata.com/practice).
+**132** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 15 | 12 | 10 | 1 | 38 |
+| Python | 15 | 13 | 10 | 1 | 39 |
 | SQL | 66 | 27 | 0 | 0 | 93 |
 
 **Recently solved**
 
+- [py-running-max](https://xomdata.com/practice/py-running-max) · Medium · 2026-08-30
 - [py-duration-sum](https://xomdata.com/practice/py-duration-sum) · Medium · 2026-08-29
 - [easy-notlike-001](https://xomdata.com/practice/easy-notlike-001) · Easy · 2026-08-28
 - [easy-not-001](https://xomdata.com/practice/easy-not-001) · Easy · 2026-08-28
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-all-passed](https://xomdata.com/practice/py-all-passed) · Easy · 2026-08-28
 - [py-abs-gap](https://xomdata.com/practice/py-abs-gap) · Easy · 2026-08-28
 - [py-leap-year](https://xomdata.com/practice/py-leap-year) · Easy · 2026-08-28
-- [py-late-fee](https://xomdata.com/practice/py-late-fee) · Easy · 2026-08-28
 
-_Synced 131 solutions · last update 2026-08-29_
+_Synced 132 solutions · last update 2026-08-30_
 
 <!-- xomdata:stats:end -->
 
