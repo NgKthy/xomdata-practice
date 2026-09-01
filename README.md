@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**133** problems solved on [Xom Data](https://xomdata.com/practice).
+**134** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 16 | 13 | 10 | 1 | 40 |
-| SQL | 66 | 27 | 0 | 0 | 93 |
+| SQL | 66 | 27 | 0 | 1 | 94 |
 
 **Recently solved**
 
+- [expert-final-multi-007](https://xomdata.com/practice/expert-final-multi-007) · Nightmare · 2026-09-01
 - [py-update-stock](https://xomdata.com/practice/py-update-stock) · Easy · 2026-08-31
 - [py-running-max](https://xomdata.com/practice/py-running-max) · Medium · 2026-08-30
 - [py-duration-sum](https://xomdata.com/practice/py-duration-sum) · Medium · 2026-08-29
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [easy-like-003](https://xomdata.com/practice/easy-like-003) · Easy · 2026-08-28
 - [easy-orderby-003](https://xomdata.com/practice/easy-orderby-003) · Easy · 2026-08-28
 - [py-all-passed](https://xomdata.com/practice/py-all-passed) · Easy · 2026-08-28
-- [py-abs-gap](https://xomdata.com/practice/py-abs-gap) · Easy · 2026-08-28
 
-_Synced 133 solutions · last update 2026-08-31_
+_Synced 134 solutions · last update 2026-09-01_
 
 <!-- xomdata:stats:end -->
 

@@ -131,5 +131,6 @@
   "practice/sql/easy/easy-notlike-001/solution.sql": "69b41088ba9a8fd484dbe75b1c75b8e4bd50ac0a12fa3504d5469d1e1b37f78b",
   "practice/python/medium/py-duration-sum/solution.py": "6a5c5fd33ba1274f06dba4518d7031827f634b2cdfb33df4931787c5f54e5185",
   "practice/python/medium/py-running-max/solution.py": "3ff4b7cec14aa3a32468147f84b337738fa49cf6905b82f67602365b017bb939",
-  "practice/python/easy/py-update-stock/solution.py": "8e46538d93d603c50544a77857c6f3ea8df8ad7c3c62c8843f9f182f8f34040b"
+  "practice/python/easy/py-update-stock/solution.py": "8e46538d93d603c50544a77857c6f3ea8df8ad7c3c62c8843f9f182f8f34040b",
+  "practice/sql/nightmare/expert-final-multi-007/solution.sql": "089d9c488c299f45f65947b3a8061d199fb1ede5c017d96480e2944faea24a2b"
 }
