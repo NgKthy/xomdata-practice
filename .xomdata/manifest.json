@@ -134,5 +134,6 @@
   "practice/python/easy/py-update-stock/solution.py": "8e46538d93d603c50544a77857c6f3ea8df8ad7c3c62c8843f9f182f8f34040b",
   "practice/sql/nightmare/expert-final-multi-007/solution.sql": "089d9c488c299f45f65947b3a8061d199fb1ede5c017d96480e2944faea24a2b",
   "practice/python/nightmare/py-max-sliding-window/solution.py": "2dac6eaf052d51aaa91a0b6db2d1ed8a02196b0fb6171c139fefbf3d21c39dad",
-  "practice/python/medium/py-median/solution.py": "5321df62f3758d33f624a20d76e8a21fc49a3c20a6bb76be4f2ee661c2ad8ccb"
+  "practice/python/medium/py-median/solution.py": "5321df62f3758d33f624a20d76e8a21fc49a3c20a6bb76be4f2ee661c2ad8ccb",
+  "practice/python/easy/py-safe-divide/solution.py": "223c3163eee3855545b9ed95480c89efc6d6296ace8a5fba36191f0f6a02f9b6"
 }
