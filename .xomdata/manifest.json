@@ -136,5 +136,7 @@
   "practice/python/nightmare/py-max-sliding-window/solution.py": "2dac6eaf052d51aaa91a0b6db2d1ed8a02196b0fb6171c139fefbf3d21c39dad",
   "practice/python/medium/py-median/solution.py": "5321df62f3758d33f624a20d76e8a21fc49a3c20a6bb76be4f2ee661c2ad8ccb",
   "practice/python/easy/py-safe-divide/solution.py": "223c3163eee3855545b9ed95480c89efc6d6296ace8a5fba36191f0f6a02f9b6",
-  "practice/sql/nightmare/nightmare-nextgreater-001/solution.sql": "0a483500e62e0c6e2d74cda1a52bc8d2d71edd91a54a054586add907e6ba14d8"
+  "practice/sql/nightmare/nightmare-nextgreater-001/solution.sql": "0a483500e62e0c6e2d74cda1a52bc8d2d71edd91a54a054586add907e6ba14d8",
+  "practice/sql/medium/medium-join-001/solution.sql": "285a425cb70c366c2fe7340f727f34fb1c67fc045a13896df531bf55780ccbea",
+  "practice/sql/medium/medium-leftjoin-031/solution.sql": "40e7522019d9be49a3299c5d4c08b1739a287d99363f1d6b23e12c97d85ecb92"
 }
