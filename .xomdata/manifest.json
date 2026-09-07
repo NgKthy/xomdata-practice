@@ -141,5 +141,8 @@
   "practice/sql/medium/medium-leftjoin-031/solution.sql": "40e7522019d9be49a3299c5d4c08b1739a287d99363f1d6b23e12c97d85ecb92",
   "practice/sql/medium/medium-groupby-027/solution.sql": "0be3bde2a904da97ef3459463181c658c082dd004580302c8d5202489ffb4d51",
   "practice/sql/medium/medium-having-019/solution.sql": "4439b803da3f0c92279f9c70f7594f4672dc309d0edeced80137b8cd85ab252c",
-  "practice/sql/medium/medium-case-124/solution.sql": "50b49c9689b3f6645180bc10fb8d571a024e057c1a8a3fbe3df21f3ba609bc99"
+  "practice/sql/medium/medium-case-124/solution.sql": "50b49c9689b3f6645180bc10fb8d571a024e057c1a8a3fbe3df21f3ba609bc99",
+  "practice/sql/medium/medium-subquery-103/solution.sql": "5542693294df0e6f8242bd651337f5c04d419588cdb2e7df0925cb98e19a1095",
+  "practice/sql/medium/medium-coalesce-040/solution.sql": "f4b6a191f426a2212d69de7e882a857eed39c3faf891155ccb02b6933675b3cc",
+  "practice/sql/medium/medium-datefunction-045/solution.sql": "aa02aa3520465adec7d4defe4698613fdca933e06ea4f1f1bb5b053b98d8ca3d"
 }

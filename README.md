@@ -4,15 +4,18 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**143** problems solved on [Xom Data](https://xomdata.com/practice).
+**146** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 17 | 14 | 10 | 2 | 43 |
-| SQL | 66 | 32 | 0 | 2 | 100 |
+| SQL | 66 | 35 | 0 | 2 | 103 |
 
 **Recently solved**
 
+- [medium-datefunction-045](https://xomdata.com/practice/medium-datefunction-045) · Medium · 2026-09-07
+- [medium-coalesce-040](https://xomdata.com/practice/medium-coalesce-040) · Medium · 2026-09-07
+- [medium-subquery-103](https://xomdata.com/practice/medium-subquery-103) · Medium · 2026-09-07
 - [medium-case-124](https://xomdata.com/practice/medium-case-124) · Medium · 2026-09-07
 - [medium-having-019](https://xomdata.com/practice/medium-having-019) · Medium · 2026-09-07
 - [medium-groupby-027](https://xomdata.com/practice/medium-groupby-027) · Medium · 2026-09-07
@@ -20,11 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [medium-join-001](https://xomdata.com/practice/medium-join-001) · Medium · 2026-09-06
 - [nightmare-nextgreater-001](https://xomdata.com/practice/nightmare-nextgreater-001) · Nightmare · 2026-09-05
 - [py-safe-divide](https://xomdata.com/practice/py-safe-divide) · Easy · 2026-09-04
-- [py-median](https://xomdata.com/practice/py-median) · Medium · 2026-09-03
-- [py-max-sliding-window](https://xomdata.com/practice/py-max-sliding-window) · Nightmare · 2026-09-02
-- [expert-final-multi-007](https://xomdata.com/practice/expert-final-multi-007) · Nightmare · 2026-09-01
 
-_Synced 143 solutions · last update 2026-09-07_
+_Synced 146 solutions · last update 2026-09-07_
 
 <!-- xomdata:stats:end -->
 
