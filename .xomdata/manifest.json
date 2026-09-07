@@ -138,5 +138,8 @@
   "practice/python/easy/py-safe-divide/solution.py": "223c3163eee3855545b9ed95480c89efc6d6296ace8a5fba36191f0f6a02f9b6",
   "practice/sql/nightmare/nightmare-nextgreater-001/solution.sql": "0a483500e62e0c6e2d74cda1a52bc8d2d71edd91a54a054586add907e6ba14d8",
   "practice/sql/medium/medium-join-001/solution.sql": "285a425cb70c366c2fe7340f727f34fb1c67fc045a13896df531bf55780ccbea",
-  "practice/sql/medium/medium-leftjoin-031/solution.sql": "40e7522019d9be49a3299c5d4c08b1739a287d99363f1d6b23e12c97d85ecb92"
+  "practice/sql/medium/medium-leftjoin-031/solution.sql": "40e7522019d9be49a3299c5d4c08b1739a287d99363f1d6b23e12c97d85ecb92",
+  "practice/sql/medium/medium-groupby-027/solution.sql": "0be3bde2a904da97ef3459463181c658c082dd004580302c8d5202489ffb4d51",
+  "practice/sql/medium/medium-having-019/solution.sql": "4439b803da3f0c92279f9c70f7594f4672dc309d0edeced80137b8cd85ab252c",
+  "practice/sql/medium/medium-case-124/solution.sql": "50b49c9689b3f6645180bc10fb8d571a024e057c1a8a3fbe3df21f3ba609bc99"
 }
