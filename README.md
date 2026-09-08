@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**154** problems solved on [Xom Data](https://xomdata.com/practice).
+**155** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 18 | 14 | 10 | 2 | 44 |
-| SQL | 66 | 35 | 7 | 2 | 110 |
+| SQL | 66 | 35 | 8 | 2 | 111 |
 
 **Recently solved**
 
+- [hard-yoy-001](https://xomdata.com/practice/hard-yoy-001) · Hard · 2026-09-08
 - [hard-recursive-001](https://xomdata.com/practice/hard-recursive-001) · Hard · 2026-09-08
 - [hard-percentile-001](https://xomdata.com/practice/hard-percentile-001) · Hard · 2026-09-08
 - [hard-pivot-001](https://xomdata.com/practice/hard-pivot-001) · Hard · 2026-09-08
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [hard-multicte-001](https://xomdata.com/practice/hard-multicte-001) · Hard · 2026-09-08
 - [py-digit-sum](https://xomdata.com/practice/py-digit-sum) · Easy · 2026-09-08
 - [medium-datefunction-045](https://xomdata.com/practice/medium-datefunction-045) · Medium · 2026-09-07
-- [medium-coalesce-040](https://xomdata.com/practice/medium-coalesce-040) · Medium · 2026-09-07
 
-_Synced 154 solutions · last update 2026-09-08_
+_Synced 155 solutions · last update 2026-09-08_
 
 <!-- xomdata:stats:end -->
 
