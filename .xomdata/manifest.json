@@ -150,5 +150,6 @@
   "practice/sql/hard/hard-session-001/solution.sql": "9b1a5e6c99db9cef614f9c78e5581136eb2231dc424e83cafed8fd4cf71ab4d2",
   "practice/sql/hard/hard-topn-001/solution.sql": "cced90a2e44cbd285d743e6aec68c9d265b459a01ada213714b6d051878008c0",
   "practice/sql/hard/hard-frame-001/solution.sql": "d9aa15448d334a261ce84f4343111f5f86d869f9f54c9f6d6d5e33b8b6b34950",
-  "practice/sql/hard/hard-pivot-001/solution.sql": "9843637258c535ee59974131b10896b6954bbeba922f1a5a56f294411b4651f6"
+  "practice/sql/hard/hard-pivot-001/solution.sql": "9843637258c535ee59974131b10896b6954bbeba922f1a5a56f294411b4651f6",
+  "practice/sql/hard/hard-percentile-001/solution.sql": "41218b0ebb9b10e512c875c2badff89d3b4f6551bef3345829f853ee20b7aa8b"
 }
