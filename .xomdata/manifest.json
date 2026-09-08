@@ -147,5 +147,8 @@
   "practice/sql/medium/medium-datefunction-045/solution.sql": "aa02aa3520465adec7d4defe4698613fdca933e06ea4f1f1bb5b053b98d8ca3d",
   "practice/python/easy/py-digit-sum/solution.py": "d1ce83b5a296fcae8295d5988562662b0018c3cac5ba279ccce876795f3a20a6",
   "practice/sql/hard/hard-multicte-001/solution.sql": "f13edee481431c64e6822778f574331937614480e3284f95f40456a490270328",
-  "practice/sql/hard/hard-session-001/solution.sql": "9b1a5e6c99db9cef614f9c78e5581136eb2231dc424e83cafed8fd4cf71ab4d2"
+  "practice/sql/hard/hard-session-001/solution.sql": "9b1a5e6c99db9cef614f9c78e5581136eb2231dc424e83cafed8fd4cf71ab4d2",
+  "practice/sql/hard/hard-topn-001/solution.sql": "cced90a2e44cbd285d743e6aec68c9d265b459a01ada213714b6d051878008c0",
+  "practice/sql/hard/hard-frame-001/solution.sql": "d9aa15448d334a261ce84f4343111f5f86d869f9f54c9f6d6d5e33b8b6b34950",
+  "practice/sql/hard/hard-pivot-001/solution.sql": "9843637258c535ee59974131b10896b6954bbeba922f1a5a56f294411b4651f6"
 }
