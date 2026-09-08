@@ -144,5 +144,6 @@
   "practice/sql/medium/medium-case-124/solution.sql": "50b49c9689b3f6645180bc10fb8d571a024e057c1a8a3fbe3df21f3ba609bc99",
   "practice/sql/medium/medium-subquery-103/solution.sql": "5542693294df0e6f8242bd651337f5c04d419588cdb2e7df0925cb98e19a1095",
   "practice/sql/medium/medium-coalesce-040/solution.sql": "f4b6a191f426a2212d69de7e882a857eed39c3faf891155ccb02b6933675b3cc",
-  "practice/sql/medium/medium-datefunction-045/solution.sql": "aa02aa3520465adec7d4defe4698613fdca933e06ea4f1f1bb5b053b98d8ca3d"
+  "practice/sql/medium/medium-datefunction-045/solution.sql": "aa02aa3520465adec7d4defe4698613fdca933e06ea4f1f1bb5b053b98d8ca3d",
+  "practice/python/easy/py-digit-sum/solution.py": "d1ce83b5a296fcae8295d5988562662b0018c3cac5ba279ccce876795f3a20a6"
 }
