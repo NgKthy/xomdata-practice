@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**164** problems solved on [Xom Data](https://xomdata.com/practice).
+**165** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 22 | 14 | 12 | 2 | 50 |
+| Python | 23 | 14 | 12 | 2 | 51 |
 | SQL | 71 | 27 | 14 | 2 | 114 |
 
 **Recently solved**
 
+- [py-has-duplicate](https://xomdata.com/practice/py-has-duplicate) · Easy · 2026-09-09
 - [py-container-water](https://xomdata.com/practice/py-container-water) · Hard · 2026-09-09
 - [py-coin-change-ways](https://xomdata.com/practice/py-coin-change-ways) · Hard · 2026-09-09
 - [py-zip-to-dict](https://xomdata.com/practice/py-zip-to-dict) · Easy · 2026-09-09
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [medium-agg-127](https://xomdata.com/practice/medium-agg-127) · Medium · 2026-09-09
 - [hard-cohort-001](https://xomdata.com/practice/hard-cohort-001) · Hard · 2026-09-09
 - [hard-gapfill-001](https://xomdata.com/practice/hard-gapfill-001) · Hard · 2026-09-09
-- [hard-yoy-001](https://xomdata.com/practice/hard-yoy-001) · Hard · 2026-09-08
 
-_Synced 173 solutions · last update 2026-09-09_
+_Synced 174 solutions · last update 2026-09-09_
 
 <!-- xomdata:stats:end -->
 
