@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**158** problems solved on [Xom Data](https://xomdata.com/practice).
+**164** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 18 | 14 | 10 | 2 | 44 |
+| Python | 22 | 14 | 12 | 2 | 50 |
 | SQL | 71 | 27 | 14 | 2 | 114 |
 
 **Recently solved**
 
+- [py-container-water](https://xomdata.com/practice/py-container-water) · Hard · 2026-09-09
+- [py-coin-change-ways](https://xomdata.com/practice/py-coin-change-ways) · Hard · 2026-09-09
+- [py-zip-to-dict](https://xomdata.com/practice/py-zip-to-dict) · Easy · 2026-09-09
+- [py-weekday-name](https://xomdata.com/practice/py-weekday-name) · Easy · 2026-09-09
+- [py-vnd-to-usd](https://xomdata.com/practice/py-vnd-to-usd) · Easy · 2026-09-09
+- [py-unique-order](https://xomdata.com/practice/py-unique-order) · Easy · 2026-09-09
 - [medium-agg-127](https://xomdata.com/practice/medium-agg-127) · Medium · 2026-09-09
 - [hard-cohort-001](https://xomdata.com/practice/hard-cohort-001) · Hard · 2026-09-09
 - [hard-gapfill-001](https://xomdata.com/practice/hard-gapfill-001) · Hard · 2026-09-09
 - [hard-yoy-001](https://xomdata.com/practice/hard-yoy-001) · Hard · 2026-09-08
-- [hard-recursive-001](https://xomdata.com/practice/hard-recursive-001) · Hard · 2026-09-08
-- [hard-percentile-001](https://xomdata.com/practice/hard-percentile-001) · Hard · 2026-09-08
-- [hard-pivot-001](https://xomdata.com/practice/hard-pivot-001) · Hard · 2026-09-08
-- [hard-frame-001](https://xomdata.com/practice/hard-frame-001) · Hard · 2026-09-08
-- [hard-topn-001](https://xomdata.com/practice/hard-topn-001) · Hard · 2026-09-08
-- [hard-session-001](https://xomdata.com/practice/hard-session-001) · Hard · 2026-09-08
 
-_Synced 167 solutions · last update 2026-09-09_
+_Synced 173 solutions · last update 2026-09-09_
 
 <!-- xomdata:stats:end -->
 

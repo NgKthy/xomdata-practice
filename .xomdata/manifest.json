@@ -165,5 +165,11 @@
   "practice/sql/hard/medium-cohort-008/solution.sql": "2a449bd2434ba1e966c65e1b5228b778e33935dabc2fb682394e96cd08a5e234",
   "practice/sql/hard/hard-gapfill-001/solution.sql": "79782beacf04e8e1835e847aef3870a772344c802d72fd1bf7946f2b6c2779e8",
   "practice/sql/hard/hard-cohort-001/solution.sql": "90766c9a659e564bef0ab99a2077ff16b35774be67820dc5396ac8ccc5673247",
-  "practice/sql/medium/medium-agg-127/solution.sql": "a6bb10dc7025410e8782826eb45f30c58a0356d2062c5be32789c1522125092b"
+  "practice/sql/medium/medium-agg-127/solution.sql": "a6bb10dc7025410e8782826eb45f30c58a0356d2062c5be32789c1522125092b",
+  "practice/python/easy/py-unique-order/solution.py": "5b521d4fbfa0f36787bbeb4ac0e976b1352b85f143821b13df44be62d1185874",
+  "practice/python/easy/py-vnd-to-usd/solution.py": "0841e258730a14f4c54e1a66d6c2e33d3d139ab9c4dfcb9a8c444f72e75927d2",
+  "practice/python/easy/py-weekday-name/solution.py": "51d3f23fa2959aa0072caa07b729638e38bdecb223be14cdff190b654bd0bc06",
+  "practice/python/easy/py-zip-to-dict/solution.py": "e0a3cc4336dd4c64c9b69d9277551f02befbc5e647dfadca9da30f8668646daa",
+  "practice/python/hard/py-coin-change-ways/solution.py": "148f4258face51bd4fab7200b81c3211b33d3e55c05818b4ce718ff1ec0dee43",
+  "practice/python/hard/py-container-water/solution.py": "8aac59f39b5094cedba500f7106c3b8ee2d494b8e7805641a2388743a6079916"
 }
