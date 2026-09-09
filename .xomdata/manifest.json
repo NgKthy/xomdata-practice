@@ -172,5 +172,7 @@
   "practice/python/easy/py-zip-to-dict/solution.py": "e0a3cc4336dd4c64c9b69d9277551f02befbc5e647dfadca9da30f8668646daa",
   "practice/python/hard/py-coin-change-ways/solution.py": "148f4258face51bd4fab7200b81c3211b33d3e55c05818b4ce718ff1ec0dee43",
   "practice/python/hard/py-container-water/solution.py": "8aac59f39b5094cedba500f7106c3b8ee2d494b8e7805641a2388743a6079916",
-  "practice/python/easy/py-has-duplicate/solution.py": "997ddabd18567bcb2ab9e156212f05dd231741be9f22eddfeb4f3e4c66d1baff"
+  "practice/python/easy/py-has-duplicate/solution.py": "997ddabd18567bcb2ab9e156212f05dd231741be9f22eddfeb4f3e4c66d1baff",
+  "practice/sql/easy/easy-round-001/solution.sql": "1359bd774240b9b0ff05a3c00ac40007dcb2867215a5b26123108ca63d2b4b62",
+  "practice/sql/easy/easy-string-001/solution.sql": "06dbeb28a0d0c50ed7c7105965cce06d29b23bbd543cac179fd67471ef1390f9"
 }
