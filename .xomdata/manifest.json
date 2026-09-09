@@ -153,5 +153,17 @@
   "practice/sql/hard/hard-pivot-001/solution.sql": "9843637258c535ee59974131b10896b6954bbeba922f1a5a56f294411b4651f6",
   "practice/sql/hard/hard-percentile-001/solution.sql": "41218b0ebb9b10e512c875c2badff89d3b4f6551bef3345829f853ee20b7aa8b",
   "practice/sql/hard/hard-recursive-001/solution.sql": "2e31b2d5cfda1d4067b143e804aa729dcc6247adc4b1cd0b590365d4fb1676d8",
-  "practice/sql/hard/hard-yoy-001/solution.sql": "0aaf0a4c8a5880c5bbfe3c666c55d3c9064b8c8c93d45d4d239328b6e5411ed7"
+  "practice/sql/hard/hard-yoy-001/solution.sql": "0aaf0a4c8a5880c5bbfe3c666c55d3c9064b8c8c93d45d4d239328b6e5411ed7",
+  "practice/sql/easy/medium-cohort-003/solution.sql": "69741e9344a197dfe5c95bb12a783c481919ab030c4466a701666e13af78e145",
+  "practice/sql/easy/medium-active-001/solution.sql": "e23ab14307dc7db40f5dd826b9eaf7a8a36ca6a747fff15e39445c4c0cea64d0",
+  "practice/sql/hard/medium-gap-002/solution.sql": "f60bf1be97fff71e611b7c5552a9b315f0d619c4945ed0bb221a13560b636e6a",
+  "practice/sql/easy/medium-active-004/solution.sql": "ff7cae94bed74a6e50f458fe16304484397ad9a76390b703bfeff1b14ff82f92",
+  "practice/sql/hard/medium-repeat-005/solution.sql": "e8fb1117416a7ea32c091891ca3ac3c986c6761cb605d2c3a5096e444666a786",
+  "practice/sql/hard/medium-repeat-004/solution.sql": "6f06cbca3bfb96e488318ff2ae600ed26dcace083663db56f56aa7c51d2546c6",
+  "practice/sql/easy/medium-churn-002/solution.sql": "5db871a883ccf660c95f4d384649c2c0225e4f8d2ea76ac8a95d037303161814",
+  "practice/sql/easy/medium-active-002/solution.sql": "d35831c3ef0dc4c01dbf885b90483d4cdb1aa72565a71f0e0bc3550dd97eafd2",
+  "practice/sql/hard/medium-cohort-008/solution.sql": "2a449bd2434ba1e966c65e1b5228b778e33935dabc2fb682394e96cd08a5e234",
+  "practice/sql/hard/hard-gapfill-001/solution.sql": "79782beacf04e8e1835e847aef3870a772344c802d72fd1bf7946f2b6c2779e8",
+  "practice/sql/hard/hard-cohort-001/solution.sql": "90766c9a659e564bef0ab99a2077ff16b35774be67820dc5396ac8ccc5673247",
+  "practice/sql/medium/medium-agg-127/solution.sql": "a6bb10dc7025410e8782826eb45f30c58a0356d2062c5be32789c1522125092b"
 }

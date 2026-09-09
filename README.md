@@ -4,15 +4,18 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**155** problems solved on [Xom Data](https://xomdata.com/practice).
+**158** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 18 | 14 | 10 | 2 | 44 |
-| SQL | 66 | 35 | 8 | 2 | 111 |
+| SQL | 71 | 27 | 14 | 2 | 114 |
 
 **Recently solved**
 
+- [medium-agg-127](https://xomdata.com/practice/medium-agg-127) · Medium · 2026-09-09
+- [hard-cohort-001](https://xomdata.com/practice/hard-cohort-001) · Hard · 2026-09-09
+- [hard-gapfill-001](https://xomdata.com/practice/hard-gapfill-001) · Hard · 2026-09-09
 - [hard-yoy-001](https://xomdata.com/practice/hard-yoy-001) · Hard · 2026-09-08
 - [hard-recursive-001](https://xomdata.com/practice/hard-recursive-001) · Hard · 2026-09-08
 - [hard-percentile-001](https://xomdata.com/practice/hard-percentile-001) · Hard · 2026-09-08
@@ -20,11 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [hard-frame-001](https://xomdata.com/practice/hard-frame-001) · Hard · 2026-09-08
 - [hard-topn-001](https://xomdata.com/practice/hard-topn-001) · Hard · 2026-09-08
 - [hard-session-001](https://xomdata.com/practice/hard-session-001) · Hard · 2026-09-08
-- [hard-multicte-001](https://xomdata.com/practice/hard-multicte-001) · Hard · 2026-09-08
-- [py-digit-sum](https://xomdata.com/practice/py-digit-sum) · Easy · 2026-09-08
-- [medium-datefunction-045](https://xomdata.com/practice/medium-datefunction-045) · Medium · 2026-09-07
 
-_Synced 155 solutions · last update 2026-09-08_
+_Synced 167 solutions · last update 2026-09-09_
 
 <!-- xomdata:stats:end -->
 
