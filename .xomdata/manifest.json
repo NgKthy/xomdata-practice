@@ -174,5 +174,6 @@
   "practice/python/hard/py-container-water/solution.py": "8aac59f39b5094cedba500f7106c3b8ee2d494b8e7805641a2388743a6079916",
   "practice/python/easy/py-has-duplicate/solution.py": "997ddabd18567bcb2ab9e156212f05dd231741be9f22eddfeb4f3e4c66d1baff",
   "practice/sql/easy/easy-round-001/solution.sql": "1359bd774240b9b0ff05a3c00ac40007dcb2867215a5b26123108ca63d2b4b62",
-  "practice/sql/easy/easy-string-001/solution.sql": "06dbeb28a0d0c50ed7c7105965cce06d29b23bbd543cac179fd67471ef1390f9"
+  "practice/sql/easy/easy-string-001/solution.sql": "06dbeb28a0d0c50ed7c7105965cce06d29b23bbd543cac179fd67471ef1390f9",
+  "practice/python/nightmare/py-longest-palindrome-substr/solution.py": "276398345b09781ccef7e38f20ea4fd5529ec535d175d82636feb61ed99536f9"
 }
