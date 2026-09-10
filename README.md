@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**168** problems solved on [Xom Data](https://xomdata.com/practice).
+**175** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 23 | 14 | 12 | 3 | 52 |
+| Python | 30 | 14 | 12 | 3 | 59 |
 | SQL | 73 | 27 | 14 | 2 | 116 |
 
 **Recently solved**
 
+- [py-tip-amount](https://xomdata.com/practice/py-tip-amount) · Easy · 2026-09-10
+- [py-time-format](https://xomdata.com/practice/py-time-format) · Easy · 2026-09-10
+- [py-ticket-price](https://xomdata.com/practice/py-ticket-price) · Easy · 2026-09-10
+- [py-thousand-separator](https://xomdata.com/practice/py-thousand-separator) · Easy · 2026-09-10
+- [py-swap-pair](https://xomdata.com/practice/py-swap-pair) · Easy · 2026-09-10
+- [py-sum-to-n](https://xomdata.com/practice/py-sum-to-n) · Easy · 2026-09-10
+- [py-string-to-int-sum](https://xomdata.com/practice/py-string-to-int-sum) · Easy · 2026-09-10
 - [py-longest-palindrome-substr](https://xomdata.com/practice/py-longest-palindrome-substr) · Nightmare · 2026-09-10
 - [easy-string-001](https://xomdata.com/practice/easy-string-001) · Easy · 2026-09-09
 - [easy-round-001](https://xomdata.com/practice/easy-round-001) · Easy · 2026-09-09
-- [py-has-duplicate](https://xomdata.com/practice/py-has-duplicate) · Easy · 2026-09-09
-- [py-container-water](https://xomdata.com/practice/py-container-water) · Hard · 2026-09-09
-- [py-coin-change-ways](https://xomdata.com/practice/py-coin-change-ways) · Hard · 2026-09-09
-- [py-zip-to-dict](https://xomdata.com/practice/py-zip-to-dict) · Easy · 2026-09-09
-- [py-weekday-name](https://xomdata.com/practice/py-weekday-name) · Easy · 2026-09-09
-- [py-vnd-to-usd](https://xomdata.com/practice/py-vnd-to-usd) · Easy · 2026-09-09
-- [py-unique-order](https://xomdata.com/practice/py-unique-order) · Easy · 2026-09-09
 
-_Synced 177 solutions · last update 2026-09-10_
+_Synced 184 solutions · last update 2026-09-10_
 
 <!-- xomdata:stats:end -->
 

@@ -175,5 +175,12 @@
   "practice/python/easy/py-has-duplicate/solution.py": "997ddabd18567bcb2ab9e156212f05dd231741be9f22eddfeb4f3e4c66d1baff",
   "practice/sql/easy/easy-round-001/solution.sql": "1359bd774240b9b0ff05a3c00ac40007dcb2867215a5b26123108ca63d2b4b62",
   "practice/sql/easy/easy-string-001/solution.sql": "06dbeb28a0d0c50ed7c7105965cce06d29b23bbd543cac179fd67471ef1390f9",
-  "practice/python/nightmare/py-longest-palindrome-substr/solution.py": "276398345b09781ccef7e38f20ea4fd5529ec535d175d82636feb61ed99536f9"
+  "practice/python/nightmare/py-longest-palindrome-substr/solution.py": "276398345b09781ccef7e38f20ea4fd5529ec535d175d82636feb61ed99536f9",
+  "practice/python/easy/py-string-to-int-sum/solution.py": "ccf5f1f855becbbab80d3d9fb2ecf583a4392d081e25fd84afbc3c7da7f7478a",
+  "practice/python/easy/py-sum-to-n/solution.py": "bc62f839acb1fae3c831fed06e25a4ca258e639946c5189c9e4e3767f31927bd",
+  "practice/python/easy/py-swap-pair/solution.py": "2e5d24595f9d6bc5cf7436475c7d0b65762093a7e4be2b559a63c58cddf0c79b",
+  "practice/python/easy/py-thousand-separator/solution.py": "0533698879d076a8cf10693acdc98f2a42f25ef8864792c30fbfb707487ec4d5",
+  "practice/python/easy/py-ticket-price/solution.py": "c94904d984f18c840ed57f910851a94007ff54e302c39df19d2d4987d7560dde",
+  "practice/python/easy/py-time-format/solution.py": "5c3d77e958401a480dc3595e2e503c4a1d58cac8b9d1dcf48a0a4afbfa39f94e",
+  "practice/python/easy/py-tip-amount/solution.py": "b9fca81982da691c9465a778f2a82cc4e630ec7033405b6b13ce4c5766e2fe64"
 }
