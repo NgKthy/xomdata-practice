@@ -182,5 +182,12 @@
   "practice/python/easy/py-thousand-separator/solution.py": "0533698879d076a8cf10693acdc98f2a42f25ef8864792c30fbfb707487ec4d5",
   "practice/python/easy/py-ticket-price/solution.py": "c94904d984f18c840ed57f910851a94007ff54e302c39df19d2d4987d7560dde",
   "practice/python/easy/py-time-format/solution.py": "5c3d77e958401a480dc3595e2e503c4a1d58cac8b9d1dcf48a0a4afbfa39f94e",
-  "practice/python/easy/py-tip-amount/solution.py": "b9fca81982da691c9465a778f2a82cc4e630ec7033405b6b13ce4c5766e2fe64"
+  "practice/python/easy/py-tip-amount/solution.py": "b9fca81982da691c9465a778f2a82cc4e630ec7033405b6b13ce4c5766e2fe64",
+  "practice/python/easy/py-shipping-fee/solution.py": "a548ca0b912c9594abde8c190e530bb675ae9beb1a96392bde2699844b2ee881",
+  "practice/python/easy/py-slugify-space/solution.py": "a07b338a0af9177e161e4ba9f476c3373d8f0892f2c02521cd6fd39942b31feb",
+  "practice/python/easy/py-sort-prices-desc/solution.py": "e6e92c55931def18ef373f2932bb5d958483a725ab400579048b2cc4e757f859",
+  "practice/sql/easy/easy-like-004/solution.sql": "38212c4f1e9d6576ae4fcde39a1a7036a8955af7fb4a058613e838ac51c0544e",
+  "practice/sql/easy/easy-lower-001/solution.sql": "c03d6109d06cdfdae459cccc856f08cc5ed3625f1b634c9d1b1a91294d8258f7",
+  "practice/sql/easy/easy-max-002/solution.sql": "796bb7d7b5039c42f56cfbe583f432e676ff912335aaf1c0edf7193874d338bd",
+  "practice/sql/easy/easy-min-001/solution.sql": "7ad7b61ec68c22f3fcf023a3a5ff7050c8176d44825a15e411e2f7e52f0afb9f"
 }

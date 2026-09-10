@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**175** problems solved on [Xom Data](https://xomdata.com/practice).
+**182** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 30 | 14 | 12 | 3 | 59 |
-| SQL | 73 | 27 | 14 | 2 | 116 |
+| Python | 33 | 14 | 12 | 3 | 62 |
+| SQL | 77 | 27 | 14 | 2 | 120 |
 
 **Recently solved**
 
+- [easy-min-001](https://xomdata.com/practice/easy-min-001) · Easy · 2026-09-10
+- [easy-max-002](https://xomdata.com/practice/easy-max-002) · Easy · 2026-09-10
+- [easy-lower-001](https://xomdata.com/practice/easy-lower-001) · Easy · 2026-09-10
+- [easy-like-004](https://xomdata.com/practice/easy-like-004) · Easy · 2026-09-10
+- [py-sort-prices-desc](https://xomdata.com/practice/py-sort-prices-desc) · Easy · 2026-09-10
+- [py-slugify-space](https://xomdata.com/practice/py-slugify-space) · Easy · 2026-09-10
+- [py-shipping-fee](https://xomdata.com/practice/py-shipping-fee) · Easy · 2026-09-10
 - [py-tip-amount](https://xomdata.com/practice/py-tip-amount) · Easy · 2026-09-10
 - [py-time-format](https://xomdata.com/practice/py-time-format) · Easy · 2026-09-10
 - [py-ticket-price](https://xomdata.com/practice/py-ticket-price) · Easy · 2026-09-10
-- [py-thousand-separator](https://xomdata.com/practice/py-thousand-separator) · Easy · 2026-09-10
-- [py-swap-pair](https://xomdata.com/practice/py-swap-pair) · Easy · 2026-09-10
-- [py-sum-to-n](https://xomdata.com/practice/py-sum-to-n) · Easy · 2026-09-10
-- [py-string-to-int-sum](https://xomdata.com/practice/py-string-to-int-sum) · Easy · 2026-09-10
-- [py-longest-palindrome-substr](https://xomdata.com/practice/py-longest-palindrome-substr) · Nightmare · 2026-09-10
-- [easy-string-001](https://xomdata.com/practice/easy-string-001) · Easy · 2026-09-09
-- [easy-round-001](https://xomdata.com/practice/easy-round-001) · Easy · 2026-09-09
 
-_Synced 184 solutions · last update 2026-09-10_
+_Synced 191 solutions · last update 2026-09-10_
 
 <!-- xomdata:stats:end -->
 
