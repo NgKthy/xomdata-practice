@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**182** problems solved on [Xom Data](https://xomdata.com/practice).
+**183** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 33 | 14 | 12 | 3 | 62 |
-| SQL | 77 | 27 | 14 | 2 | 120 |
+| SQL | 77 | 28 | 14 | 2 | 121 |
 
 **Recently solved**
 
+- [medium-union-175](https://xomdata.com/practice/medium-union-175) · Medium · 2026-09-11
 - [easy-min-001](https://xomdata.com/practice/easy-min-001) · Easy · 2026-09-10
 - [easy-max-002](https://xomdata.com/practice/easy-max-002) · Easy · 2026-09-10
 - [easy-lower-001](https://xomdata.com/practice/easy-lower-001) · Easy · 2026-09-10
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-shipping-fee](https://xomdata.com/practice/py-shipping-fee) · Easy · 2026-09-10
 - [py-tip-amount](https://xomdata.com/practice/py-tip-amount) · Easy · 2026-09-10
 - [py-time-format](https://xomdata.com/practice/py-time-format) · Easy · 2026-09-10
-- [py-ticket-price](https://xomdata.com/practice/py-ticket-price) · Easy · 2026-09-10
 
-_Synced 191 solutions · last update 2026-09-10_
+_Synced 192 solutions · last update 2026-09-11_
 
 <!-- xomdata:stats:end -->
 

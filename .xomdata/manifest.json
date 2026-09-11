@@ -189,5 +189,6 @@
   "practice/sql/easy/easy-like-004/solution.sql": "38212c4f1e9d6576ae4fcde39a1a7036a8955af7fb4a058613e838ac51c0544e",
   "practice/sql/easy/easy-lower-001/solution.sql": "c03d6109d06cdfdae459cccc856f08cc5ed3625f1b634c9d1b1a91294d8258f7",
   "practice/sql/easy/easy-max-002/solution.sql": "796bb7d7b5039c42f56cfbe583f432e676ff912335aaf1c0edf7193874d338bd",
-  "practice/sql/easy/easy-min-001/solution.sql": "7ad7b61ec68c22f3fcf023a3a5ff7050c8176d44825a15e411e2f7e52f0afb9f"
+  "practice/sql/easy/easy-min-001/solution.sql": "7ad7b61ec68c22f3fcf023a3a5ff7050c8176d44825a15e411e2f7e52f0afb9f",
+  "practice/sql/medium/medium-union-175/solution.sql": "afa8c2c730ff9313d71cba06ee718ea366eb896c6335bd7db5fe82ec2c40ef5e"
 }
