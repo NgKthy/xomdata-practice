@@ -200,5 +200,15 @@
   "practice/python/easy/pd-filter-two-conditions/solution.py": "e0c2759d84349a1313cfa7ae44edf0f007e2d99bc72232138a07730ed0183253",
   "practice/python/easy/pd-filter-isin/solution.py": "e48c05ddf61a4c6e673e34a113cc14e906c491f4db27de736861f9bf0d148538",
   "practice/python/easy/pd-sort-top-n/solution.py": "794bdec37de12f7887645a8de0aab4badf48b76255b61c5d430d097ebb23bfdf",
-  "practice/python/easy/pd-count-matching/solution.py": "22e655c9c64d5826c60b1f497a19012c9d3ec1db19fba3b15db97e6a7625414f"
+  "practice/python/easy/pd-count-matching/solution.py": "22e655c9c64d5826c60b1f497a19012c9d3ec1db19fba3b15db97e6a7625414f",
+  "practice/python/easy/pd-missing-count/solution.py": "918a35bb048a1d7b94d9d3f8f81351330117db695c375e56da8d56b6891ee43d",
+  "practice/python/easy/pd-fill-missing/solution.py": "aa7d17fe9960a7108d100e001f4c233d2593e02aa0581210333a13ae59480fda",
+  "practice/python/easy/pd-drop-missing-rows/solution.py": "94f1fedc24b82406606adb2814aaf43dfac16c62a80c258ac57c138dd79c7541",
+  "practice/python/easy/pd-keep-latest/solution.py": "c552e5b874541d64d44eb18f3c50839367a116a623a3d6f155ff101071a9f029",
+  "practice/python/easy/pd-clean-text/solution.py": "e87d0c7a4ee274795a8aac535e2096bb8af86ea934383d4f1814efd4a4478c14",
+  "practice/python/easy/pd-revenue-column/solution.py": "c009181f2e2f053eb87c8b90242d449434de4eab00fce13028c6d8e3ba21fce1",
+  "practice/python/easy/pd-map-labels/solution.py": "8322428e5ed4fc3682d59c109de846de93d029f33035cfd59bf1036a6048616f",
+  "practice/python/easy/pd-flag-threshold/solution.py": "d35b56c21ec2b95cd35c0130f0b708880a35a6acfeeb863f573aa94d1c535d08",
+  "practice/python/easy/pd-round-column/solution.py": "28d42981207d0f8173d576878df9a5459a9ad00cdc5c5e5204d41f1fc82cb7af",
+  "practice/python/easy/pd-text-to-number/solution.py": "a1800f8056042f0b2723856845e3f2a58cc34e02c4947fc9061b5492fed98c96"
 }

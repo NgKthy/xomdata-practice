@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**193** problems solved on [Xom Data](https://xomdata.com/practice).
+**203** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 43 | 14 | 12 | 3 | 72 |
+| Python | 53 | 14 | 12 | 3 | 82 |
 | SQL | 77 | 28 | 14 | 2 | 121 |
 
 **Recently solved**
 
-- [pd-count-matching](https://xomdata.com/practice/pd-count-matching) · Easy · 2026-09-12
-- [pd-sort-top-n](https://xomdata.com/practice/pd-sort-top-n) · Easy · 2026-09-12
-- [pd-filter-isin](https://xomdata.com/practice/pd-filter-isin) · Easy · 2026-09-12
-- [pd-filter-two-conditions](https://xomdata.com/practice/pd-filter-two-conditions) · Easy · 2026-09-12
-- [pd-filter-threshold](https://xomdata.com/practice/pd-filter-threshold) · Easy · 2026-09-12
-- [pd-drop-column](https://xomdata.com/practice/pd-drop-column) · Easy · 2026-09-12
-- [pd-rename-columns](https://xomdata.com/practice/pd-rename-columns) · Easy · 2026-09-12
-- [pd-pick-columns](https://xomdata.com/practice/pd-pick-columns) · Easy · 2026-09-12
-- [pd-first-rows](https://xomdata.com/practice/pd-first-rows) · Easy · 2026-09-12
-- [pd-table-size](https://xomdata.com/practice/pd-table-size) · Easy · 2026-09-12
+- [pd-text-to-number](https://xomdata.com/practice/pd-text-to-number) · Easy · 2026-09-12
+- [pd-round-column](https://xomdata.com/practice/pd-round-column) · Easy · 2026-09-12
+- [pd-flag-threshold](https://xomdata.com/practice/pd-flag-threshold) · Easy · 2026-09-12
+- [pd-map-labels](https://xomdata.com/practice/pd-map-labels) · Easy · 2026-09-12
+- [pd-revenue-column](https://xomdata.com/practice/pd-revenue-column) · Easy · 2026-09-12
+- [pd-clean-text](https://xomdata.com/practice/pd-clean-text) · Easy · 2026-09-12
+- [pd-keep-latest](https://xomdata.com/practice/pd-keep-latest) · Easy · 2026-09-12
+- [pd-drop-missing-rows](https://xomdata.com/practice/pd-drop-missing-rows) · Easy · 2026-09-12
+- [pd-fill-missing](https://xomdata.com/practice/pd-fill-missing) · Easy · 2026-09-12
+- [pd-missing-count](https://xomdata.com/practice/pd-missing-count) · Easy · 2026-09-12
 
-_Synced 202 solutions · last update 2026-09-12_
+_Synced 212 solutions · last update 2026-09-12_
 
 <!-- xomdata:stats:end -->
 
