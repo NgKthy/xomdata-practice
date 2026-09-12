@@ -210,5 +210,12 @@
   "practice/python/easy/pd-map-labels/solution.py": "8322428e5ed4fc3682d59c109de846de93d029f33035cfd59bf1036a6048616f",
   "practice/python/easy/pd-flag-threshold/solution.py": "d35b56c21ec2b95cd35c0130f0b708880a35a6acfeeb863f573aa94d1c535d08",
   "practice/python/easy/pd-round-column/solution.py": "28d42981207d0f8173d576878df9a5459a9ad00cdc5c5e5204d41f1fc82cb7af",
-  "practice/python/easy/pd-text-to-number/solution.py": "a1800f8056042f0b2723856845e3f2a58cc34e02c4947fc9061b5492fed98c96"
+  "practice/python/easy/pd-text-to-number/solution.py": "a1800f8056042f0b2723856845e3f2a58cc34e02c4947fc9061b5492fed98c96",
+  "practice/python/easy/pd-group-sum/solution.py": "99f507473fe58ce26090db658cc8701899a5cb64adaad71b811372d371ad535c",
+  "practice/python/easy/pd-group-mean-round/solution.py": "78d50bc30b96bb1e3f11676f3afab9fbc7fbcb3201d188e55d3430c7c458d0a8",
+  "practice/python/easy/pd-group-count/solution.py": "bf25e1ccc19e69a60468db7f59e9dbd5608f9a0621bf2146ac539f132767d6ec",
+  "practice/python/easy/pd-top-group/solution.py": "a76e847d95f02abc52e4c7708f2250fe4cd518351082aa1686e33824ef51de46",
+  "practice/python/easy/pd-group-agg-table/solution.py": "4ad6c8f50641d3fccbe0f4f8d5e02e4cfcd6b35b9eab5661580acf82019f6054",
+  "practice/python/easy/pd-merge-lookup/solution.py": "dff1b07b331b81b560a7f14a0c39c54909e8c882fb8eab0bfbf3f3ff1390cbbf",
+  "practice/python/easy/pd-concat-months/solution.py": "dba7f32865efdb64ca91adb110b1ed44db4c4b9dc63bf3fd146a31e52f6e6e14"
 }
