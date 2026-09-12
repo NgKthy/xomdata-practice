@@ -190,5 +190,15 @@
   "practice/sql/easy/easy-lower-001/solution.sql": "c03d6109d06cdfdae459cccc856f08cc5ed3625f1b634c9d1b1a91294d8258f7",
   "practice/sql/easy/easy-max-002/solution.sql": "796bb7d7b5039c42f56cfbe583f432e676ff912335aaf1c0edf7193874d338bd",
   "practice/sql/easy/easy-min-001/solution.sql": "7ad7b61ec68c22f3fcf023a3a5ff7050c8176d44825a15e411e2f7e52f0afb9f",
-  "practice/sql/medium/medium-union-175/solution.sql": "afa8c2c730ff9313d71cba06ee718ea366eb896c6335bd7db5fe82ec2c40ef5e"
+  "practice/sql/medium/medium-union-175/solution.sql": "afa8c2c730ff9313d71cba06ee718ea366eb896c6335bd7db5fe82ec2c40ef5e",
+  "practice/python/easy/pd-table-size/solution.py": "6045cf1447e13e83270892bbbf605b4ec20effcf07fccf3d328990b3edf7e077",
+  "practice/python/easy/pd-first-rows/solution.py": "e97f9040a560edd9da22a340b135e987b9e21611f20774ec839af453f9622b16",
+  "practice/python/easy/pd-pick-columns/solution.py": "aa1815401a8cf0aa6b526b1c1f8f5838ab491a25b03db10481413cfdfe2d1c76",
+  "practice/python/easy/pd-rename-columns/solution.py": "ee4989c7959dfab3a17f17f3f83404f6872c568a430d6d7e97e4f262f4e9e3a3",
+  "practice/python/easy/pd-drop-column/solution.py": "e9af1c436b652a277c03ceb23b86e6b99be6c062c670a4f2950ac8c6880c07dc",
+  "practice/python/easy/pd-filter-threshold/solution.py": "e9697eda73e30dd8bdebd1c5227d9285222ca4fe58a4e0350ca4afaa6e2085c6",
+  "practice/python/easy/pd-filter-two-conditions/solution.py": "e0c2759d84349a1313cfa7ae44edf0f007e2d99bc72232138a07730ed0183253",
+  "practice/python/easy/pd-filter-isin/solution.py": "e48c05ddf61a4c6e673e34a113cc14e906c491f4db27de736861f9bf0d148538",
+  "practice/python/easy/pd-sort-top-n/solution.py": "794bdec37de12f7887645a8de0aab4badf48b76255b61c5d430d097ebb23bfdf",
+  "practice/python/easy/pd-count-matching/solution.py": "22e655c9c64d5826c60b1f497a19012c9d3ec1db19fba3b15db97e6a7625414f"
 }
