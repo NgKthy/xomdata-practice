@@ -217,5 +217,9 @@
   "practice/python/easy/pd-top-group/solution.py": "a76e847d95f02abc52e4c7708f2250fe4cd518351082aa1686e33824ef51de46",
   "practice/python/easy/pd-group-agg-table/solution.py": "4ad6c8f50641d3fccbe0f4f8d5e02e4cfcd6b35b9eab5661580acf82019f6054",
   "practice/python/easy/pd-merge-lookup/solution.py": "dff1b07b331b81b560a7f14a0c39c54909e8c882fb8eab0bfbf3f3ff1390cbbf",
-  "practice/python/easy/pd-concat-months/solution.py": "dba7f32865efdb64ca91adb110b1ed44db4c4b9dc63bf3fd146a31e52f6e6e14"
+  "practice/python/easy/pd-concat-months/solution.py": "dba7f32865efdb64ca91adb110b1ed44db4c4b9dc63bf3fd146a31e52f6e6e14",
+  "practice/sql/medium/medium-topn-001/solution.sql": "45b09b40c9e18f21416abc89359694fca8dcfec30633c85fd4838455a8bce9c4",
+  "practice/sql/medium/medium-topn-002/solution.sql": "97dfca17087da115ecc21814b374dad9f3eda7d4b671e147937ffbdd141d04aa",
+  "practice/sql/medium/medium-topn-003/solution.sql": "86852aadabe579a98a668e08979c3d446990e5899457212abea8ad8d7e4038d1",
+  "practice/sql/medium/medium-topn-004/solution.sql": "484a5182c3fe6d96fb452d5f783bd020d015137622d7e5da5a2b3300d0adf868"
 }
