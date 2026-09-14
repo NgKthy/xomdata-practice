@@ -227,5 +227,8 @@
   "practice/sql/nightmare/nightmare-twa-001/solution.sql": "2e7ad708c8fc6ede6ca03716ea72ed30b897b8808e8f88f561e301a728af5b17",
   "practice/python/nightmare/py-find-duplicate/solution.py": "e21c949b92bbe18de346e4db3f6e2684ad3593afda005a4ceb9f62ccde8a762c",
   "practice/python/nightmare/py-find-min-rotated/solution.py": "58fb9dd15d6aaf9aa75734f8289a1b62ae4e3637995a2313a01d348d6949b6fb",
-  "practice/python/nightmare/py-first-missing-positive/solution.py": "091c03a27a4b734dc0373d13d86ae738acd1659d7a4deefabdf104c20ac8a602"
+  "practice/python/nightmare/py-first-missing-positive/solution.py": "091c03a27a4b734dc0373d13d86ae738acd1659d7a4deefabdf104c20ac8a602",
+  "practice/sql/hard/hard-monetary-001/solution.sql": "d77fdcee57d50fcd4fa67e85f67591b9295d19b38a531887d4c9844a2d05943c",
+  "practice/sql/hard/hard-cohort-003/solution.sql": "b39872640f82cf42e09bca4c01e45eedd9ebb5008816d82fc227304b1ef1b5f7",
+  "practice/sql/hard/hard-churn-002/solution.sql": "e18f025d0f8e5f3a62cdbedfb1a090b276eae8eb74998adf05eb600918001da9"
 }
