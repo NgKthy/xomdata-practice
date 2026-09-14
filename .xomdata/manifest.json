@@ -230,5 +230,8 @@
   "practice/python/nightmare/py-first-missing-positive/solution.py": "091c03a27a4b734dc0373d13d86ae738acd1659d7a4deefabdf104c20ac8a602",
   "practice/sql/hard/hard-monetary-001/solution.sql": "d77fdcee57d50fcd4fa67e85f67591b9295d19b38a531887d4c9844a2d05943c",
   "practice/sql/hard/hard-cohort-003/solution.sql": "b39872640f82cf42e09bca4c01e45eedd9ebb5008816d82fc227304b1ef1b5f7",
-  "practice/sql/hard/hard-churn-002/solution.sql": "e18f025d0f8e5f3a62cdbedfb1a090b276eae8eb74998adf05eb600918001da9"
+  "practice/sql/hard/hard-churn-002/solution.sql": "e18f025d0f8e5f3a62cdbedfb1a090b276eae8eb74998adf05eb600918001da9",
+  "practice/python/easy/pd-month-column/solution.py": "85e1ede9cc2cad9b63aea4b527b5cb6cdaa7a1804864bc375d936e942c3cc7b0",
+  "practice/python/easy/pd-filter-date-range/solution.py": "e363e59d1170b853ef6f8ae2210a0029c71caddaf4d7645de922b1284fe03e93",
+  "practice/python/easy/pd-report-table/solution.py": "2dc0d871bb55254bd7c75f42b1c110382b2fccc2ad4f71e089a63adfe8c70a15"
 }
