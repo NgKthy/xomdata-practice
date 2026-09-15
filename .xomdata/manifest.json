@@ -233,5 +233,10 @@
   "practice/sql/hard/hard-churn-002/solution.sql": "e18f025d0f8e5f3a62cdbedfb1a090b276eae8eb74998adf05eb600918001da9",
   "practice/python/easy/pd-month-column/solution.py": "85e1ede9cc2cad9b63aea4b527b5cb6cdaa7a1804864bc375d936e942c3cc7b0",
   "practice/python/easy/pd-filter-date-range/solution.py": "e363e59d1170b853ef6f8ae2210a0029c71caddaf4d7645de922b1284fe03e93",
-  "practice/python/easy/pd-report-table/solution.py": "2dc0d871bb55254bd7c75f42b1c110382b2fccc2ad4f71e089a63adfe8c70a15"
+  "practice/python/easy/pd-report-table/solution.py": "2dc0d871bb55254bd7c75f42b1c110382b2fccc2ad4f71e089a63adfe8c70a15",
+  "practice/sql/nightmare/nightmare-lis-001/solution.sql": "346d9533ecf00791f3d73e2086b016d2643b0cc22e3ff54677400582743c8c08",
+  "practice/sql/nightmare/nightmare-histogram-001/solution.sql": "2216f8c636f002ec3aa9f27b701ec5d7fec5909a8239fbfaffc86a398315a528",
+  "practice/sql/nightmare/nightmare-trapwater-001/solution.sql": "b0a886520fc93fbb7e35fad268108d8812ad404fc752e6b0632fa23d70eb82b9",
+  "practice/sql/nightmare/nightmare-floyd-001/solution.sql": "a5ebcce63527f52a06876352e8ad43b230fb3d0a7c8b3497e11694dba97d3298",
+  "practice/sql/nightmare/nightmare-slidingmedian-001/solution.sql": "b6cb0c159f2533ee1d48368e15223a74394b21bf3a8912bcf19fd036486e3ea5"
 }
