@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**231** problems solved on [Xom Data](https://xomdata.com/practice).
+**232** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 63 | 14 | 12 | 6 | 95 |
+| Python | 64 | 14 | 12 | 6 | 96 |
 | SQL | 77 | 32 | 17 | 10 | 136 |
 
 **Recently solved**
 
+- [py-price-lookup](https://xomdata.com/practice/py-price-lookup) · Easy · 2026-09-16
 - [nightmare-slidingmedian-001](https://xomdata.com/practice/nightmare-slidingmedian-001) · Nightmare · 2026-09-15
 - [nightmare-floyd-001](https://xomdata.com/practice/nightmare-floyd-001) · Nightmare · 2026-09-15
 - [nightmare-trapwater-001](https://xomdata.com/practice/nightmare-trapwater-001) · Nightmare · 2026-09-15
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [pd-filter-date-range](https://xomdata.com/practice/pd-filter-date-range) · Easy · 2026-09-14
 - [pd-month-column](https://xomdata.com/practice/pd-month-column) · Easy · 2026-09-14
 - [hard-churn-002](https://xomdata.com/practice/hard-churn-002) · Hard · 2026-09-14
-- [hard-cohort-003](https://xomdata.com/practice/hard-cohort-003) · Hard · 2026-09-14
 
-_Synced 240 solutions · last update 2026-09-15_
+_Synced 241 solutions · last update 2026-09-16_
 
 <!-- xomdata:stats:end -->
 
