@@ -239,5 +239,8 @@
   "practice/sql/nightmare/nightmare-trapwater-001/solution.sql": "b0a886520fc93fbb7e35fad268108d8812ad404fc752e6b0632fa23d70eb82b9",
   "practice/sql/nightmare/nightmare-floyd-001/solution.sql": "a5ebcce63527f52a06876352e8ad43b230fb3d0a7c8b3497e11694dba97d3298",
   "practice/sql/nightmare/nightmare-slidingmedian-001/solution.sql": "b6cb0c159f2533ee1d48368e15223a74394b21bf3a8912bcf19fd036486e3ea5",
-  "practice/python/easy/py-price-lookup/solution.py": "e2b1e50ea661694839db4da25df2f62091e2f36982116dfc0cf5a15859c5b5dc"
+  "practice/python/easy/py-price-lookup/solution.py": "e2b1e50ea661694839db4da25df2f62091e2f36982116dfc0cf5a15859c5b5dc",
+  "practice/python/medium/py-join-records/solution.py": "ffd729dca49f3996105d76ac30b457b8aa6a013cd1fa87f0abd0be0f5ee084c0",
+  "practice/python/medium/py-longest-run/solution.py": "4cba9c0f5ab9921b50d73acc3a8654171cab27b9c1110018440985b2b538be71",
+  "practice/python/medium/py-longest-streak/solution.py": "7a83f8d5d322d1989f66c9987182ffab025d3f8e730e05dff8349fd4881e544e"
 }
