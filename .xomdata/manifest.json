@@ -242,5 +242,11 @@
   "practice/python/easy/py-price-lookup/solution.py": "e2b1e50ea661694839db4da25df2f62091e2f36982116dfc0cf5a15859c5b5dc",
   "practice/python/medium/py-join-records/solution.py": "ffd729dca49f3996105d76ac30b457b8aa6a013cd1fa87f0abd0be0f5ee084c0",
   "practice/python/medium/py-longest-run/solution.py": "4cba9c0f5ab9921b50d73acc3a8654171cab27b9c1110018440985b2b538be71",
-  "practice/python/medium/py-longest-streak/solution.py": "7a83f8d5d322d1989f66c9987182ffab025d3f8e730e05dff8349fd4881e544e"
+  "practice/python/medium/py-longest-streak/solution.py": "7a83f8d5d322d1989f66c9987182ffab025d3f8e730e05dff8349fd4881e544e",
+  "practice/python/nightmare/py-next-permutation/solution.py": "52d7f01f34ed261c9226df85b2c4fc78110eda3057d12aba1be6d9e7800b9fdc",
+  "practice/python/nightmare/py-num-islands/solution.py": "7841e1f83df3f71f74af8a85577e8a9679e9ab7e6c50ec79cf153c15384c5f54",
+  "practice/python/nightmare/py-partition-equal-sum/solution.py": "ae304f98aba9e559ad1e43edce9984435c891b8b08a0e4b0e8211249a44bb43a",
+  "practice/python/hard/py-rotate-matrix/solution.py": "6025468b6685353ebaac72d5285086b8cb971c6903575a449c60316e86bd095e",
+  "practice/python/hard/py-subset-sum/solution.py": "be54f5688c6ff00a3f4c46bff98797d39dbc2b07fe3388200e6e4dc9706c729e",
+  "practice/python/hard/py-move-zeros/solution.py": "72a590c4123bc7a085164b8f6810e99d64f890a8f075573f0338adb5ccb6e24b"
 }
