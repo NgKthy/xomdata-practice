@@ -256,5 +256,8 @@
   "practice/python/medium/py-password-strength/solution.py": "c486c8ec7b7855da788ee685871bb7a90a63105d3b7f0277b23c2f766d440c9e",
   "practice/python/medium/py-priority-order/solution.py": "46e7123b39104c91ff0369cce5ba6548edfd875e390d2d2afac7392368c4ad20",
   "practice/python/hard/py-first-non-repeating/solution.py": "9f7018c77fc422b9bb385cd76d9530771a8953f1d09aa420af2c4fe21aa5cdef",
-  "practice/python/hard/py-longest-common-prefix/solution.py": "f31ed2e9ceb30321cfb6faf6f904de89338066283ec45a546c1c7e830ee1460c"
+  "practice/python/hard/py-longest-common-prefix/solution.py": "f31ed2e9ceb30321cfb6faf6f904de89338066283ec45a546c1c7e830ee1460c",
+  "practice/python/nightmare/py-count-primes/solution.py": "7ad00fe93d4cad2f1243cec1e52e1b7ce7a089c4ab494bacb35c9767588cae3d",
+  "practice/python/nightmare/py-course-schedule/solution.py": "443e25ee59c19827ddb460896a67a4c6b2934213bd891c1f6b2790f51f6a336d",
+  "practice/python/nightmare/py-daily-temperatures/solution.py": "3c9d3a06a0b618fe9532d87361a3d03cd15604ed69ff7b307981e330a684596c"
 }
