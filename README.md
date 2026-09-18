@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**248** problems solved on [Xom Data](https://xomdata.com/practice).
+**249** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 68 | 19 | 16 | 9 | 112 |
+| Python | 68 | 19 | 17 | 9 | 113 |
 | SQL | 77 | 32 | 17 | 10 | 136 |
 
 **Recently solved**
 
+- [py-longest-common-prefix](https://xomdata.com/practice/py-longest-common-prefix) · Hard · 2026-09-18
 - [py-first-non-repeating](https://xomdata.com/practice/py-first-non-repeating) · Hard · 2026-09-18
 - [py-priority-order](https://xomdata.com/practice/py-priority-order) · Medium · 2026-09-18
 - [py-password-strength](https://xomdata.com/practice/py-password-strength) · Medium · 2026-09-18
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-csv-files-only](https://xomdata.com/practice/py-csv-files-only) · Easy · 2026-09-18
 - [py-move-zeros](https://xomdata.com/practice/py-move-zeros) · Hard · 2026-09-17
 - [py-subset-sum](https://xomdata.com/practice/py-subset-sum) · Hard · 2026-09-17
-- [py-rotate-matrix](https://xomdata.com/practice/py-rotate-matrix) · Hard · 2026-09-17
 
-_Synced 257 solutions · last update 2026-09-18_
+_Synced 258 solutions · last update 2026-09-18_
 
 <!-- xomdata:stats:end -->
 

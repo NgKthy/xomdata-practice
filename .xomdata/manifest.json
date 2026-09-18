@@ -255,5 +255,6 @@
   "practice/python/easy/py-drop-value/solution.py": "db59419a0d8ceecb653b99d1d32a4927788c8f1265f29cb4f28b842cce1e1da0",
   "practice/python/medium/py-password-strength/solution.py": "c486c8ec7b7855da788ee685871bb7a90a63105d3b7f0277b23c2f766d440c9e",
   "practice/python/medium/py-priority-order/solution.py": "46e7123b39104c91ff0369cce5ba6548edfd875e390d2d2afac7392368c4ad20",
-  "practice/python/hard/py-first-non-repeating/solution.py": "9f7018c77fc422b9bb385cd76d9530771a8953f1d09aa420af2c4fe21aa5cdef"
+  "practice/python/hard/py-first-non-repeating/solution.py": "9f7018c77fc422b9bb385cd76d9530771a8953f1d09aa420af2c4fe21aa5cdef",
+  "practice/python/hard/py-longest-common-prefix/solution.py": "f31ed2e9ceb30321cfb6faf6f904de89338066283ec45a546c1c7e830ee1460c"
 }
