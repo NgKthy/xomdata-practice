@@ -252,5 +252,8 @@
   "practice/python/easy/py-csv-files-only/solution.py": "7e267fdd7f635ab2949fb08e6e9cd1f88c9afbf928359a9f68e271dade2c40ed",
   "practice/python/easy/py-discount-tier/solution.py": "919c641cb6c5bff5455adf80b4af830e78cdd88a5af1a828794d751c805394e5",
   "practice/python/easy/py-double-list/solution.py": "9d042851b69466c1b20468b64cf7b978b82b55688d3032b2e4207d8be746a795",
-  "practice/python/easy/py-drop-value/solution.py": "db59419a0d8ceecb653b99d1d32a4927788c8f1265f29cb4f28b842cce1e1da0"
+  "practice/python/easy/py-drop-value/solution.py": "db59419a0d8ceecb653b99d1d32a4927788c8f1265f29cb4f28b842cce1e1da0",
+  "practice/python/medium/py-password-strength/solution.py": "c486c8ec7b7855da788ee685871bb7a90a63105d3b7f0277b23c2f766d440c9e",
+  "practice/python/medium/py-priority-order/solution.py": "46e7123b39104c91ff0369cce5ba6548edfd875e390d2d2afac7392368c4ad20",
+  "practice/python/hard/py-first-non-repeating/solution.py": "9f7018c77fc422b9bb385cd76d9530771a8953f1d09aa420af2c4fe21aa5cdef"
 }

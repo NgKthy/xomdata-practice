@@ -4,15 +4,18 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**245** problems solved on [Xom Data](https://xomdata.com/practice).
+**248** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 68 | 17 | 15 | 9 | 109 |
+| Python | 68 | 19 | 16 | 9 | 112 |
 | SQL | 77 | 32 | 17 | 10 | 136 |
 
 **Recently solved**
 
+- [py-first-non-repeating](https://xomdata.com/practice/py-first-non-repeating) · Hard · 2026-09-18
+- [py-priority-order](https://xomdata.com/practice/py-priority-order) · Medium · 2026-09-18
+- [py-password-strength](https://xomdata.com/practice/py-password-strength) · Medium · 2026-09-18
 - [py-drop-value](https://xomdata.com/practice/py-drop-value) · Easy · 2026-09-18
 - [py-double-list](https://xomdata.com/practice/py-double-list) · Easy · 2026-09-18
 - [py-discount-tier](https://xomdata.com/practice/py-discount-tier) · Easy · 2026-09-18
@@ -20,11 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-move-zeros](https://xomdata.com/practice/py-move-zeros) · Hard · 2026-09-17
 - [py-subset-sum](https://xomdata.com/practice/py-subset-sum) · Hard · 2026-09-17
 - [py-rotate-matrix](https://xomdata.com/practice/py-rotate-matrix) · Hard · 2026-09-17
-- [py-partition-equal-sum](https://xomdata.com/practice/py-partition-equal-sum) · Nightmare · 2026-09-17
-- [py-num-islands](https://xomdata.com/practice/py-num-islands) · Nightmare · 2026-09-17
-- [py-next-permutation](https://xomdata.com/practice/py-next-permutation) · Nightmare · 2026-09-17
 
-_Synced 254 solutions · last update 2026-09-18_
+_Synced 257 solutions · last update 2026-09-18_
 
 <!-- xomdata:stats:end -->
 
