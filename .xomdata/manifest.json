@@ -262,5 +262,8 @@
   "practice/python/nightmare/py-daily-temperatures/solution.py": "3c9d3a06a0b618fe9532d87361a3d03cd15604ed69ff7b307981e330a684596c",
   "practice/sql/easy/easy-leftjoin-003/solution.sql": "67bbc4da0fe76a9a6c715d0a3d1f53afcbdd8093e14d48da44d3389ed7723b4f",
   "practice/sql/easy/easy-length-001/solution.sql": "77c12952234d65674d85ebf1c2c76ba89befdeb2214de8a175985bfafbfcf759",
-  "practice/sql/easy/easy-replace-001/solution.sql": "2e1a3a0e2cd36a485e902dacf288d02f507da0e4f24f9cdebf198625c2ce6ae9"
+  "practice/sql/easy/easy-replace-001/solution.sql": "2e1a3a0e2cd36a485e902dacf288d02f507da0e4f24f9cdebf198625c2ce6ae9",
+  "practice/sql/medium/medium-casewhen-047/solution.sql": "f7edfe3b4c9ceadb160ea517490efa8bd1cc00a08f6c194d5e7727b2c26f789f",
+  "practice/sql/medium/medium-join-029/solution.sql": "fd10894c1b0fc010cec9537b3df34c2ab7a1a217f6bfa01580ad97894ca28779",
+  "practice/sql/medium/medium-join-076/solution.sql": "97eaeebe8ce032f70b0df10bf7791dece9a21ec1bc0de594893a571e98a2c4ee"
 }
