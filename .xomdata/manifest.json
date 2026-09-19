@@ -265,5 +265,12 @@
   "practice/sql/easy/easy-replace-001/solution.sql": "2e1a3a0e2cd36a485e902dacf288d02f507da0e4f24f9cdebf198625c2ce6ae9",
   "practice/sql/medium/medium-casewhen-047/solution.sql": "f7edfe3b4c9ceadb160ea517490efa8bd1cc00a08f6c194d5e7727b2c26f789f",
   "practice/sql/medium/medium-join-029/solution.sql": "fd10894c1b0fc010cec9537b3df34c2ab7a1a217f6bfa01580ad97894ca28779",
-  "practice/sql/medium/medium-join-076/solution.sql": "97eaeebe8ce032f70b0df10bf7791dece9a21ec1bc0de594893a571e98a2c4ee"
+  "practice/sql/medium/medium-join-076/solution.sql": "97eaeebe8ce032f70b0df10bf7791dece9a21ec1bc0de594893a571e98a2c4ee",
+  "practice/sql/hard/hard-funnel-001/solution.sql": "1255b8eaf69f7c22303cd81e5622bcee40a99b9e6357cf434da1c9bead8a9f9b",
+  "practice/sql/hard/hard-rfm-004/solution.sql": "5bd5529f223f1497a860daf7b03c0ff95738c2d72ccbd2523b9a53fec976ff7d",
+  "practice/sql/hard/hard-retention-004/solution.sql": "bc5057fd1c2643464e375b757001926b2b7648c44a38995aca2a7d149934da8b",
+  "practice/sql/nightmare/nightmare-network-001/solution.sql": "05b5a366d8b8c1e23b95172a0734d4ab315c505d1a1c165b0cc036094282fd0f",
+  "practice/sql/nightmare/nightmare-pipeline-001/solution.sql": "43b4071d7ea2853182a414f6262333c7b3586094d99980507414efcdc8b968cd",
+  "practice/sql/nightmare/nightmare-treemap-001/solution.sql": "538c9c537acecbbb2ad41ce4f9156dfd7847eb783bcc4f9d7038bce71003a367",
+  "practice/sql/nightmare/nightmare-knapsack-001/solution.sql": "6fff3d06329aeb0cdda8b7267a7d853b7a66c92dc7d49ccc2bad21c142a5a04b"
 }
