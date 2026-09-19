@@ -4,15 +4,18 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**252** problems solved on [Xom Data](https://xomdata.com/practice).
+**255** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 68 | 19 | 17 | 12 | 116 |
-| SQL | 77 | 32 | 17 | 10 | 136 |
+| SQL | 80 | 32 | 17 | 10 | 139 |
 
 **Recently solved**
 
+- [easy-replace-001](https://xomdata.com/practice/easy-replace-001) · Easy · 2026-09-19
+- [easy-length-001](https://xomdata.com/practice/easy-length-001) · Easy · 2026-09-19
+- [easy-leftjoin-003](https://xomdata.com/practice/easy-leftjoin-003) · Easy · 2026-09-19
 - [py-daily-temperatures](https://xomdata.com/practice/py-daily-temperatures) · Nightmare · 2026-09-18
 - [py-course-schedule](https://xomdata.com/practice/py-course-schedule) · Nightmare · 2026-09-18
 - [py-count-primes](https://xomdata.com/practice/py-count-primes) · Nightmare · 2026-09-18
@@ -20,11 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-first-non-repeating](https://xomdata.com/practice/py-first-non-repeating) · Hard · 2026-09-18
 - [py-priority-order](https://xomdata.com/practice/py-priority-order) · Medium · 2026-09-18
 - [py-password-strength](https://xomdata.com/practice/py-password-strength) · Medium · 2026-09-18
-- [py-drop-value](https://xomdata.com/practice/py-drop-value) · Easy · 2026-09-18
-- [py-double-list](https://xomdata.com/practice/py-double-list) · Easy · 2026-09-18
-- [py-discount-tier](https://xomdata.com/practice/py-discount-tier) · Easy · 2026-09-18
 
-_Synced 261 solutions · last update 2026-09-18_
+_Synced 264 solutions · last update 2026-09-19_
 
 <!-- xomdata:stats:end -->
 

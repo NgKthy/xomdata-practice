@@ -259,5 +259,8 @@
   "practice/python/hard/py-longest-common-prefix/solution.py": "f31ed2e9ceb30321cfb6faf6f904de89338066283ec45a546c1c7e830ee1460c",
   "practice/python/nightmare/py-count-primes/solution.py": "7ad00fe93d4cad2f1243cec1e52e1b7ce7a089c4ab494bacb35c9767588cae3d",
   "practice/python/nightmare/py-course-schedule/solution.py": "443e25ee59c19827ddb460896a67a4c6b2934213bd891c1f6b2790f51f6a336d",
-  "practice/python/nightmare/py-daily-temperatures/solution.py": "3c9d3a06a0b618fe9532d87361a3d03cd15604ed69ff7b307981e330a684596c"
+  "practice/python/nightmare/py-daily-temperatures/solution.py": "3c9d3a06a0b618fe9532d87361a3d03cd15604ed69ff7b307981e330a684596c",
+  "practice/sql/easy/easy-leftjoin-003/solution.sql": "67bbc4da0fe76a9a6c715d0a3d1f53afcbdd8093e14d48da44d3389ed7723b4f",
+  "practice/sql/easy/easy-length-001/solution.sql": "77c12952234d65674d85ebf1c2c76ba89befdeb2214de8a175985bfafbfcf759",
+  "practice/sql/easy/easy-replace-001/solution.sql": "2e1a3a0e2cd36a485e902dacf288d02f507da0e4f24f9cdebf198625c2ce6ae9"
 }
