@@ -272,5 +272,8 @@
   "practice/sql/nightmare/nightmare-network-001/solution.sql": "05b5a366d8b8c1e23b95172a0734d4ab315c505d1a1c165b0cc036094282fd0f",
   "practice/sql/nightmare/nightmare-pipeline-001/solution.sql": "43b4071d7ea2853182a414f6262333c7b3586094d99980507414efcdc8b968cd",
   "practice/sql/nightmare/nightmare-treemap-001/solution.sql": "538c9c537acecbbb2ad41ce4f9156dfd7847eb783bcc4f9d7038bce71003a367",
-  "practice/sql/nightmare/nightmare-knapsack-001/solution.sql": "6fff3d06329aeb0cdda8b7267a7d853b7a66c92dc7d49ccc2bad21c142a5a04b"
+  "practice/sql/nightmare/nightmare-knapsack-001/solution.sql": "6fff3d06329aeb0cdda8b7267a7d853b7a66c92dc7d49ccc2bad21c142a5a04b",
+  "practice/python/medium/py-window-max-sum/solution.py": "1b076abf8c421042ebf03830fd2ddf9cc0c1a5bfd82309c22f0bf89a3be08029",
+  "practice/python/medium/py-word-wrap/solution.py": "82ba2246abc2f6f23d7107aaa5ba0e3b08e24d1aca57f4321f6325d89140157f",
+  "practice/python/nightmare/py-3sum-count/solution.py": "6bb7675c778f1fd22c6962d2d264bf93c35a7cf241bd6041097a2181e760132a"
 }
