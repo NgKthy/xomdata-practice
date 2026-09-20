@@ -278,5 +278,10 @@
   "practice/python/nightmare/py-3sum-count/solution.py": "6bb7675c778f1fd22c6962d2d264bf93c35a7cf241bd6041097a2181e760132a",
   "practice/python/hard/py-max-product-subarray/solution.py": "d07fa990d7a4dad9032b87d40716192408d640ea1cecc5f12bd6fce6b6ad535e",
   "practice/python/hard/py-decode-string/solution.py": "209315c9f56571a763866ee48422d4698697f45c67793ba056f98b7548279bec",
-  "practice/python/hard/py-pascal-triangle/solution.py": "27fefa6a8085e16b293ec3e7d101639fbd1938d3e6437588716a5feb3e37f2be"
+  "practice/python/hard/py-pascal-triangle/solution.py": "27fefa6a8085e16b293ec3e7d101639fbd1938d3e6437588716a5feb3e37f2be",
+  "practice/python/easy/py-overtime-pay/solution.py": "c46a83d732964d86551a33e5877ec151712335d274b8cc8774b9865b492d2962",
+  "practice/python/easy/py-pad-order-id/solution.py": "c92b04f9e25f0649d439bceda56e1797db58ccbfa77df97b1a3b957c0a5dbf8f",
+  "practice/python/medium/py-insert-position/solution.py": "49a72cf184cef0999e18192cf1aa69e097f4ec801426851b1b67cbf3ca47dd19",
+  "practice/python/medium/py-int-to-binary/solution.py": "4ce01b151baabb83cc12704b98224a894adc7ee0f7ddfcb22e86ac10335ee953",
+  "practice/python/medium/py-inventory-merge/solution.py": "f2e7c9974919bd4d1e3c8605e824006acbfc17fa8574732fc1f787a72d5b5702"
 }
