@@ -275,5 +275,8 @@
   "practice/sql/nightmare/nightmare-knapsack-001/solution.sql": "6fff3d06329aeb0cdda8b7267a7d853b7a66c92dc7d49ccc2bad21c142a5a04b",
   "practice/python/medium/py-window-max-sum/solution.py": "1b076abf8c421042ebf03830fd2ddf9cc0c1a5bfd82309c22f0bf89a3be08029",
   "practice/python/medium/py-word-wrap/solution.py": "82ba2246abc2f6f23d7107aaa5ba0e3b08e24d1aca57f4321f6325d89140157f",
-  "practice/python/nightmare/py-3sum-count/solution.py": "6bb7675c778f1fd22c6962d2d264bf93c35a7cf241bd6041097a2181e760132a"
+  "practice/python/nightmare/py-3sum-count/solution.py": "6bb7675c778f1fd22c6962d2d264bf93c35a7cf241bd6041097a2181e760132a",
+  "practice/python/hard/py-max-product-subarray/solution.py": "d07fa990d7a4dad9032b87d40716192408d640ea1cecc5f12bd6fce6b6ad535e",
+  "practice/python/hard/py-decode-string/solution.py": "209315c9f56571a763866ee48422d4698697f45c67793ba056f98b7548279bec",
+  "practice/python/hard/py-pascal-triangle/solution.py": "27fefa6a8085e16b293ec3e7d101639fbd1938d3e6437588716a5feb3e37f2be"
 }

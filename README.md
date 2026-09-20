@@ -4,15 +4,18 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**268** problems solved on [Xom Data](https://xomdata.com/practice).
+**271** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 68 | 21 | 17 | 13 | 119 |
+| Python | 68 | 21 | 20 | 13 | 122 |
 | SQL | 80 | 35 | 20 | 14 | 149 |
 
 **Recently solved**
 
+- [py-pascal-triangle](https://xomdata.com/practice/py-pascal-triangle) · Hard · 2026-09-20
+- [py-decode-string](https://xomdata.com/practice/py-decode-string) · Hard · 2026-09-20
+- [py-max-product-subarray](https://xomdata.com/practice/py-max-product-subarray) · Hard · 2026-09-20
 - [py-3sum-count](https://xomdata.com/practice/py-3sum-count) · Nightmare · 2026-09-20
 - [py-word-wrap](https://xomdata.com/practice/py-word-wrap) · Medium · 2026-09-20
 - [py-window-max-sum](https://xomdata.com/practice/py-window-max-sum) · Medium · 2026-09-20
@@ -20,11 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [nightmare-treemap-001](https://xomdata.com/practice/nightmare-treemap-001) · Nightmare · 2026-09-19
 - [nightmare-pipeline-001](https://xomdata.com/practice/nightmare-pipeline-001) · Nightmare · 2026-09-19
 - [nightmare-network-001](https://xomdata.com/practice/nightmare-network-001) · Nightmare · 2026-09-19
-- [hard-retention-004](https://xomdata.com/practice/hard-retention-004) · Hard · 2026-09-19
-- [hard-rfm-004](https://xomdata.com/practice/hard-rfm-004) · Hard · 2026-09-19
-- [hard-funnel-001](https://xomdata.com/practice/hard-funnel-001) · Hard · 2026-09-19
 
-_Synced 277 solutions · last update 2026-09-20_
+_Synced 280 solutions · last update 2026-09-20_
 
 <!-- xomdata:stats:end -->
 
