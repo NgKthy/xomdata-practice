@@ -4,15 +4,18 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**282** problems solved on [Xom Data](https://xomdata.com/practice).
+**285** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 70 | 27 | 20 | 16 | 133 |
+| Python | 73 | 27 | 20 | 16 | 136 |
 | SQL | 80 | 35 | 20 | 14 | 149 |
 
 **Recently solved**
 
+- [py-count-value](https://xomdata.com/practice/py-count-value) · Easy · 2026-09-21
+- [py-count-even](https://xomdata.com/practice/py-count-even) · Easy · 2026-09-21
+- [py-count-digits](https://xomdata.com/practice/py-count-digits) · Easy · 2026-09-21
 - [py-missing-number](https://xomdata.com/practice/py-missing-number) · Medium · 2026-09-21
 - [py-gcd](https://xomdata.com/practice/py-gcd) · Medium · 2026-09-21
 - [py-average-per-group](https://xomdata.com/practice/py-average-per-group) · Medium · 2026-09-21
@@ -20,11 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-gray-code](https://xomdata.com/practice/py-gray-code) · Nightmare · 2026-09-21
 - [py-gas-station](https://xomdata.com/practice/py-gas-station) · Nightmare · 2026-09-21
 - [py-inventory-merge](https://xomdata.com/practice/py-inventory-merge) · Medium · 2026-09-20
-- [py-int-to-binary](https://xomdata.com/practice/py-int-to-binary) · Medium · 2026-09-20
-- [py-insert-position](https://xomdata.com/practice/py-insert-position) · Medium · 2026-09-20
-- [py-pad-order-id](https://xomdata.com/practice/py-pad-order-id) · Easy · 2026-09-20
 
-_Synced 291 solutions · last update 2026-09-21_
+_Synced 294 solutions · last update 2026-09-21_
 
 <!-- xomdata:stats:end -->
 
