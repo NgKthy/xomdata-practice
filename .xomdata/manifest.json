@@ -292,5 +292,8 @@
   "practice/python/medium/py-missing-number/solution.py": "9c1d901d06bd394b5852c66ba5056ae9c371971f7aa15ba7b5d8e314e845b1c5",
   "practice/python/easy/py-count-digits/solution.py": "0991cb942d9a4e5a5a83fbdc0caaa0d3df5f753b94ea57516bc4ed2a5f3082f3",
   "practice/python/easy/py-count-even/solution.py": "94bd78d4acf109bb65fdff8fb9d9b10c24b7911a897f0bb04e82b8287dda51df",
-  "practice/python/easy/py-count-value/solution.py": "9800f17c9f7a69a0689b7f98a0c30849c0a0f31b19dc144a90552890904ac738"
+  "practice/python/easy/py-count-value/solution.py": "9800f17c9f7a69a0689b7f98a0c30849c0a0f31b19dc144a90552890904ac738",
+  "practice/python/easy/py-has-prefix/solution.py": "dba5616c63c96e19ea5981e7db9a9a8f2b65d09aa6974622a68d6d7636a0f166",
+  "practice/python/easy/py-in-range/solution.py": "01a1b266f0af6180c453dfacc21e8449fc3dd617eef54323f836575dc903d3f7",
+  "practice/python/easy/py-in-stock/solution.py": "fb03222370973a9484a4239e899728fa7c708def7129f7619503f3b9a8189482"
 }
