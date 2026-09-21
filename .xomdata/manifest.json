@@ -286,5 +286,8 @@
   "practice/python/medium/py-inventory-merge/solution.py": "f2e7c9974919bd4d1e3c8605e824006acbfc17fa8574732fc1f787a72d5b5702",
   "practice/python/nightmare/py-gas-station/solution.py": "3bd9848be324dde731bb4b33c46b59ce67f2e2168a31eb83d7d50470879bb5ae",
   "practice/python/nightmare/py-gray-code/solution.py": "fb9b6d5fc735a905c2715f15349e6780db526772b22d1fb58900226c1d6c5d07",
-  "practice/python/nightmare/py-happy-number/solution.py": "32db5d8977716e5edad8042c9fe0ef6baa2e1b6ae7b33562dcc7ae41fe1c7e0f"
+  "practice/python/nightmare/py-happy-number/solution.py": "32db5d8977716e5edad8042c9fe0ef6baa2e1b6ae7b33562dcc7ae41fe1c7e0f",
+  "practice/python/medium/py-average-per-group/solution.py": "939f4e44dca30e5328783b051334705a74344ee069a7167f71a2a6d203aad346",
+  "practice/python/medium/py-gcd/solution.py": "3cfaf06a1947810cc264196c6f5938496ba5a9f417bf10cc9ef7f8d0c20ce2c0",
+  "practice/python/medium/py-missing-number/solution.py": "9c1d901d06bd394b5852c66ba5056ae9c371971f7aa15ba7b5d8e314e845b1c5"
 }
