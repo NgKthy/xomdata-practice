@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**289** problems solved on [Xom Data](https://xomdata.com/practice).
+**297** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 76 | 27 | 20 | 16 | 139 |
-| SQL | 80 | 35 | 21 | 14 | 150 |
+| SQL | 88 | 35 | 21 | 14 | 158 |
 
 **Recently solved**
 
+- [easy-trim-001](https://xomdata.com/practice/easy-trim-001) · Easy · 2026-09-22
+- [easy-sum-005](https://xomdata.com/practice/easy-sum-005) · Easy · 2026-09-22
+- [easy-orderby-002](https://xomdata.com/practice/easy-orderby-002) · Easy · 2026-09-22
+- [easy-alias-001](https://xomdata.com/practice/easy-alias-001) · Easy · 2026-09-22
+- [medium-monetary-002](https://xomdata.com/practice/medium-monetary-002) · Easy · 2026-09-22
+- [easy-substr-001](https://xomdata.com/practice/easy-substr-001) · Easy · 2026-09-22
+- [medium-firstlast-001](https://xomdata.com/practice/medium-firstlast-001) · Easy · 2026-09-22
+- [medium-monetary-001](https://xomdata.com/practice/medium-monetary-001) · Easy · 2026-09-22
 - [hard-anti-001](https://xomdata.com/practice/hard-anti-001) · Hard · 2026-09-22
 - [py-in-stock](https://xomdata.com/practice/py-in-stock) · Easy · 2026-09-21
-- [py-in-range](https://xomdata.com/practice/py-in-range) · Easy · 2026-09-21
-- [py-has-prefix](https://xomdata.com/practice/py-has-prefix) · Easy · 2026-09-21
-- [py-count-value](https://xomdata.com/practice/py-count-value) · Easy · 2026-09-21
-- [py-count-even](https://xomdata.com/practice/py-count-even) · Easy · 2026-09-21
-- [py-count-digits](https://xomdata.com/practice/py-count-digits) · Easy · 2026-09-21
-- [py-missing-number](https://xomdata.com/practice/py-missing-number) · Medium · 2026-09-21
-- [py-gcd](https://xomdata.com/practice/py-gcd) · Medium · 2026-09-21
-- [py-average-per-group](https://xomdata.com/practice/py-average-per-group) · Medium · 2026-09-21
 
-_Synced 298 solutions · last update 2026-09-22_
+_Synced 306 solutions · last update 2026-09-22_
 
 <!-- xomdata:stats:end -->
 
