@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**288** problems solved on [Xom Data](https://xomdata.com/practice).
+**289** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 76 | 27 | 20 | 16 | 139 |
-| SQL | 80 | 35 | 20 | 14 | 149 |
+| SQL | 80 | 35 | 21 | 14 | 150 |
 
 **Recently solved**
 
+- [hard-anti-001](https://xomdata.com/practice/hard-anti-001) · Hard · 2026-09-22
 - [py-in-stock](https://xomdata.com/practice/py-in-stock) · Easy · 2026-09-21
 - [py-in-range](https://xomdata.com/practice/py-in-range) · Easy · 2026-09-21
 - [py-has-prefix](https://xomdata.com/practice/py-has-prefix) · Easy · 2026-09-21
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-missing-number](https://xomdata.com/practice/py-missing-number) · Medium · 2026-09-21
 - [py-gcd](https://xomdata.com/practice/py-gcd) · Medium · 2026-09-21
 - [py-average-per-group](https://xomdata.com/practice/py-average-per-group) · Medium · 2026-09-21
-- [py-happy-number](https://xomdata.com/practice/py-happy-number) · Nightmare · 2026-09-21
 
-_Synced 297 solutions · last update 2026-09-21_
+_Synced 298 solutions · last update 2026-09-22_
 
 <!-- xomdata:stats:end -->
 

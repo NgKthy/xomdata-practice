@@ -295,5 +295,6 @@
   "practice/python/easy/py-count-value/solution.py": "9800f17c9f7a69a0689b7f98a0c30849c0a0f31b19dc144a90552890904ac738",
   "practice/python/easy/py-has-prefix/solution.py": "dba5616c63c96e19ea5981e7db9a9a8f2b65d09aa6974622a68d6d7636a0f166",
   "practice/python/easy/py-in-range/solution.py": "01a1b266f0af6180c453dfacc21e8449fc3dd617eef54323f836575dc903d3f7",
-  "practice/python/easy/py-in-stock/solution.py": "fb03222370973a9484a4239e899728fa7c708def7129f7619503f3b9a8189482"
+  "practice/python/easy/py-in-stock/solution.py": "fb03222370973a9484a4239e899728fa7c708def7129f7619503f3b9a8189482",
+  "practice/sql/hard/hard-anti-001/solution.sql": "e2faab97d3e0fde342def1c24133b6e9ab369870596784d46df55697892d66ee"
 }
