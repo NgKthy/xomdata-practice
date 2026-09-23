@@ -307,5 +307,8 @@
   "practice/sql/easy/easy-trim-001/solution.sql": "7f2ccf7ba9842f4c9aae37aa1beedbde8b40813a7afde31e569637455d82a654",
   "practice/sql/hard/hard-rfm-003/solution.sql": "cfc0eae0e0b184ebcd0974a3d6d26870cfed3aad2004633d2d710806306d3d82",
   "practice/sql/hard/hard-retention-003/solution.sql": "ebdfd824d3acee286417db5b148a17614e66c5767bc02a451e7e1317f1554d1d",
-  "practice/sql/hard/hard-winback-001/solution.sql": "b9ad4b7d9ee73698cacc32e9cab35af91e32fc2e04ad05fa4457384f56a1fd12"
+  "practice/sql/hard/hard-winback-001/solution.sql": "b9ad4b7d9ee73698cacc32e9cab35af91e32fc2e04ad05fa4457384f56a1fd12",
+  "practice/sql/nightmare/sql-nightmare-010/solution.sql": "b615b7164b51d4f729b88671c6482505e556cc403a8348c2a038205421cb23c5",
+  "practice/sql/nightmare/expert-final-rec-003/solution.sql": "38482b295deb4f4a85fe406960ba01cd0311771f5956ce04e0ee06dc8fd6faf0",
+  "practice/sql/nightmare/expert-final-win-008/solution.sql": "f7a5b40b2973013c05330bcc77831a7cb9ace1a95e2cbc076fc139a968b9d936"
 }
