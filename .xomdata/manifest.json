@@ -310,5 +310,12 @@
   "practice/sql/hard/hard-winback-001/solution.sql": "b9ad4b7d9ee73698cacc32e9cab35af91e32fc2e04ad05fa4457384f56a1fd12",
   "practice/sql/nightmare/sql-nightmare-010/solution.sql": "b615b7164b51d4f729b88671c6482505e556cc403a8348c2a038205421cb23c5",
   "practice/sql/nightmare/expert-final-rec-003/solution.sql": "38482b295deb4f4a85fe406960ba01cd0311771f5956ce04e0ee06dc8fd6faf0",
-  "practice/sql/nightmare/expert-final-win-008/solution.sql": "f7a5b40b2973013c05330bcc77831a7cb9ace1a95e2cbc076fc139a968b9d936"
+  "practice/sql/nightmare/expert-final-win-008/solution.sql": "f7a5b40b2973013c05330bcc77831a7cb9ace1a95e2cbc076fc139a968b9d936",
+  "practice/sql/medium/medium-case-110/solution.sql": "29a3030efd3800a8f9176d4c0dfcbff78db90265cc9a1f6cbb91c750e7e354a2",
+  "practice/sql/medium/medium-groupby-097/solution.sql": "06d0fbee099627a492123f1a63d63cceee91ba9747fb2116d54df468f7c13ee5",
+  "practice/sql/hard/hard-retention-001/solution.sql": "b9830770fcab26981d09cccb6bc5b00dc1786fe0f27f7c992072c92fb9d9b682",
+  "practice/sql/hard/hard-mrr-001/solution.sql": "8a6f546f0c2155d880b7aa21035ca9e8d9be650f1131db176f4b92d4832e7b6f",
+  "practice/sql/nightmare/nightmare-active-users-001/solution.sql": "0a80e6127338684a598fe30e0290c7cc2a98190364aa2e3c3f90297a130781d4",
+  "practice/sql/nightmare/nightmare-exchange-seats-001/solution.sql": "8465835012988d12d83bbeccf70ccac4a38b131376ab493244b623ec2fb33617",
+  "practice/sql/nightmare/nightmare-cancel-rate-001/solution.sql": "8389ab5ed4fca860c582726bc99168930b17669a75995f045fb86916f0ff02a3"
 }

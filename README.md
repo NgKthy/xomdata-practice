@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**303** problems solved on [Xom Data](https://xomdata.com/practice).
+**310** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 76 | 27 | 20 | 16 | 139 |
-| SQL | 88 | 35 | 24 | 17 | 164 |
+| SQL | 88 | 37 | 26 | 20 | 171 |
 
 **Recently solved**
 
+- [nightmare-cancel-rate-001](https://xomdata.com/practice/nightmare-cancel-rate-001) · Nightmare · 2026-09-25
+- [nightmare-exchange-seats-001](https://xomdata.com/practice/nightmare-exchange-seats-001) · Nightmare · 2026-09-25
+- [nightmare-active-users-001](https://xomdata.com/practice/nightmare-active-users-001) · Nightmare · 2026-09-25
+- [hard-mrr-001](https://xomdata.com/practice/hard-mrr-001) · Hard · 2026-09-25
+- [hard-retention-001](https://xomdata.com/practice/hard-retention-001) · Hard · 2026-09-25
+- [medium-groupby-097](https://xomdata.com/practice/medium-groupby-097) · Medium · 2026-09-25
+- [medium-case-110](https://xomdata.com/practice/medium-case-110) · Medium · 2026-09-25
 - [expert-final-win-008](https://xomdata.com/practice/expert-final-win-008) · Nightmare · 2026-09-23
 - [expert-final-rec-003](https://xomdata.com/practice/expert-final-rec-003) · Nightmare · 2026-09-23
 - [sql-nightmare-010](https://xomdata.com/practice/sql-nightmare-010) · Nightmare · 2026-09-23
-- [hard-winback-001](https://xomdata.com/practice/hard-winback-001) · Hard · 2026-09-23
-- [hard-retention-003](https://xomdata.com/practice/hard-retention-003) · Hard · 2026-09-23
-- [hard-rfm-003](https://xomdata.com/practice/hard-rfm-003) · Hard · 2026-09-23
-- [easy-trim-001](https://xomdata.com/practice/easy-trim-001) · Easy · 2026-09-22
-- [easy-sum-005](https://xomdata.com/practice/easy-sum-005) · Easy · 2026-09-22
-- [easy-orderby-002](https://xomdata.com/practice/easy-orderby-002) · Easy · 2026-09-22
-- [easy-alias-001](https://xomdata.com/practice/easy-alias-001) · Easy · 2026-09-22
 
-_Synced 312 solutions · last update 2026-09-23_
+_Synced 319 solutions · last update 2026-09-25_
 
 <!-- xomdata:stats:end -->
 
