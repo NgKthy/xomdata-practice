@@ -317,5 +317,11 @@
   "practice/sql/hard/hard-mrr-001/solution.sql": "8a6f546f0c2155d880b7aa21035ca9e8d9be650f1131db176f4b92d4832e7b6f",
   "practice/sql/nightmare/nightmare-active-users-001/solution.sql": "0a80e6127338684a598fe30e0290c7cc2a98190364aa2e3c3f90297a130781d4",
   "practice/sql/nightmare/nightmare-exchange-seats-001/solution.sql": "8465835012988d12d83bbeccf70ccac4a38b131376ab493244b623ec2fb33617",
-  "practice/sql/nightmare/nightmare-cancel-rate-001/solution.sql": "8389ab5ed4fca860c582726bc99168930b17669a75995f045fb86916f0ff02a3"
+  "practice/sql/nightmare/nightmare-cancel-rate-001/solution.sql": "8389ab5ed4fca860c582726bc99168930b17669a75995f045fb86916f0ff02a3",
+  "practice/python/easy/py-sorted-keys/solution.py": "a5d10f12cb56c85e6af8e854a64ffd2af8a7b1034cf7d96b6023691c8d698ec6",
+  "practice/python/easy/py-split-bill/solution.py": "1cadbd850954abef4fb7f90a2aa629d6a660ce0467680696d47e068229abbfd7",
+  "practice/python/easy/py-split-tags/solution.py": "386b2ed054c08d59fafdc3ad50136ff2a1fbfbda6fe28c63848696b5f60d3e6d",
+  "practice/python/nightmare/py-evaluate-rpn/solution.py": "3e29a3e9617e24a10aa3eb129afa22de9e40b06200710f363bcf41dc64b8920c",
+  "practice/python/nightmare/py-fast-power/solution.py": "6dfd55470e5f2f3689ac640dc3f5da72bfa0642b543c6814c27d9ad4ee7c9efd",
+  "practice/python/nightmare/py-largest-rectangle/solution.py": "82b362f9ee1e76661287bb0739dbaa69d18114beedef98dce05be30c083a31fa"
 }
