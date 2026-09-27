@@ -4,15 +4,18 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**318** problems solved on [Xom Data](https://xomdata.com/practice).
+**321** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 79 | 27 | 20 | 19 | 145 |
+| Python | 82 | 27 | 20 | 19 | 148 |
 | SQL | 88 | 37 | 26 | 22 | 173 |
 
 **Recently solved**
 
+- [py-celsius-to-f](https://xomdata.com/practice/py-celsius-to-f) · Easy · 2026-09-27
+- [py-compound-interest](https://xomdata.com/practice/py-compound-interest) · Easy · 2026-09-27
+- [py-completion-rate](https://xomdata.com/practice/py-completion-rate) · Easy · 2026-09-27
 - [nightmare-hamilton-001](https://xomdata.com/practice/nightmare-hamilton-001) · Nightmare · 2026-09-27
 - [nightmare-tsp-001](https://xomdata.com/practice/nightmare-tsp-001) · Nightmare · 2026-09-27
 - [py-largest-rectangle](https://xomdata.com/practice/py-largest-rectangle) · Nightmare · 2026-09-26
@@ -20,11 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-evaluate-rpn](https://xomdata.com/practice/py-evaluate-rpn) · Nightmare · 2026-09-26
 - [py-split-tags](https://xomdata.com/practice/py-split-tags) · Easy · 2026-09-26
 - [py-split-bill](https://xomdata.com/practice/py-split-bill) · Easy · 2026-09-26
-- [py-sorted-keys](https://xomdata.com/practice/py-sorted-keys) · Easy · 2026-09-26
-- [nightmare-cancel-rate-001](https://xomdata.com/practice/nightmare-cancel-rate-001) · Nightmare · 2026-09-25
-- [nightmare-exchange-seats-001](https://xomdata.com/practice/nightmare-exchange-seats-001) · Nightmare · 2026-09-25
 
-_Synced 327 solutions · last update 2026-09-27_
+_Synced 330 solutions · last update 2026-09-27_
 
 <!-- xomdata:stats:end -->
 

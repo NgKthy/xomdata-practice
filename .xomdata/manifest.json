@@ -325,5 +325,8 @@
   "practice/python/nightmare/py-fast-power/solution.py": "6dfd55470e5f2f3689ac640dc3f5da72bfa0642b543c6814c27d9ad4ee7c9efd",
   "practice/python/nightmare/py-largest-rectangle/solution.py": "82b362f9ee1e76661287bb0739dbaa69d18114beedef98dce05be30c083a31fa",
   "practice/sql/nightmare/nightmare-tsp-001/solution.sql": "3d7c0f8ccec5447ea5f762ecb8eac31a1077f7e8401b91e4c6285ecdcb4f4152",
-  "practice/sql/nightmare/nightmare-hamilton-001/solution.sql": "99aa2ba85b5f1d7781f30faf8645ffd9faf701fd0dc072d405dc66e0b05ef248"
+  "practice/sql/nightmare/nightmare-hamilton-001/solution.sql": "99aa2ba85b5f1d7781f30faf8645ffd9faf701fd0dc072d405dc66e0b05ef248",
+  "practice/python/easy/py-completion-rate/solution.py": "ba04d4fde02d15d28b1f08b521318bb6235e82510a8a4fb12caf7ef61ec1ffd6",
+  "practice/python/easy/py-compound-interest/solution.py": "7dd6d4d0bb50723bc80818084f7fc84cb52ff14e92315d33d3e5f8614a3efc73",
+  "practice/python/easy/py-celsius-to-f/solution.py": "6b3c7453f10b24062889ad56808d1d1d3170d2fa3d58bb9ce0c1aacd75185643"
 }
