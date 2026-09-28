@@ -1,0 +1,58 @@
+name: Build & Deploy Portfolio
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "practice/**"
+      - "portfolio/**"
+      - ".github/workflows/deploy-portfolio.yml"
+  workflow_dispatch:
+  schedule:
+    # Refresh freshness every 6 hours even when bot doesn't push
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: portfolio-deploy
+  cancel-in-progress: true
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout (full history for git-log dates)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate data.json
+        run: python portfolio/scripts/generate_stats.py
+
+      - name: Verify data.json was created
+        run: |
+          if [ ! -f portfolio/data/data.json ]; then
+            echo "ERROR: portfolio/data/data.json not found!"
+            exit 1
+          fi
+          echo "--- data.json preview ---"
+          head -15 portfolio/data/data.json
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./portfolio
+          publish_branch: gh-pages
+          user_name: "portfolio-bot"
+          user_email: "portfolio-bot@users.noreply.github.com"
+          commit_message: "chore(portfolio): rebuild @ ${{ github.sha }}"
+          keep_files: false

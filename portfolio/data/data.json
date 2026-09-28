@@ -1,0 +1,3446 @@
+{
+  "generated_at": "2026-09-28T10:14:56+00:00",
+  "source_commit": "18eca1a",
+  "totals": {
+    "accepted": 336,
+    "challenges": 327,
+    "languages": 2,
+    "streak": 4,
+    "synced": "336 / 336",
+    "grand": 336
+  },
+  "by_language": {
+    "sql": 182,
+    "python": 154
+  },
+  "by_difficulty": {
+    "easy": 170,
+    "medium": 73,
+    "hard": 46,
+    "nightmare": 47
+  },
+  "by_category": {
+    "SQL Querying": 163,
+    "SQL Aggregations": 13,
+    "Advanced Analytics & Cohorts": 4,
+    "SQL Window Functions": 2,
+    "Python Data Logic": 140,
+    "Data Structures & Algos": 11,
+    "Dynamic Programming": 2,
+    "Trees & Graphs": 1
+  },
+  "trend": [
+    {
+      "month": "2026-08",
+      "count": 142
+    },
+    {
+      "month": "2026-09",
+      "count": 194
+    }
+  ],
+  "activity": {
+    "2026-09-01": 1,
+    "2026-09-23": 6,
+    "2026-09-25": 7,
+    "2026-09-15": 5,
+    "2026-09-27": 5,
+    "2026-09-19": 13,
+    "2026-09-13": 10,
+    "2026-09-05": 1,
+    "2026-08-23": 39,
+    "2026-09-09": 12,
+    "2026-09-07": 6,
+    "2026-08-21": 27,
+    "2026-09-06": 2,
+    "2026-08-24": 31,
+    "2026-09-11": 1,
+    "2026-09-22": 9,
+    "2026-09-14": 6,
+    "2026-09-08": 9,
+    "2026-08-25": 4,
+    "2026-08-19": 12,
+    "2026-08-22": 11,
+    "2026-08-20": 3,
+    "2026-08-28": 10,
+    "2026-09-10": 15,
+    "2026-09-20": 11,
+    "2026-09-28": 6,
+    "2026-09-18": 11,
+    "2026-09-26": 6,
+    "2026-09-21": 12,
+    "2026-09-02": 1,
+    "2026-09-17": 9,
+    "2026-08-27": 1,
+    "2026-08-29": 1,
+    "2026-09-03": 1,
+    "2026-08-26": 1,
+    "2026-08-30": 1,
+    "2026-09-12": 27,
+    "2026-09-16": 1,
+    "2026-09-04": 1,
+    "2026-08-31": 1
+  },
+  "solutions": [
+    {
+      "name": "Multiply strings",
+      "slug": "py-multiply-strings",
+      "file": "practice/python/nightmare/py-multiply-strings/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Data Structures & Algos",
+      "date": "2026-09-28",
+      "url": "https://xomdata.com/practice/py-multiply-strings"
+    },
+    {
+      "name": "Minimum window substring",
+      "slug": "py-min-window-substring",
+      "file": "practice/python/nightmare/py-min-window-substring/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Data Structures & Algos",
+      "date": "2026-09-28",
+      "url": "https://xomdata.com/practice/py-min-window-substring"
+    },
+    {
+      "name": "Minimum path sum",
+      "slug": "py-min-path-sum",
+      "file": "practice/python/nightmare/py-min-path-sum/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-28",
+      "url": "https://xomdata.com/practice/py-min-path-sum"
+    },
+    {
+      "name": "House robber",
+      "slug": "py-house-robber",
+      "file": "practice/python/nightmare/py-house-robber/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-28",
+      "url": "https://xomdata.com/practice/py-house-robber"
+    },
+    {
+      "name": "Counting bits",
+      "slug": "py-count-bits",
+      "file": "practice/python/nightmare/py-count-bits/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-28",
+      "url": "https://xomdata.com/practice/py-count-bits"
+    },
+    {
+      "name": "Add binary",
+      "slug": "py-add-binary",
+      "file": "practice/python/nightmare/py-add-binary/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-28",
+      "url": "https://xomdata.com/practice/py-add-binary"
+    },
+    {
+      "name": "Savings balance after several years",
+      "slug": "py-compound-interest",
+      "file": "practice/python/easy/py-compound-interest/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-27",
+      "url": "https://xomdata.com/practice/py-compound-interest"
+    },
+    {
+      "name": "Route visiting every location exactly once",
+      "slug": "nightmare-hamilton-001",
+      "file": "practice/sql/nightmare/nightmare-hamilton-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-27",
+      "url": "https://xomdata.com/practice/nightmare-hamilton-001"
+    },
+    {
+      "name": "Minimum-cost delivery route",
+      "slug": "nightmare-tsp-001",
+      "file": "practice/sql/nightmare/nightmare-tsp-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-27",
+      "url": "https://xomdata.com/practice/nightmare-tsp-001"
+    },
+    {
+      "name": "Convert temperature to Fahrenheit",
+      "slug": "py-celsius-to-f",
+      "file": "practice/python/easy/py-celsius-to-f/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-27",
+      "url": "https://xomdata.com/practice/py-celsius-to-f"
+    },
+    {
+      "name": "Completion rate of a delivery team",
+      "slug": "py-completion-rate",
+      "file": "practice/python/easy/py-completion-rate/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-27",
+      "url": "https://xomdata.com/practice/py-completion-rate"
+    },
+    {
+      "name": "Split a tag list out of one input box",
+      "slug": "py-split-tags",
+      "file": "practice/python/easy/py-split-tags/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-26",
+      "url": "https://xomdata.com/practice/py-split-tags"
+    },
+    {
+      "name": "Split a bill into whole dong",
+      "slug": "py-split-bill",
+      "file": "practice/python/easy/py-split-bill/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-26",
+      "url": "https://xomdata.com/practice/py-split-bill"
+    },
+    {
+      "name": "Largest rectangle in histogram",
+      "slug": "py-largest-rectangle",
+      "file": "practice/python/nightmare/py-largest-rectangle/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-26",
+      "url": "https://xomdata.com/practice/py-largest-rectangle"
+    },
+    {
+      "name": "Fast exponentiation",
+      "slug": "py-fast-power",
+      "file": "practice/python/nightmare/py-fast-power/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-26",
+      "url": "https://xomdata.com/practice/py-fast-power"
+    },
+    {
+      "name": "Evaluate reverse polish notation",
+      "slug": "py-evaluate-rpn",
+      "file": "practice/python/nightmare/py-evaluate-rpn/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-26",
+      "url": "https://xomdata.com/practice/py-evaluate-rpn"
+    },
+    {
+      "name": "Code index in alphabetical order",
+      "slug": "py-sorted-keys",
+      "file": "practice/python/easy/py-sorted-keys/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-26",
+      "url": "https://xomdata.com/practice/py-sorted-keys"
+    },
+    {
+      "name": "Users active 5+ consecutive days",
+      "slug": "nightmare-active-users-001",
+      "file": "practice/sql/nightmare/nightmare-active-users-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-25",
+      "url": "https://xomdata.com/practice/nightmare-active-users-001"
+    },
+    {
+      "name": "Top 10 most-engaged posts",
+      "slug": "medium-groupby-097",
+      "file": "practice/sql/medium/medium-groupby-097/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-09-25",
+      "url": "https://xomdata.com/practice/medium-groupby-097"
+    },
+    {
+      "name": "Swap seats in pairs (1↔2, 3↔4, …)",
+      "slug": "nightmare-exchange-seats-001",
+      "file": "practice/sql/nightmare/nightmare-exchange-seats-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-25",
+      "url": "https://xomdata.com/practice/nightmare-exchange-seats-001"
+    },
+    {
+      "name": "Monthly recurring revenue (MRR) by subscription plan",
+      "slug": "hard-mrr-001",
+      "file": "practice/sql/hard/hard-mrr-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "Advanced Analytics & Cohorts",
+      "date": "2026-09-25",
+      "url": "https://xomdata.com/practice/hard-mrr-001"
+    },
+    {
+      "name": "Daily trip cancellation rate (unbanned users/drivers only)",
+      "slug": "nightmare-cancel-rate-001",
+      "file": "practice/sql/nightmare/nightmare-cancel-rate-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-25",
+      "url": "https://xomdata.com/practice/nightmare-cancel-rate-001"
+    },
+    {
+      "name": "D7 and D30 retention rate",
+      "slug": "hard-retention-001",
+      "file": "practice/sql/hard/hard-retention-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "Advanced Analytics & Cohorts",
+      "date": "2026-09-25",
+      "url": "https://xomdata.com/practice/hard-retention-001"
+    },
+    {
+      "name": "Classify products by sales velocity",
+      "slug": "medium-case-110",
+      "file": "practice/sql/medium/medium-case-110/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-09-25",
+      "url": "https://xomdata.com/practice/medium-case-110"
+    },
+    {
+      "name": "Điểm tươi mới cộng điểm chuyên cần",
+      "slug": "hard-rfm-003",
+      "file": "practice/sql/hard/hard-rfm-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-09-23",
+      "url": "https://xomdata.com/practice/hard-rfm-003"
+    },
+    {
+      "name": "TWAP per stock symbol",
+      "slug": "sql-nightmare-010",
+      "file": "practice/sql/nightmare/sql-nightmare-010/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-23",
+      "url": "https://xomdata.com/practice/sql-nightmare-010"
+    },
+    {
+      "name": "Raw material cost of finished goods (multi-level BoM)",
+      "slug": "expert-final-rec-003",
+      "file": "practice/sql/nightmare/expert-final-rec-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-23",
+      "url": "https://xomdata.com/practice/expert-final-rec-003"
+    },
+    {
+      "name": "Những người quay về sau hai tháng im ắng",
+      "slug": "hard-winback-001",
+      "file": "practice/sql/hard/hard-winback-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-09-23",
+      "url": "https://xomdata.com/practice/hard-winback-001"
+    },
+    {
+      "name": "Còn quay lại trong tuần kế tiếp không",
+      "slug": "hard-retention-003",
+      "file": "practice/sql/hard/hard-retention-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-09-23",
+      "url": "https://xomdata.com/practice/hard-retention-003"
+    },
+    {
+      "name": "Cumulative revenue and cumulative % of the period total",
+      "slug": "expert-final-win-008",
+      "file": "practice/sql/nightmare/expert-final-win-008/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-23",
+      "url": "https://xomdata.com/practice/expert-final-win-008"
+    },
+    {
+      "name": "Total spend for one budget category",
+      "slug": "easy-sum-005",
+      "file": "practice/sql/easy/easy-sum-005/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-09-22",
+      "url": "https://xomdata.com/practice/easy-sum-005"
+    },
+    {
+      "name": "Room price list by tier",
+      "slug": "easy-orderby-002",
+      "file": "practice/sql/easy/easy-orderby-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-09-22",
+      "url": "https://xomdata.com/practice/easy-orderby-002"
+    },
+    {
+      "name": "Mỗi lần ghé, khách chi trung bình bao nhiêu",
+      "slug": "medium-monetary-002",
+      "file": "practice/sql/easy/medium-monetary-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-09-22",
+      "url": "https://xomdata.com/practice/medium-monetary-002"
+    },
+    {
+      "name": "Lần đầu và lần gần nhất của mỗi khách",
+      "slug": "medium-firstlast-001",
+      "file": "practice/sql/easy/medium-firstlast-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-09-22",
+      "url": "https://xomdata.com/practice/medium-firstlast-001"
+    },
+    {
+      "name": "Line total for each item",
+      "slug": "easy-alias-001",
+      "file": "practice/sql/easy/easy-alias-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-09-22",
+      "url": "https://xomdata.com/practice/easy-alias-001"
+    },
+    {
+      "name": "Customers silent for 90 days",
+      "slug": "hard-anti-001",
+      "file": "practice/sql/hard/hard-anti-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-09-22",
+      "url": "https://xomdata.com/practice/hard-anti-001"
+    },
+    {
+      "name": "Cleaning whitespace in the lead list",
+      "slug": "easy-trim-001",
+      "file": "practice/sql/easy/easy-trim-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Window Functions",
+      "date": "2026-09-22",
+      "url": "https://xomdata.com/practice/easy-trim-001"
+    },
+    {
+      "name": "Branch code from the invoice number",
+      "slug": "easy-substr-001",
+      "file": "practice/sql/easy/easy-substr-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-09-22",
+      "url": "https://xomdata.com/practice/easy-substr-001"
+    },
+    {
+      "name": "Ai đã tiêu vượt mốc năm triệu",
+      "slug": "medium-monetary-001",
+      "file": "practice/sql/easy/medium-monetary-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-09-22",
+      "url": "https://xomdata.com/practice/medium-monetary-001"
+    },
+    {
+      "name": "Missing number",
+      "slug": "py-missing-number",
+      "file": "practice/python/medium/py-missing-number/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-09-21",
+      "url": "https://xomdata.com/practice/py-missing-number"
+    },
+    {
+      "name": "Happy number",
+      "slug": "py-happy-number",
+      "file": "practice/python/nightmare/py-happy-number/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-21",
+      "url": "https://xomdata.com/practice/py-happy-number"
+    },
+    {
+      "name": "Greatest common divisor",
+      "slug": "py-gcd",
+      "file": "practice/python/medium/py-gcd/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-09-21",
+      "url": "https://xomdata.com/practice/py-gcd"
+    },
+    {
+      "name": "Gray code",
+      "slug": "py-gray-code",
+      "file": "practice/python/nightmare/py-gray-code/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-21",
+      "url": "https://xomdata.com/practice/py-gray-code"
+    },
+    {
+      "name": "Gas station",
+      "slug": "py-gas-station",
+      "file": "practice/python/nightmare/py-gas-station/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-21",
+      "url": "https://xomdata.com/practice/py-gas-station"
+    },
+    {
+      "name": "Count products with an even code",
+      "slug": "py-count-even",
+      "file": "practice/python/easy/py-count-even/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-21",
+      "url": "https://xomdata.com/practice/py-count-even"
+    },
+    {
+      "name": "Count occurrences of a code",
+      "slug": "py-count-value",
+      "file": "practice/python/easy/py-count-value/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-21",
+      "url": "https://xomdata.com/practice/py-count-value"
+    },
+    {
+      "name": "Count in-stock products",
+      "slug": "py-in-stock",
+      "file": "practice/python/easy/py-in-stock/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-21",
+      "url": "https://xomdata.com/practice/py-in-stock"
+    },
+    {
+      "name": "Count digits in the password",
+      "slug": "py-count-digits",
+      "file": "practice/python/easy/py-count-digits/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-21",
+      "url": "https://xomdata.com/practice/py-count-digits"
+    },
+    {
+      "name": "Check whether an order belongs to a branch",
+      "slug": "py-has-prefix",
+      "file": "practice/python/easy/py-has-prefix/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-21",
+      "url": "https://xomdata.com/practice/py-has-prefix"
+    },
+    {
+      "name": "Check safe temperature",
+      "slug": "py-in-range",
+      "file": "practice/python/easy/py-in-range/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-21",
+      "url": "https://xomdata.com/practice/py-in-range"
+    },
+    {
+      "name": "Average score by class",
+      "slug": "py-average-per-group",
+      "file": "practice/python/medium/py-average-per-group/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-09-21",
+      "url": "https://xomdata.com/practice/py-average-per-group"
+    },
+    {
+      "name": "Wrap a description for a narrow box",
+      "slug": "py-word-wrap",
+      "file": "practice/python/medium/py-word-wrap/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-09-20",
+      "url": "https://xomdata.com/practice/py-word-wrap"
+    },
+    {
+      "name": "Weekly pay with overtime hours",
+      "slug": "py-overtime-pay",
+      "file": "practice/python/easy/py-overtime-pay/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-20",
+      "url": "https://xomdata.com/practice/py-overtime-pay"
+    },
+    {
+      "name": "Pascal's triangle",
+      "slug": "py-pascal-triangle",
+      "file": "practice/python/hard/py-pascal-triangle/solution.py",
+      "lang": "python",
+      "difficulty": "hard",
+      "category": "Python Data Logic",
+      "date": "2026-09-20",
+      "url": "https://xomdata.com/practice/py-pascal-triangle"
+    },
+    {
+      "name": "Pad an order id with leading zeros",
+      "slug": "py-pad-order-id",
+      "file": "practice/python/easy/py-pad-order-id/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-20",
+      "url": "https://xomdata.com/practice/py-pad-order-id"
+    },
+    {
+      "name": "Maximum product subarray",
+      "slug": "py-max-product-subarray",
+      "file": "practice/python/hard/py-max-product-subarray/solution.py",
+      "lang": "python",
+      "difficulty": "hard",
+      "category": "Data Structures & Algos",
+      "date": "2026-09-20",
+      "url": "https://xomdata.com/practice/py-max-product-subarray"
+    },
+    {
+      "name": "Insertion point that keeps a list sorted",
+      "slug": "py-insert-position",
+      "file": "practice/python/medium/py-insert-position/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-09-20",
+      "url": "https://xomdata.com/practice/py-insert-position"
+    },
+    {
+      "name": "Decode string",
+      "slug": "py-decode-string",
+      "file": "practice/python/hard/py-decode-string/solution.py",
+      "lang": "python",
+      "difficulty": "hard",
+      "category": "Data Structures & Algos",
+      "date": "2026-09-20",
+      "url": "https://xomdata.com/practice/py-decode-string"
+    },
+    {
+      "name": "Convert a number to binary",
+      "slug": "py-int-to-binary",
+      "file": "practice/python/medium/py-int-to-binary/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-09-20",
+      "url": "https://xomdata.com/practice/py-int-to-binary"
+    },
+    {
+      "name": "Consolidate inventory across warehouses",
+      "slug": "py-inventory-merge",
+      "file": "practice/python/medium/py-inventory-merge/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-09-20",
+      "url": "https://xomdata.com/practice/py-inventory-merge"
+    },
+    {
+      "name": "Best k-day window by total",
+      "slug": "py-window-max-sum",
+      "file": "practice/python/medium/py-window-max-sum/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-09-20",
+      "url": "https://xomdata.com/practice/py-window-max-sum"
+    },
+    {
+      "name": "3Sum",
+      "slug": "py-3sum-count",
+      "file": "practice/python/nightmare/py-3sum-count/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-20",
+      "url": "https://xomdata.com/practice/py-3sum-count"
+    },
+    {
+      "name": "Treemap layout: split a 1000×1000 canvas by value ratio",
+      "slug": "nightmare-treemap-001",
+      "file": "practice/sql/nightmare/nightmare-treemap-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-19",
+      "url": "https://xomdata.com/practice/nightmare-treemap-001"
+    },
+    {
+      "name": "Top 3 campaigns by month-over-month growth",
+      "slug": "nightmare-pipeline-001",
+      "file": "practice/sql/nightmare/nightmare-pipeline-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-19",
+      "url": "https://xomdata.com/practice/nightmare-pipeline-001"
+    },
+    {
+      "name": "Showtime count and average ticket price per film",
+      "slug": "medium-join-076",
+      "file": "practice/sql/medium/medium-join-076/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Aggregations",
+      "date": "2026-09-19",
+      "url": "https://xomdata.com/practice/medium-join-076"
+    },
+    {
+      "name": "Portfolio profit/loss",
+      "slug": "medium-casewhen-047",
+      "file": "practice/sql/medium/medium-casewhen-047/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-09-19",
+      "url": "https://xomdata.com/practice/medium-casewhen-047"
+    },
+    {
+      "name": "Optimal product selection within a weight limit (0/1 knapsack)",
+      "slug": "nightmare-knapsack-001",
+      "file": "practice/sql/nightmare/nightmare-knapsack-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-19",
+      "url": "https://xomdata.com/practice/nightmare-knapsack-001"
+    },
+    {
+      "name": "Mã ba chữ số nói lên tất cả",
+      "slug": "hard-rfm-004",
+      "file": "practice/sql/hard/hard-rfm-004/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-09-19",
+      "url": "https://xomdata.com/practice/hard-rfm-004"
+    },
+    {
+      "name": "Ma trận tỷ lệ quay lại ba tháng đầu",
+      "slug": "hard-retention-004",
+      "file": "practice/sql/hard/hard-retention-004/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-09-19",
+      "url": "https://xomdata.com/practice/hard-retention-004"
+    },
+    {
+      "name": "Instructor teaching load",
+      "slug": "medium-join-029",
+      "file": "practice/sql/medium/medium-join-029/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-09-19",
+      "url": "https://xomdata.com/practice/medium-join-029"
+    },
+    {
+      "name": "Friends of friends within 2 hops",
+      "slug": "nightmare-network-001",
+      "file": "practice/sql/nightmare/nightmare-network-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-19",
+      "url": "https://xomdata.com/practice/nightmare-network-001"
+    },
+    {
+      "name": "Booking count per branch",
+      "slug": "easy-leftjoin-003",
+      "file": "practice/sql/easy/easy-leftjoin-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Aggregations",
+      "date": "2026-09-19",
+      "url": "https://xomdata.com/practice/easy-leftjoin-003"
+    },
+    {
+      "name": "Article URLs from headlines",
+      "slug": "easy-replace-001",
+      "file": "practice/sql/easy/easy-replace-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-09-19",
+      "url": "https://xomdata.com/practice/easy-replace-001"
+    },
+    {
+      "name": "Accounts that must be renamed",
+      "slug": "easy-length-001",
+      "file": "practice/sql/easy/easy-length-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Aggregations",
+      "date": "2026-09-19",
+      "url": "https://xomdata.com/practice/easy-length-001"
+    },
+    {
+      "name": "4-step onboarding conversion rate",
+      "slug": "hard-funnel-001",
+      "file": "practice/sql/hard/hard-funnel-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-09-19",
+      "url": "https://xomdata.com/practice/hard-funnel-001"
+    },
+    {
+      "name": "Remove a code from the scan list",
+      "slug": "py-drop-value",
+      "file": "practice/python/easy/py-drop-value/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-18",
+      "url": "https://xomdata.com/practice/py-drop-value"
+    },
+    {
+      "name": "Pick the data files out of a download folder",
+      "slug": "py-csv-files-only",
+      "file": "practice/python/easy/py-csv-files-only/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-18",
+      "url": "https://xomdata.com/practice/py-csv-files-only"
+    },
+    {
+      "name": "Order the support ticket queue",
+      "slug": "py-priority-order",
+      "file": "practice/python/medium/py-priority-order/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-09-18",
+      "url": "https://xomdata.com/practice/py-priority-order"
+    },
+    {
+      "name": "Longest common prefix",
+      "slug": "py-longest-common-prefix",
+      "file": "practice/python/hard/py-longest-common-prefix/solution.py",
+      "lang": "python",
+      "difficulty": "hard",
+      "category": "Python Data Logic",
+      "date": "2026-09-18",
+      "url": "https://xomdata.com/practice/py-longest-common-prefix"
+    },
+    {
+      "name": "First unique character",
+      "slug": "py-first-non-repeating",
+      "file": "practice/python/hard/py-first-non-repeating/solution.py",
+      "lang": "python",
+      "difficulty": "hard",
+      "category": "Python Data Logic",
+      "date": "2026-09-18",
+      "url": "https://xomdata.com/practice/py-first-non-repeating"
+    },
+    {
+      "name": "Finish all courses (course schedule)",
+      "slug": "py-course-schedule",
+      "file": "practice/python/nightmare/py-course-schedule/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-18",
+      "url": "https://xomdata.com/practice/py-course-schedule"
+    },
+    {
+      "name": "Double the order quantities",
+      "slug": "py-double-list",
+      "file": "practice/python/easy/py-double-list/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-18",
+      "url": "https://xomdata.com/practice/py-double-list"
+    },
+    {
+      "name": "Discount tier by order value",
+      "slug": "py-discount-tier",
+      "file": "practice/python/easy/py-discount-tier/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-18",
+      "url": "https://xomdata.com/practice/py-discount-tier"
+    },
+    {
+      "name": "Daily temperatures",
+      "slug": "py-daily-temperatures",
+      "file": "practice/python/nightmare/py-daily-temperatures/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-18",
+      "url": "https://xomdata.com/practice/py-daily-temperatures"
+    },
+    {
+      "name": "Count primes less than N",
+      "slug": "py-count-primes",
+      "file": "practice/python/nightmare/py-count-primes/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-18",
+      "url": "https://xomdata.com/practice/py-count-primes"
+    },
+    {
+      "name": "Check strong password",
+      "slug": "py-password-strength",
+      "file": "practice/python/medium/py-password-strength/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-09-18",
+      "url": "https://xomdata.com/practice/py-password-strength"
+    },
+    {
+      "name": "Subset sum exists",
+      "slug": "py-subset-sum",
+      "file": "practice/python/hard/py-subset-sum/solution.py",
+      "lang": "python",
+      "difficulty": "hard",
+      "category": "Python Data Logic",
+      "date": "2026-09-17",
+      "url": "https://xomdata.com/practice/py-subset-sum"
+    },
+    {
+      "name": "Rotate image",
+      "slug": "py-rotate-matrix",
+      "file": "practice/python/hard/py-rotate-matrix/solution.py",
+      "lang": "python",
+      "difficulty": "hard",
+      "category": "Python Data Logic",
+      "date": "2026-09-17",
+      "url": "https://xomdata.com/practice/py-rotate-matrix"
+    },
+    {
+      "name": "Partition equal subset sum",
+      "slug": "py-partition-equal-sum",
+      "file": "practice/python/nightmare/py-partition-equal-sum/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-17",
+      "url": "https://xomdata.com/practice/py-partition-equal-sum"
+    },
+    {
+      "name": "Number of islands",
+      "slug": "py-num-islands",
+      "file": "practice/python/nightmare/py-num-islands/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-17",
+      "url": "https://xomdata.com/practice/py-num-islands"
+    },
+    {
+      "name": "Next permutation",
+      "slug": "py-next-permutation",
+      "file": "practice/python/nightmare/py-next-permutation/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-17",
+      "url": "https://xomdata.com/practice/py-next-permutation"
+    },
+    {
+      "name": "Move zeroes",
+      "slug": "py-move-zeros",
+      "file": "practice/python/hard/py-move-zeros/solution.py",
+      "lang": "python",
+      "difficulty": "hard",
+      "category": "Python Data Logic",
+      "date": "2026-09-17",
+      "url": "https://xomdata.com/practice/py-move-zeros"
+    },
+    {
+      "name": "Longest run of days hitting the target",
+      "slug": "py-longest-streak",
+      "file": "practice/python/medium/py-longest-streak/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-09-17",
+      "url": "https://xomdata.com/practice/py-longest-streak"
+    },
+    {
+      "name": "Longest continuous increasing subsequence",
+      "slug": "py-longest-run",
+      "file": "practice/python/medium/py-longest-run/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Dynamic Programming",
+      "date": "2026-09-17",
+      "url": "https://xomdata.com/practice/py-longest-run"
+    },
+    {
+      "name": "Join two record lists by id",
+      "slug": "py-join-records",
+      "file": "practice/python/medium/py-join-records/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-09-17",
+      "url": "https://xomdata.com/practice/py-join-records"
+    },
+    {
+      "name": "Look a price up by product code",
+      "slug": "py-price-lookup",
+      "file": "practice/python/easy/py-price-lookup/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-16",
+      "url": "https://xomdata.com/practice/py-price-lookup"
+    },
+    {
+      "name": "Shortest path between all node pairs (Floyd-Warshall)",
+      "slug": "nightmare-floyd-001",
+      "file": "practice/sql/nightmare/nightmare-floyd-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-15",
+      "url": "https://xomdata.com/practice/nightmare-floyd-001"
+    },
+    {
+      "name": "Rainwater trapped between concrete columns",
+      "slug": "nightmare-trapwater-001",
+      "file": "practice/sql/nightmare/nightmare-trapwater-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-15",
+      "url": "https://xomdata.com/practice/nightmare-trapwater-001"
+    },
+    {
+      "name": "Longest rising price run over N trading sessions",
+      "slug": "nightmare-lis-001",
+      "file": "practice/sql/nightmare/nightmare-lis-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-15",
+      "url": "https://xomdata.com/practice/nightmare-lis-001"
+    },
+    {
+      "name": "Largest rectangle in histogram",
+      "slug": "nightmare-histogram-001",
+      "file": "practice/sql/nightmare/nightmare-histogram-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-15",
+      "url": "https://xomdata.com/practice/nightmare-histogram-001"
+    },
+    {
+      "name": "Centered 5-session rolling median price per session",
+      "slug": "nightmare-slidingmedian-001",
+      "file": "practice/sql/nightmare/nightmare-slidingmedian-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-15",
+      "url": "https://xomdata.com/practice/nightmare-slidingmedian-001"
+    },
+    {
+      "name": "Turn the raw table into something you can send",
+      "slug": "pd-report-table",
+      "file": "practice/python/easy/pd-report-table/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-14",
+      "url": "https://xomdata.com/practice/pd-report-table"
+    },
+    {
+      "name": "Tháng này mất bao nhiêu khách của tháng trước",
+      "slug": "hard-churn-002",
+      "file": "practice/sql/hard/hard-churn-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-09-14",
+      "url": "https://xomdata.com/practice/hard-churn-002"
+    },
+    {
+      "name": "Orders within a date range",
+      "slug": "pd-filter-date-range",
+      "file": "practice/python/easy/pd-filter-date-range/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-14",
+      "url": "https://xomdata.com/practice/pd-filter-date-range"
+    },
+    {
+      "name": "Người mới và người quen mỗi tháng",
+      "slug": "hard-cohort-003",
+      "file": "practice/sql/hard/hard-cohort-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-09-14",
+      "url": "https://xomdata.com/practice/hard-cohort-003"
+    },
+    {
+      "name": "Chia khách thành năm hạng chi tiêu",
+      "slug": "hard-monetary-001",
+      "file": "practice/sql/hard/hard-monetary-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-09-14",
+      "url": "https://xomdata.com/practice/hard-monetary-001"
+    },
+    {
+      "name": "Add a month column from the order date",
+      "slug": "pd-month-column",
+      "file": "practice/python/easy/pd-month-column/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-14",
+      "url": "https://xomdata.com/practice/pd-month-column"
+    },
+    {
+      "name": "Top three sellers per category",
+      "slug": "medium-topn-002",
+      "file": "practice/sql/medium/medium-topn-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-09-13",
+      "url": "https://xomdata.com/practice/medium-topn-002"
+    },
+    {
+      "name": "Time-weighted average price",
+      "slug": "nightmare-twa-001",
+      "file": "practice/sql/nightmare/nightmare-twa-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-13",
+      "url": "https://xomdata.com/practice/nightmare-twa-001"
+    },
+    {
+      "name": "Shift bonus for every top performer",
+      "slug": "medium-topn-003",
+      "file": "practice/sql/medium/medium-topn-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-09-13",
+      "url": "https://xomdata.com/practice/medium-topn-003"
+    },
+    {
+      "name": "Sales champion of each region",
+      "slug": "medium-topn-001",
+      "file": "practice/sql/medium/medium-topn-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-09-13",
+      "url": "https://xomdata.com/practice/medium-topn-001"
+    },
+    {
+      "name": "Median department salary",
+      "slug": "nightmare-median-group-001",
+      "file": "practice/sql/nightmare/nightmare-median-group-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-13",
+      "url": "https://xomdata.com/practice/nightmare-median-group-001"
+    },
+    {
+      "name": "First missing positive",
+      "slug": "py-first-missing-positive",
+      "file": "practice/python/nightmare/py-first-missing-positive/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-13",
+      "url": "https://xomdata.com/practice/py-first-missing-positive"
+    },
+    {
+      "name": "Find the duplicate number",
+      "slug": "py-find-duplicate",
+      "file": "practice/python/nightmare/py-find-duplicate/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-13",
+      "url": "https://xomdata.com/practice/py-find-duplicate"
+    },
+    {
+      "name": "Find minimum in rotated sorted array",
+      "slug": "py-find-min-rotated",
+      "file": "practice/python/nightmare/py-find-min-rotated/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Data Structures & Algos",
+      "date": "2026-09-13",
+      "url": "https://xomdata.com/practice/py-find-min-rotated"
+    },
+    {
+      "name": "Each branch's two slowest months",
+      "slug": "medium-topn-004",
+      "file": "practice/sql/medium/medium-topn-004/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-09-13",
+      "url": "https://xomdata.com/practice/medium-topn-004"
+    },
+    {
+      "name": "Advertiser status by month (4 states)",
+      "slug": "nightmare-statemachine-001",
+      "file": "practice/sql/nightmare/nightmare-statemachine-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-13",
+      "url": "https://xomdata.com/practice/nightmare-statemachine-001"
+    },
+    {
+      "name": "Turn status codes into words people read",
+      "slug": "pd-map-labels",
+      "file": "practice/python/easy/pd-map-labels/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-map-labels"
+    },
+    {
+      "name": "Trim the table down for a report",
+      "slug": "pd-pick-columns",
+      "file": "practice/python/easy/pd-pick-columns/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-pick-columns"
+    },
+    {
+      "name": "The city that brought in the most",
+      "slug": "pd-top-group",
+      "file": "practice/python/easy/pd-top-group/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-top-group"
+    },
+    {
+      "name": "The best-selling products",
+      "slug": "pd-sort-top-n",
+      "file": "practice/python/easy/pd-sort-top-n/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-sort-top-n"
+    },
+    {
+      "name": "The amount column arrived as text with commas",
+      "slug": "pd-text-to-number",
+      "file": "practice/python/easy/pd-text-to-number/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-text-to-number"
+    },
+    {
+      "name": "Sales summary table by city",
+      "slug": "pd-group-agg-table",
+      "file": "practice/python/easy/pd-group-agg-table/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-group-agg-table"
+    },
+    {
+      "name": "Round a share column before printing the report",
+      "slug": "pd-round-column",
+      "file": "practice/python/easy/pd-round-column/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-round-column"
+    },
+    {
+      "name": "Revenue per city",
+      "slug": "pd-group-sum",
+      "file": "practice/python/easy/pd-group-sum/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-group-sum"
+    },
+    {
+      "name": "Rename columns to match the report",
+      "slug": "pd-rename-columns",
+      "file": "practice/python/easy/pd-rename-columns/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-rename-columns"
+    },
+    {
+      "name": "Remove a column that must not leave the company",
+      "slug": "pd-drop-column",
+      "file": "practice/python/easy/pd-drop-column/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-drop-column"
+    },
+    {
+      "name": "Peek at the first few rows",
+      "slug": "pd-first-rows",
+      "file": "practice/python/easy/pd-first-rows/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-first-rows"
+    },
+    {
+      "name": "Payments at or above a minimum",
+      "slug": "pd-filter-threshold",
+      "file": "practice/python/easy/pd-filter-threshold/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-filter-threshold"
+    },
+    {
+      "name": "Merge two months into one table",
+      "slug": "pd-concat-months",
+      "file": "practice/python/easy/pd-concat-months/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-concat-months"
+    },
+    {
+      "name": "Large orders from one sales channel",
+      "slug": "pd-filter-two-conditions",
+      "file": "practice/python/easy/pd-filter-two-conditions/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-filter-two-conditions"
+    },
+    {
+      "name": "Keep the latest status of each order",
+      "slug": "pd-keep-latest",
+      "file": "practice/python/easy/pd-keep-latest/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-keep-latest"
+    },
+    {
+      "name": "Keep only the cities we are watching",
+      "slug": "pd-filter-isin",
+      "file": "practice/python/easy/pd-filter-isin/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-filter-isin"
+    },
+    {
+      "name": "How many rows and columns did we get",
+      "slug": "pd-table-size",
+      "file": "practice/python/easy/pd-table-size/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-table-size"
+    },
+    {
+      "name": "How many orders each staff member closed",
+      "slug": "pd-group-count",
+      "file": "practice/python/easy/pd-group-count/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-group-count"
+    },
+    {
+      "name": "How many cells is each column missing",
+      "slug": "pd-missing-count",
+      "file": "practice/python/easy/pd-missing-count/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-missing-count"
+    },
+    {
+      "name": "Flag the customers who spent a lot this year",
+      "slug": "pd-flag-threshold",
+      "file": "practice/python/easy/pd-flag-threshold/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-flag-threshold"
+    },
+    {
+      "name": "Fill the blanks of one column with a default",
+      "slug": "pd-fill-missing",
+      "file": "practice/python/easy/pd-fill-missing/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-fill-missing"
+    },
+    {
+      "name": "Drop rows missing required information",
+      "slug": "pd-drop-missing-rows",
+      "file": "practice/python/easy/pd-drop-missing-rows/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-drop-missing-rows"
+    },
+    {
+      "name": "Count the orders that missed the promise",
+      "slug": "pd-count-matching",
+      "file": "practice/python/easy/pd-count-matching/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-count-matching"
+    },
+    {
+      "name": "Clean up a hand-typed city column",
+      "slug": "pd-clean-text",
+      "file": "practice/python/easy/pd-clean-text/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-clean-text"
+    },
+    {
+      "name": "Bring the customer name into the order table",
+      "slug": "pd-merge-lookup",
+      "file": "practice/python/easy/pd-merge-lookup/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-merge-lookup"
+    },
+    {
+      "name": "Average order value per sales channel",
+      "slug": "pd-group-mean-round",
+      "file": "practice/python/easy/pd-group-mean-round/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-group-mean-round"
+    },
+    {
+      "name": "Add the line total to each order",
+      "slug": "pd-revenue-column",
+      "file": "practice/python/easy/pd-revenue-column/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-12",
+      "url": "https://xomdata.com/practice/pd-revenue-column"
+    },
+    {
+      "name": "Summary of issues to handle",
+      "slug": "medium-union-175",
+      "file": "practice/sql/medium/medium-union-175/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Aggregations",
+      "date": "2026-09-11",
+      "url": "https://xomdata.com/practice/medium-union-175"
+    },
+    {
+      "name": "Turn a title into a friendly URL part",
+      "slug": "py-slugify-space",
+      "file": "practice/python/easy/py-slugify-space/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-10",
+      "url": "https://xomdata.com/practice/py-slugify-space"
+    },
+    {
+      "name": "Ticket price by age",
+      "slug": "py-ticket-price",
+      "file": "practice/python/easy/py-ticket-price/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-10",
+      "url": "https://xomdata.com/practice/py-ticket-price"
+    },
+    {
+      "name": "Swap two storage slots",
+      "slug": "py-swap-pair",
+      "file": "practice/python/easy/py-swap-pair/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-10",
+      "url": "https://xomdata.com/practice/py-swap-pair"
+    },
+    {
+      "name": "Show a price in Vietnamese number format",
+      "slug": "py-thousand-separator",
+      "file": "practice/python/easy/py-thousand-separator/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-10",
+      "url": "https://xomdata.com/practice/py-thousand-separator"
+    },
+    {
+      "name": "Shipping fee by weight bracket",
+      "slug": "py-shipping-fee",
+      "file": "practice/python/easy/py-shipping-fee/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-10",
+      "url": "https://xomdata.com/practice/py-shipping-fee"
+    },
+    {
+      "name": "Restaurant tip suggestion",
+      "slug": "py-tip-amount",
+      "file": "practice/python/easy/py-tip-amount/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-10",
+      "url": "https://xomdata.com/practice/py-tip-amount"
+    },
+    {
+      "name": "Peak-hour electricity record",
+      "slug": "easy-max-002",
+      "file": "practice/sql/easy/easy-max-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-09-10",
+      "url": "https://xomdata.com/practice/easy-max-002"
+    },
+    {
+      "name": "PDF documents in the attachment store",
+      "slug": "easy-like-004",
+      "file": "practice/sql/easy/easy-like-004/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-09-10",
+      "url": "https://xomdata.com/practice/easy-like-004"
+    },
+    {
+      "name": "Order a price table from high to low",
+      "slug": "py-sort-prices-desc",
+      "file": "practice/python/easy/py-sort-prices-desc/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-10",
+      "url": "https://xomdata.com/practice/py-sort-prices-desc"
+    },
+    {
+      "name": "Normalizing emails before matching",
+      "slug": "easy-lower-001",
+      "file": "practice/sql/easy/easy-lower-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-09-10",
+      "url": "https://xomdata.com/practice/easy-lower-001"
+    },
+    {
+      "name": "Longest palindromic substring",
+      "slug": "py-longest-palindrome-substr",
+      "file": "practice/python/nightmare/py-longest-palindrome-substr/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Data Structures & Algos",
+      "date": "2026-09-10",
+      "url": "https://xomdata.com/practice/py-longest-palindrome-substr"
+    },
+    {
+      "name": "Convert minutes to hours and minutes",
+      "slug": "py-time-format",
+      "file": "practice/python/easy/py-time-format/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-10",
+      "url": "https://xomdata.com/practice/py-time-format"
+    },
+    {
+      "name": "Cheapest domestic fare",
+      "slug": "easy-min-001",
+      "file": "practice/sql/easy/easy-min-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-09-10",
+      "url": "https://xomdata.com/practice/easy-min-001"
+    },
+    {
+      "name": "Add up the day's slip numbers",
+      "slug": "py-sum-to-n",
+      "file": "practice/python/easy/py-sum-to-n/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-10",
+      "url": "https://xomdata.com/practice/py-sum-to-n"
+    },
+    {
+      "name": "Add two numbers typed into a form",
+      "slug": "py-string-to-int-sum",
+      "file": "practice/python/easy/py-string-to-int-sum/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-10",
+      "url": "https://xomdata.com/practice/py-string-to-int-sum"
+    },
+    {
+      "name": "Weekday name from its number",
+      "slug": "py-weekday-name",
+      "file": "practice/python/easy/py-weekday-name/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-09",
+      "url": "https://xomdata.com/practice/py-weekday-name"
+    },
+    {
+      "name": "Top 10 highest-paid employees and their leave days",
+      "slug": "medium-agg-127",
+      "file": "practice/sql/medium/medium-agg-127/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-09-09",
+      "url": "https://xomdata.com/practice/medium-agg-127"
+    },
+    {
+      "name": "Spot a code entered twice",
+      "slug": "py-has-duplicate",
+      "file": "practice/python/easy/py-has-duplicate/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-09",
+      "url": "https://xomdata.com/practice/py-has-duplicate"
+    },
+    {
+      "name": "Retention rate by signup-month cohort",
+      "slug": "hard-cohort-001",
+      "file": "practice/sql/hard/hard-cohort-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "Advanced Analytics & Cohorts",
+      "date": "2026-09-09",
+      "url": "https://xomdata.com/practice/hard-cohort-001"
+    },
+    {
+      "name": "Remove duplicate names from the invite list",
+      "slug": "py-unique-order",
+      "file": "practice/python/easy/py-unique-order/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-09",
+      "url": "https://xomdata.com/practice/py-unique-order"
+    },
+    {
+      "name": "Normalize codes for label printing",
+      "slug": "easy-string-001",
+      "file": "practice/sql/easy/easy-string-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-09-09",
+      "url": "https://xomdata.com/practice/easy-string-001"
+    },
+    {
+      "name": "Join two columns into a lookup table",
+      "slug": "py-zip-to-dict",
+      "file": "practice/python/easy/py-zip-to-dict/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-09",
+      "url": "https://xomdata.com/practice/py-zip-to-dict"
+    },
+    {
+      "name": "Display rates for the app",
+      "slug": "easy-round-001",
+      "file": "practice/sql/easy/easy-round-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-09-09",
+      "url": "https://xomdata.com/practice/easy-round-001"
+    },
+    {
+      "name": "Daily revenue including zero-sale days",
+      "slug": "hard-gapfill-001",
+      "file": "practice/sql/hard/hard-gapfill-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-09-09",
+      "url": "https://xomdata.com/practice/hard-gapfill-001"
+    },
+    {
+      "name": "Convert prices to US dollars",
+      "slug": "py-vnd-to-usd",
+      "file": "practice/python/easy/py-vnd-to-usd/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-09",
+      "url": "https://xomdata.com/practice/py-vnd-to-usd"
+    },
+    {
+      "name": "Container with most water",
+      "slug": "py-container-water",
+      "file": "practice/python/hard/py-container-water/solution.py",
+      "lang": "python",
+      "difficulty": "hard",
+      "category": "Python Data Logic",
+      "date": "2026-09-09",
+      "url": "https://xomdata.com/practice/py-container-water"
+    },
+    {
+      "name": "Coin change II",
+      "slug": "py-coin-change-ways",
+      "file": "practice/python/hard/py-coin-change-ways/solution.py",
+      "lang": "python",
+      "difficulty": "hard",
+      "category": "Python Data Logic",
+      "date": "2026-09-09",
+      "url": "https://xomdata.com/practice/py-coin-change-ways"
+    },
+    {
+      "name": "YoY and QoQ sales growth",
+      "slug": "hard-yoy-001",
+      "file": "practice/sql/hard/hard-yoy-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-09-08",
+      "url": "https://xomdata.com/practice/hard-yoy-001"
+    },
+    {
+      "name": "Total payroll by org branch",
+      "slug": "hard-recursive-001",
+      "file": "practice/sql/hard/hard-recursive-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-09-08",
+      "url": "https://xomdata.com/practice/hard-recursive-001"
+    },
+    {
+      "name": "Top 3 products by sales in each category",
+      "slug": "hard-topn-001",
+      "file": "practice/sql/hard/hard-topn-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-09-08",
+      "url": "https://xomdata.com/practice/hard-topn-001"
+    },
+    {
+      "name": "Sum of digits in the code",
+      "slug": "py-digit-sum",
+      "file": "practice/python/easy/py-digit-sum/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-08",
+      "url": "https://xomdata.com/practice/py-digit-sum"
+    },
+    {
+      "name": "Sessionize logins with a 30-minute gap",
+      "slug": "hard-session-001",
+      "file": "practice/sql/hard/hard-session-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-09-08",
+      "url": "https://xomdata.com/practice/hard-session-001"
+    },
+    {
+      "name": "Revenue pivoted by product type",
+      "slug": "hard-pivot-001",
+      "file": "practice/sql/hard/hard-pivot-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-09-08",
+      "url": "https://xomdata.com/practice/hard-pivot-001"
+    },
+    {
+      "name": "Multi-level profit margin analysis",
+      "slug": "hard-multicte-001",
+      "file": "practice/sql/hard/hard-multicte-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-09-08",
+      "url": "https://xomdata.com/practice/hard-multicte-001"
+    },
+    {
+      "name": "Median and percentile salary by department",
+      "slug": "hard-percentile-001",
+      "file": "practice/sql/hard/hard-percentile-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-09-08",
+      "url": "https://xomdata.com/practice/hard-percentile-001"
+    },
+    {
+      "name": "7-day moving average of revenue",
+      "slug": "hard-frame-001",
+      "file": "practice/sql/hard/hard-frame-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-09-08",
+      "url": "https://xomdata.com/practice/hard-frame-001"
+    },
+    {
+      "name": "Transaction count and amount by month",
+      "slug": "medium-datefunction-045",
+      "file": "practice/sql/medium/medium-datefunction-045/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Aggregations",
+      "date": "2026-09-07",
+      "url": "https://xomdata.com/practice/medium-datefunction-045"
+    },
+    {
+      "name": "Products more expensive than the category average",
+      "slug": "medium-subquery-103",
+      "file": "practice/sql/medium/medium-subquery-103/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-09-07",
+      "url": "https://xomdata.com/practice/medium-subquery-103"
+    },
+    {
+      "name": "High-rated sellers with many orders",
+      "slug": "medium-having-019",
+      "file": "practice/sql/medium/medium-having-019/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-09-07",
+      "url": "https://xomdata.com/practice/medium-having-019"
+    },
+    {
+      "name": "Classify student academic performance",
+      "slug": "medium-case-124",
+      "file": "practice/sql/medium/medium-case-124/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-09-07",
+      "url": "https://xomdata.com/practice/medium-case-124"
+    },
+    {
+      "name": "Book count and average price by genre",
+      "slug": "medium-coalesce-040",
+      "file": "practice/sql/medium/medium-coalesce-040/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Aggregations",
+      "date": "2026-09-07",
+      "url": "https://xomdata.com/practice/medium-coalesce-040"
+    },
+    {
+      "name": "Average score per subject",
+      "slug": "medium-groupby-027",
+      "file": "practice/sql/medium/medium-groupby-027/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-09-07",
+      "url": "https://xomdata.com/practice/medium-groupby-027"
+    },
+    {
+      "name": "Customer spending per order",
+      "slug": "medium-join-001",
+      "file": "practice/sql/medium/medium-join-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-09-06",
+      "url": "https://xomdata.com/practice/medium-join-001"
+    },
+    {
+      "name": "Candidates not yet interviewed",
+      "slug": "medium-leftjoin-031",
+      "file": "practice/sql/medium/medium-leftjoin-031/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-09-06",
+      "url": "https://xomdata.com/practice/medium-leftjoin-031"
+    },
+    {
+      "name": "Next session with a higher price",
+      "slug": "nightmare-nextgreater-001",
+      "file": "practice/sql/nightmare/nightmare-nextgreater-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-05",
+      "url": "https://xomdata.com/practice/nightmare-nextgreater-001"
+    },
+    {
+      "name": "Divide safely when the divisor can be zero",
+      "slug": "py-safe-divide",
+      "file": "practice/python/easy/py-safe-divide/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-09-04",
+      "url": "https://xomdata.com/practice/py-safe-divide"
+    },
+    {
+      "name": "Median of a list",
+      "slug": "py-median",
+      "file": "practice/python/medium/py-median/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-09-03",
+      "url": "https://xomdata.com/practice/py-median"
+    },
+    {
+      "name": "Sliding window maximum",
+      "slug": "py-max-sliding-window",
+      "file": "practice/python/nightmare/py-max-sliding-window/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-02",
+      "url": "https://xomdata.com/practice/py-max-sliding-window"
+    },
+    {
+      "name": "Top 2 salespeople by sales each month",
+      "slug": "expert-final-multi-007",
+      "file": "practice/sql/nightmare/expert-final-multi-007/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-01",
+      "url": "https://xomdata.com/practice/expert-final-multi-007"
+    },
+    {
+      "name": "Add goods into the stock table",
+      "slug": "py-update-stock",
+      "file": "practice/python/easy/py-update-stock/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-08-31",
+      "url": "https://xomdata.com/practice/py-update-stock"
+    },
+    {
+      "name": "Record sales up to each day",
+      "slug": "py-running-max",
+      "file": "practice/python/medium/py-running-max/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-08-30",
+      "url": "https://xomdata.com/practice/py-running-max"
+    },
+    {
+      "name": "Add up shift durations",
+      "slug": "py-duration-sum",
+      "file": "practice/python/medium/py-duration-sum/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-08-29",
+      "url": "https://xomdata.com/practice/py-duration-sum"
+    },
+    {
+      "name": "Stock gap between two branches",
+      "slug": "py-abs-gap",
+      "file": "practice/python/easy/py-abs-gap/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-08-28",
+      "url": "https://xomdata.com/practice/py-abs-gap"
+    },
+    {
+      "name": "Sales division employees",
+      "slug": "easy-like-002",
+      "file": "practice/sql/easy/easy-like-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-28",
+      "url": "https://xomdata.com/practice/easy-like-002"
+    },
+    {
+      "name": "Most watched videos this week",
+      "slug": "easy-orderby-003",
+      "file": "practice/sql/easy/easy-orderby-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-28",
+      "url": "https://xomdata.com/practice/easy-orderby-003"
+    },
+    {
+      "name": "Library late return fee",
+      "slug": "py-late-fee",
+      "file": "practice/python/easy/py-late-fee/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-08-28",
+      "url": "https://xomdata.com/practice/py-late-fee"
+    },
+    {
+      "name": "Excluding internal accounts from the report",
+      "slug": "easy-notlike-001",
+      "file": "practice/sql/easy/easy-notlike-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Aggregations",
+      "date": "2026-08-28",
+      "url": "https://xomdata.com/practice/easy-notlike-001"
+    },
+    {
+      "name": "Did the whole team clear the first round",
+      "slug": "py-all-passed",
+      "file": "practice/python/easy/py-all-passed/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-08-28",
+      "url": "https://xomdata.com/practice/py-all-passed"
+    },
+    {
+      "name": "Devices ready for dispatch",
+      "slug": "easy-not-001",
+      "file": "practice/sql/easy/easy-not-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-28",
+      "url": "https://xomdata.com/practice/easy-not-001"
+    },
+    {
+      "name": "Check leap year",
+      "slug": "py-leap-year",
+      "file": "practice/python/easy/py-leap-year/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-08-28",
+      "url": "https://xomdata.com/practice/py-leap-year"
+    },
+    {
+      "name": "Build an order code from its parts",
+      "slug": "py-join-parts",
+      "file": "practice/python/easy/py-join-parts/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-08-28",
+      "url": "https://xomdata.com/practice/py-join-parts"
+    },
+    {
+      "name": "Books about data",
+      "slug": "easy-like-003",
+      "file": "practice/sql/easy/easy-like-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-28",
+      "url": "https://xomdata.com/practice/easy-like-003"
+    },
+    {
+      "name": "Search in rotated sorted array",
+      "slug": "py-search-rotated",
+      "file": "practice/python/nightmare/py-search-rotated/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Data Structures & Algos",
+      "date": "2026-08-27",
+      "url": "https://xomdata.com/practice/py-search-rotated"
+    },
+    {
+      "name": "Reverse words in a string",
+      "slug": "py-reverse-words",
+      "file": "practice/python/medium/py-reverse-words/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Data Structures & Algos",
+      "date": "2026-08-26",
+      "url": "https://xomdata.com/practice/py-reverse-words"
+    },
+    {
+      "name": "Total spend per member",
+      "slug": "easy-leftjoin-002",
+      "file": "practice/sql/easy/easy-leftjoin-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-25",
+      "url": "https://xomdata.com/practice/easy-leftjoin-002"
+    },
+    {
+      "name": "Top salary in each department",
+      "slug": "easy-groupby-005",
+      "file": "practice/sql/easy/easy-groupby-005/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-25",
+      "url": "https://xomdata.com/practice/easy-groupby-005"
+    },
+    {
+      "name": "Display names on profile pages",
+      "slug": "easy-coalesce-001",
+      "file": "practice/sql/easy/easy-coalesce-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-25",
+      "url": "https://xomdata.com/practice/easy-coalesce-001"
+    },
+    {
+      "name": "Apartments matching the client's criteria",
+      "slug": "easy-andor-001",
+      "file": "practice/sql/easy/easy-andor-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-25",
+      "url": "https://xomdata.com/practice/easy-andor-001"
+    },
+    {
+      "name": "Word frequency count in text",
+      "slug": "py-word-frequency",
+      "file": "practice/python/medium/py-word-frequency/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-word-frequency"
+    },
+    {
+      "name": "Valid parentheses",
+      "slug": "py-balanced-brackets",
+      "file": "practice/python/medium/py-balanced-brackets/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-balanced-brackets"
+    },
+    {
+      "name": "Valid nested parentheses",
+      "slug": "py-valid-brackets",
+      "file": "practice/python/hard/py-valid-brackets/solution.py",
+      "lang": "python",
+      "difficulty": "hard",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-valid-brackets"
+    },
+    {
+      "name": "Two sum",
+      "slug": "py-two-sum-indices",
+      "file": "practice/python/hard/py-two-sum-indices/solution.py",
+      "lang": "python",
+      "difficulty": "hard",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-two-sum-indices"
+    },
+    {
+      "name": "Total receipts",
+      "slug": "py-sum-positive",
+      "file": "practice/python/easy/py-sum-positive/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-sum-positive"
+    },
+    {
+      "name": "Top K largest elements",
+      "slug": "py-top-k",
+      "file": "practice/python/medium/py-top-k/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-top-k"
+    },
+    {
+      "name": "Spiral matrix",
+      "slug": "py-spiral-order",
+      "file": "practice/python/hard/py-spiral-order/solution.py",
+      "lang": "python",
+      "difficulty": "hard",
+      "category": "Data Structures & Algos",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-spiral-order"
+    },
+    {
+      "name": "Sentence segmentation with a dictionary",
+      "slug": "py-word-break",
+      "file": "practice/python/hard/py-word-break/solution.py",
+      "lang": "python",
+      "difficulty": "hard",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-word-break"
+    },
+    {
+      "name": "Second largest value",
+      "slug": "py-second-largest",
+      "file": "practice/python/medium/py-second-largest/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-second-largest"
+    },
+    {
+      "name": "Number of islands",
+      "slug": "py-count-islands",
+      "file": "practice/python/hard/py-count-islands/solution.py",
+      "lang": "python",
+      "difficulty": "hard",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-count-islands"
+    },
+    {
+      "name": "Moving average over a window of k",
+      "slug": "py-moving-average",
+      "file": "practice/python/medium/py-moving-average/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-moving-average"
+    },
+    {
+      "name": "Most frequent character",
+      "slug": "py-most-frequent",
+      "file": "practice/python/easy/py-most-frequent/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-most-frequent"
+    },
+    {
+      "name": "Merge intervals",
+      "slug": "py-merge-intervals",
+      "file": "practice/python/hard/py-merge-intervals/solution.py",
+      "lang": "python",
+      "difficulty": "hard",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-merge-intervals"
+    },
+    {
+      "name": "Maximum subarray sum",
+      "slug": "py-max-subarray",
+      "file": "practice/python/hard/py-max-subarray/solution.py",
+      "lang": "python",
+      "difficulty": "hard",
+      "category": "Data Structures & Algos",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-max-subarray"
+    },
+    {
+      "name": "Longest substring without repeating characters",
+      "slug": "py-longest-unique-substring",
+      "file": "practice/python/hard/py-longest-unique-substring/solution.py",
+      "lang": "python",
+      "difficulty": "hard",
+      "category": "Data Structures & Algos",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-longest-unique-substring"
+    },
+    {
+      "name": "Letter grade from score",
+      "slug": "py-grade-letter",
+      "file": "practice/python/easy/py-grade-letter/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-grade-letter"
+    },
+    {
+      "name": "Highest price in the list",
+      "slug": "py-max-price",
+      "file": "practice/python/easy/py-max-price/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-max-price"
+    },
+    {
+      "name": "Group products by category",
+      "slug": "py-group-category",
+      "file": "practice/python/medium/py-group-category/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-group-category"
+    },
+    {
+      "name": "Group anagrams",
+      "slug": "py-anagram-groups",
+      "file": "practice/python/hard/py-anagram-groups/solution.py",
+      "lang": "python",
+      "difficulty": "hard",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-anagram-groups"
+    },
+    {
+      "name": "FizzBuzz",
+      "slug": "py-fizzbuzz",
+      "file": "practice/python/medium/py-fizzbuzz/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-fizzbuzz"
+    },
+    {
+      "name": "Employees paid above their department average",
+      "slug": "medium-subquery-110",
+      "file": "practice/sql/medium/medium-subquery-110/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/medium-subquery-110"
+    },
+    {
+      "name": "Determine the sign of a number",
+      "slug": "py-number-sign",
+      "file": "practice/python/easy/py-number-sign/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-number-sign"
+    },
+    {
+      "name": "Cumulative total by day",
+      "slug": "py-running-total",
+      "file": "practice/python/medium/py-running-total/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-running-total"
+    },
+    {
+      "name": "Count words in a paragraph",
+      "slug": "py-word-count",
+      "file": "practice/python/easy/py-word-count/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Trees & Graphs",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-word-count"
+    },
+    {
+      "name": "Count vowels in a name",
+      "slug": "py-vowels",
+      "file": "practice/python/easy/py-vowels/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-vowels"
+    },
+    {
+      "name": "Count pairs with a target sum",
+      "slug": "py-two-sum-count",
+      "file": "practice/python/medium/py-two-sum-count/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-two-sum-count"
+    },
+    {
+      "name": "Compute price after discount",
+      "slug": "py-discount",
+      "file": "practice/python/easy/py-discount/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-discount"
+    },
+    {
+      "name": "Climbing stairs",
+      "slug": "py-climb-stairs",
+      "file": "practice/python/hard/py-climb-stairs/solution.py",
+      "lang": "python",
+      "difficulty": "hard",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-climb-stairs"
+    },
+    {
+      "name": "Check prime number",
+      "slug": "py-is-prime",
+      "file": "practice/python/medium/py-is-prime/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-is-prime"
+    },
+    {
+      "name": "Check palindrome",
+      "slug": "py-palindrome",
+      "file": "practice/python/easy/py-palindrome/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Dynamic Programming",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-palindrome"
+    },
+    {
+      "name": "Billboard area",
+      "slug": "py-rectangle-area",
+      "file": "practice/python/easy/py-rectangle-area/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-08-24",
+      "url": "https://xomdata.com/practice/py-rectangle-area"
+    },
+    {
+      "name": "Đồng hồ đếm ngược trước khi mất khách",
+      "slug": "medium-churn-003",
+      "file": "practice/sql/medium/medium-churn-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-churn-003"
+    },
+    {
+      "name": "Đà tăng giảm lượng khách qua từng tháng",
+      "slug": "medium-active-005",
+      "file": "practice/sql/medium/medium-active-005/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-active-005"
+    },
+    {
+      "name": "Which sales channel leads in orders",
+      "slug": "easy-groupby-004",
+      "file": "practice/sql/easy/easy-groupby-004/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Window Functions",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/easy-groupby-004"
+    },
+    {
+      "name": "Vùng cảnh báo vàng trước khi mất khách",
+      "slug": "medium-churn-005",
+      "file": "practice/sql/medium/medium-churn-005/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-churn-005"
+    },
+    {
+      "name": "Tuổi đời mua sắm của khách",
+      "slug": "medium-cohort-006",
+      "file": "practice/sql/medium/medium-cohort-006/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-cohort-006"
+    },
+    {
+      "name": "Tickets still valid",
+      "slug": "easy-count-010",
+      "file": "practice/sql/easy/easy-count-010/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/easy-count-010"
+    },
+    {
+      "name": "Tháng bùng nổ khách mới",
+      "slug": "medium-active-003",
+      "file": "practice/sql/medium/medium-active-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-active-003"
+    },
+    {
+      "name": "Thuê bao còn hiệu lực hay đã dừng",
+      "slug": "medium-churn-002",
+      "file": "practice/sql/medium/medium-churn-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-churn-002"
+    },
+    {
+      "name": "Thuê bao còn hiệu lực hay đã dừng",
+      "slug": "medium-churn-002",
+      "file": "practice/sql/easy/medium-churn-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-churn-002"
+    },
+    {
+      "name": "Sổ đen những khách đã im lặng quá lâu",
+      "slug": "medium-churn-004",
+      "file": "practice/sql/medium/medium-churn-004/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-churn-004"
+    },
+    {
+      "name": "So găng lượng khách giữa các quý",
+      "slug": "medium-active-006",
+      "file": "practice/sql/medium/medium-active-006/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-active-006"
+    },
+    {
+      "name": "Revenue by product category",
+      "slug": "easy-groupby-002",
+      "file": "practice/sql/easy/easy-groupby-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/easy-groupby-002"
+    },
+    {
+      "name": "Quý khởi đầu của mỗi khách",
+      "slug": "medium-cohort-005",
+      "file": "practice/sql/medium/medium-cohort-005/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-cohort-005"
+    },
+    {
+      "name": "Quy mô và tiền tươi tháng đầu của mỗi thế hệ",
+      "slug": "medium-cohort-008",
+      "file": "practice/sql/medium/medium-cohort-008/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-cohort-008"
+    },
+    {
+      "name": "Quy mô và tiền tươi tháng đầu của mỗi thế hệ",
+      "slug": "medium-cohort-008",
+      "file": "practice/sql/hard/medium-cohort-008/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-cohort-008"
+    },
+    {
+      "name": "Nhịp khách ghé cửa hàng theo tháng",
+      "slug": "medium-active-001",
+      "file": "practice/sql/medium/medium-active-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-active-001"
+    },
+    {
+      "name": "Nhịp khách ghé cửa hàng theo tháng",
+      "slug": "medium-active-001",
+      "file": "practice/sql/easy/medium-active-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-active-001"
+    },
+    {
+      "name": "Names printed on staff badges",
+      "slug": "easy-concat-001",
+      "file": "practice/sql/easy/easy-concat-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/easy-concat-001"
+    },
+    {
+      "name": "Mỗi thế hệ khách đông cỡ nào",
+      "slug": "medium-cohort-004",
+      "file": "practice/sql/medium/medium-cohort-004/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-cohort-004"
+    },
+    {
+      "name": "Kênh nào tạo ra khách trung thành",
+      "slug": "medium-repeat-005",
+      "file": "practice/sql/medium/medium-repeat-005/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-repeat-005"
+    },
+    {
+      "name": "Kênh nào tạo ra khách trung thành",
+      "slug": "medium-repeat-005",
+      "file": "practice/sql/hard/medium-repeat-005/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-repeat-005"
+    },
+    {
+      "name": "Khách chuyên cần đủ bốn mùa",
+      "slug": "medium-repeat-006",
+      "file": "practice/sql/medium/medium-repeat-006/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-repeat-006"
+    },
+    {
+      "name": "Khoảng lặng giữa hai lần mua liền kề",
+      "slug": "medium-gap-001",
+      "file": "practice/sql/medium/medium-gap-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-gap-001"
+    },
+    {
+      "name": "Headcount per membership plan",
+      "slug": "easy-groupby-001",
+      "file": "practice/sql/easy/easy-groupby-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Aggregations",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/easy-groupby-001"
+    },
+    {
+      "name": "Doanh thu đội nón ra đi cùng khách cũ",
+      "slug": "medium-churn-007",
+      "file": "practice/sql/medium/medium-churn-007/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-churn-007"
+    },
+    {
+      "name": "Cửa hàng giữ được bao nhiêu phần khách",
+      "slug": "medium-repeat-002",
+      "file": "practice/sql/medium/medium-repeat-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-repeat-002"
+    },
+    {
+      "name": "Countries our students come from",
+      "slug": "easy-distinct-008",
+      "file": "practice/sql/easy/easy-distinct-008/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Aggregations",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/easy-distinct-008"
+    },
+    {
+      "name": "Chốt được đơn thứ hai trong một tháng",
+      "slug": "medium-repeat-004",
+      "file": "practice/sql/medium/medium-repeat-004/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-repeat-004"
+    },
+    {
+      "name": "Chốt được đơn thứ hai trong một tháng",
+      "slug": "medium-repeat-004",
+      "file": "practice/sql/hard/medium-repeat-004/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-repeat-004"
+    },
+    {
+      "name": "Bức ảnh tệp khách tại một thời điểm",
+      "slug": "medium-churn-006",
+      "file": "practice/sql/medium/medium-churn-006/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-churn-006"
+    },
+    {
+      "name": "Bao lâu thì khách quyết định quay lại lần hai",
+      "slug": "medium-gap-002",
+      "file": "practice/sql/medium/medium-gap-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-gap-002"
+    },
+    {
+      "name": "Bao lâu thì khách quyết định quay lại lần hai",
+      "slug": "medium-gap-002",
+      "file": "practice/sql/hard/medium-gap-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-gap-002"
+    },
+    {
+      "name": "Average score per class",
+      "slug": "easy-groupby-003",
+      "file": "practice/sql/easy/easy-groupby-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/easy-groupby-003"
+    },
+    {
+      "name": "Ai nhập hội đúng mùa khuyến mãi",
+      "slug": "medium-cohort-007",
+      "file": "practice/sql/medium/medium-cohort-007/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-cohort-007"
+    },
+    {
+      "name": "Ai ghé đủ cả hai tháng liền nhau",
+      "slug": "medium-active-002",
+      "file": "practice/sql/medium/medium-active-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-active-002"
+    },
+    {
+      "name": "Ai ghé đủ cả hai tháng liền nhau",
+      "slug": "medium-active-002",
+      "file": "practice/sql/easy/medium-active-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-active-002"
+    },
+    {
+      "name": "Ai chuyên cần suốt cả quý",
+      "slug": "medium-active-004",
+      "file": "practice/sql/medium/medium-active-004/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-active-004"
+    },
+    {
+      "name": "Ai chuyên cần suốt cả quý",
+      "slug": "medium-active-004",
+      "file": "practice/sql/easy/medium-active-004/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-active-004"
+    },
+    {
+      "name": "Accounts still missing a tax code",
+      "slug": "easy-count-011",
+      "file": "practice/sql/easy/easy-count-011/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Aggregations",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/easy-count-011"
+    },
+    {
+      "name": "Users who never took a ride",
+      "slug": "easy-leftjoin-001",
+      "file": "practice/sql/easy/easy-leftjoin-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-22",
+      "url": "https://xomdata.com/practice/easy-leftjoin-001"
+    },
+    {
+      "name": "Total number of bank accounts",
+      "slug": "easy-count-006",
+      "file": "practice/sql/easy/easy-count-006/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Aggregations",
+      "date": "2026-08-22",
+      "url": "https://xomdata.com/practice/easy-count-006"
+    },
+    {
+      "name": "The cafe's average rating",
+      "slug": "easy-avg-002",
+      "file": "practice/sql/easy/easy-avg-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-22",
+      "url": "https://xomdata.com/practice/easy-avg-002"
+    },
+    {
+      "name": "Stock exchanges",
+      "slug": "easy-distinct-007",
+      "file": "practice/sql/easy/easy-distinct-007/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-22",
+      "url": "https://xomdata.com/practice/easy-distinct-007"
+    },
+    {
+      "name": "Records with a contact number",
+      "slug": "easy-isnull-003",
+      "file": "practice/sql/easy/easy-isnull-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-22",
+      "url": "https://xomdata.com/practice/easy-isnull-003"
+    },
+    {
+      "name": "Parcels bound for Denver",
+      "slug": "easy-join-002",
+      "file": "practice/sql/easy/easy-join-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-22",
+      "url": "https://xomdata.com/practice/easy-join-002"
+    },
+    {
+      "name": "Orders with customer names",
+      "slug": "easy-join-001",
+      "file": "practice/sql/easy/easy-join-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-22",
+      "url": "https://xomdata.com/practice/easy-join-001"
+    },
+    {
+      "name": "Dishes off this season's menu",
+      "slug": "easy-in-002",
+      "file": "practice/sql/easy/easy-in-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-22",
+      "url": "https://xomdata.com/practice/easy-in-002"
+    },
+    {
+      "name": "Customers reaching the loyalty milestone",
+      "slug": "easy-having-002",
+      "file": "practice/sql/easy/easy-having-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-22",
+      "url": "https://xomdata.com/practice/easy-having-002"
+    },
+    {
+      "name": "Customers in key cities",
+      "slug": "easy-in-001",
+      "file": "practice/sql/easy/easy-in-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-22",
+      "url": "https://xomdata.com/practice/easy-in-001"
+    },
+    {
+      "name": "Categories full enough for the homepage",
+      "slug": "easy-having-001",
+      "file": "practice/sql/easy/easy-having-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-22",
+      "url": "https://xomdata.com/practice/easy-having-001"
+    },
+    {
+      "name": "Total shipping fees collected",
+      "slug": "easy-sum-004",
+      "file": "practice/sql/easy/easy-sum-004/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-sum-004"
+    },
+    {
+      "name": "Total balance across the bank",
+      "slug": "easy-sum-003",
+      "file": "practice/sql/easy/easy-sum-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-sum-003"
+    },
+    {
+      "name": "Top-scoring players",
+      "slug": "easy-where-027",
+      "file": "practice/sql/easy/easy-where-027/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-where-027"
+    },
+    {
+      "name": "Top 5 highest-paid employees",
+      "slug": "easy-limit-004",
+      "file": "practice/sql/easy/easy-limit-004/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-limit-004"
+    },
+    {
+      "name": "Today's showtimes in time order",
+      "slug": "easy-join-004",
+      "file": "practice/sql/easy/easy-join-004/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-join-004"
+    },
+    {
+      "name": "Ticket statuses guests can read",
+      "slug": "easy-join-005",
+      "file": "practice/sql/easy/easy-join-005/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-join-005"
+    },
+    {
+      "name": "Tháng chào sân của từng khách",
+      "slug": "medium-cohort-003",
+      "file": "practice/sql/medium/medium-cohort-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/medium-cohort-003"
+    },
+    {
+      "name": "Tháng chào sân của từng khách",
+      "slug": "medium-cohort-003",
+      "file": "practice/sql/easy/medium-cohort-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/medium-cohort-003"
+    },
+    {
+      "name": "Sizing parcels by weight",
+      "slug": "easy-case-002",
+      "file": "practice/sql/easy/easy-case-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-case-002"
+    },
+    {
+      "name": "Safety training results",
+      "slug": "easy-case-001",
+      "file": "practice/sql/easy/easy-case-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-case-001"
+    },
+    {
+      "name": "Products in a price range",
+      "slug": "easy-between-001",
+      "file": "practice/sql/easy/easy-between-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-between-001"
+    },
+    {
+      "name": "Patients with blood type O+",
+      "slug": "easy-where-020",
+      "file": "practice/sql/easy/easy-where-020/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-where-020"
+    },
+    {
+      "name": "Orders during the promo period",
+      "slug": "easy-between-002",
+      "file": "practice/sql/easy/easy-between-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-between-002"
+    },
+    {
+      "name": "Multi-day tours",
+      "slug": "easy-where-023",
+      "file": "practice/sql/easy/easy-where-023/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-where-023"
+    },
+    {
+      "name": "Line totals from the price list",
+      "slug": "easy-join-003",
+      "file": "practice/sql/easy/easy-join-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-join-003"
+    },
+    {
+      "name": "Khách một lần ghé và khách quay lại",
+      "slug": "medium-repeat-001",
+      "file": "practice/sql/medium/medium-repeat-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/medium-repeat-001"
+    },
+    {
+      "name": "Highest-revenue month across the chain",
+      "slug": "easy-max-001",
+      "file": "practice/sql/easy/easy-max-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-max-001"
+    },
+    {
+      "name": "High-priced products",
+      "slug": "easy-where-002",
+      "file": "practice/sql/easy/easy-where-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-where-002"
+    },
+    {
+      "name": "Heavy shipments",
+      "slug": "easy-where-025",
+      "file": "practice/sql/easy/easy-where-025/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-where-025"
+    },
+    {
+      "name": "Gắn nhãn khách còn gắn bó hay đã rời đi",
+      "slug": "medium-churn-001",
+      "file": "practice/sql/medium/medium-churn-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/medium-churn-001"
+    },
+    {
+      "name": "Employees by salary, descending",
+      "slug": "easy-where-008",
+      "file": "practice/sql/easy/easy-where-008/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-where-008"
+    },
+    {
+      "name": "Delivered orders",
+      "slug": "easy-where-003",
+      "file": "practice/sql/easy/easy-where-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-where-003"
+    },
+    {
+      "name": "Deal count per client",
+      "slug": "easy-join-007",
+      "file": "practice/sql/easy/easy-join-007/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Aggregations",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-join-007"
+    },
+    {
+      "name": "Customers who ever bought skincare",
+      "slug": "easy-join-006",
+      "file": "practice/sql/easy/easy-join-006/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-join-006"
+    },
+    {
+      "name": "Books priced above a threshold",
+      "slug": "easy-where-012",
+      "file": "practice/sql/easy/easy-where-012/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-where-012"
+    },
+    {
+      "name": "Average score in Math",
+      "slug": "easy-avg-003",
+      "file": "practice/sql/easy/easy-avg-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-avg-003"
+    },
+    {
+      "name": "5 cheapest products",
+      "slug": "easy-limit-001",
+      "file": "practice/sql/easy/easy-limit-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/easy-limit-001"
+    },
+    {
+      "name": "Scholarship-eligible students",
+      "slug": "easy-where-010",
+      "file": "practice/sql/easy/easy-where-010/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-20",
+      "url": "https://xomdata.com/practice/easy-where-010"
+    },
+    {
+      "name": "Patients without a health-insurance declaration",
+      "slug": "easy-isnull-002",
+      "file": "practice/sql/easy/easy-isnull-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-20",
+      "url": "https://xomdata.com/practice/easy-isnull-002"
+    },
+    {
+      "name": "Highest and lowest score in the cohort",
+      "slug": "easy-minmax-001",
+      "file": "practice/sql/easy/easy-minmax-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "Advanced Analytics & Cohorts",
+      "date": "2026-08-20",
+      "url": "https://xomdata.com/practice/easy-minmax-001"
+    },
+    {
+      "name": "View the full product catalog",
+      "slug": "easy-select-001",
+      "file": "practice/sql/easy/easy-select-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-19",
+      "url": "https://xomdata.com/practice/easy-select-001"
+    },
+    {
+      "name": "Types of bank accounts",
+      "slug": "easy-distinct-006",
+      "file": "practice/sql/easy/easy-distinct-006/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Aggregations",
+      "date": "2026-08-19",
+      "url": "https://xomdata.com/practice/easy-distinct-006"
+    },
+    {
+      "name": "Total products in the catalog",
+      "slug": "easy-count-001",
+      "file": "practice/sql/easy/easy-count-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-19",
+      "url": "https://xomdata.com/practice/easy-count-001"
+    },
+    {
+      "name": "Top 3 highest-value orders",
+      "slug": "easy-limit-002",
+      "file": "practice/sql/easy/easy-limit-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-19",
+      "url": "https://xomdata.com/practice/easy-limit-002"
+    },
+    {
+      "name": "Store list by city",
+      "slug": "easy-select-005",
+      "file": "practice/sql/easy/easy-select-005/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-19",
+      "url": "https://xomdata.com/practice/easy-select-005"
+    },
+    {
+      "name": "Revenue from delivered orders",
+      "slug": "easy-sum-001",
+      "file": "practice/sql/easy/easy-sum-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-19",
+      "url": "https://xomdata.com/practice/easy-sum-001"
+    },
+    {
+      "name": "Number of delivered orders",
+      "slug": "easy-count-002",
+      "file": "practice/sql/easy/easy-count-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-19",
+      "url": "https://xomdata.com/practice/easy-count-002"
+    },
+    {
+      "name": "Get product name and price",
+      "slug": "easy-select-002",
+      "file": "practice/sql/easy/easy-select-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-19",
+      "url": "https://xomdata.com/practice/easy-select-002"
+    },
+    {
+      "name": "Filter products by category",
+      "slug": "easy-where-001",
+      "file": "practice/sql/easy/easy-where-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-19",
+      "url": "https://xomdata.com/practice/easy-where-001"
+    },
+    {
+      "name": "Company-wide average salary",
+      "slug": "easy-avg-001",
+      "file": "practice/sql/easy/easy-avg-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-19",
+      "url": "https://xomdata.com/practice/easy-avg-001"
+    },
+    {
+      "name": "Basic-plan subscribers",
+      "slug": "easy-like-001",
+      "file": "practice/sql/easy/easy-like-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-19",
+      "url": "https://xomdata.com/practice/easy-like-001"
+    },
+    {
+      "name": "Active menu sorted by price",
+      "slug": "easy-orderby-001",
+      "file": "practice/sql/easy/easy-orderby-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-19",
+      "url": "https://xomdata.com/practice/easy-orderby-001"
+    }
+  ]
+}

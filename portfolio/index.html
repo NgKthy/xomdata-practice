@@ -1,0 +1,297 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NgKthy — Data Practice Dashboard</title>
+  <meta name="description" content="Personal data practice dashboard · SQL & Python analytics · 336 solutions">
+  <meta name="keywords" content="data analyst, SQL, Python, pandas, portfolio, practice, NgKthy">
+  <meta property="og:title" content="NgKthy — Data Practice Dashboard">
+  <meta property="og:description" content="336 accepted solutions · SQL, Python · Data Analytics Practice Portfolio">
+  <meta property="og:type" content="website">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+</head>
+<body>
+
+<!-- 01 HEADER -->
+<header class="site-header" id="top">
+  <a class="brand" href="#top">
+    <span class="brand-icon">N</span>
+    <span class="brand-text">NgKthy <span class="brand-slash">/</span> Data Practice</span>
+  </a>
+  <nav class="nav">
+    <a class="nav-link" href="#overview">Overview</a>
+    <a class="nav-link" href="#distributions">Distributions</a>
+    <a class="nav-link" href="#solutions">Solutions</a>
+    <a class="nav-link" href="#activity">Activity</a>
+    <a class="nav-link nav-link--github" href="https://github.com/NgKthy/xomdata-practice" target="_blank" rel="noopener">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/></svg>
+      GitHub ↗
+    </a>
+  </nav>
+</header>
+
+<main>
+
+<!-- 02 PROFILE -->
+<section class="profile-section" id="profile">
+  <div class="container">
+    <div class="profile-card">
+      <div class="profile-avatar" aria-hidden="true">N</div>
+      <div class="profile-info">
+        <h1 class="profile-name">NgKthy</h1>
+        <p class="profile-tagline">Data Analyst · SQL &amp; Python Practice</p>
+        <p class="profile-bio">Building analytical skills through daily practice on <a href="https://xomdata.com/practice" target="_blank" rel="noopener">Xom Data</a>. Every solution is a real problem solved.</p>
+      </div>
+      <div class="profile-badges">
+        <span class="sync-badge" id="sync-badge" data-state="synced">● Sync active</span>
+        <a class="profile-cta" href="https://github.com/NgKthy/xomdata-practice" target="_blank" rel="noopener">View on GitHub ↗</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 03 PRACTICE OVERVIEW (5 KPI) -->
+<section class="overview-section" id="overview">
+  <div class="container">
+    <h2 class="section-title">Practice Overview</h2>
+    <div class="kpi-grid">
+      <div class="kpi" id="kpi-accepted">
+        <div class="kpi__value" data-target="0">—</div>
+        <div class="kpi__label">Accepted Solutions</div>
+        <div class="kpi__sublabel">total files solved</div>
+      </div>
+      <div class="kpi" id="kpi-challenges">
+        <div class="kpi__value" data-target="0">—</div>
+        <div class="kpi__label">Unique Challenges</div>
+        <div class="kpi__sublabel">distinct problems</div>
+      </div>
+      <div class="kpi" id="kpi-languages">
+        <div class="kpi__value" data-target="0">—</div>
+        <div class="kpi__label">Languages</div>
+        <div class="kpi__sublabel">SQL · Python</div>
+      </div>
+      <div class="kpi" id="kpi-streak">
+        <div class="kpi__value" data-target="0">—</div>
+        <div class="kpi__label">Day Streak</div>
+        <div class="kpi__sublabel">consecutive days</div>
+      </div>
+      <div class="kpi" id="kpi-synced">
+        <div class="kpi__value kpi__value--small">—</div>
+        <div class="kpi__label">Synced</div>
+        <div class="kpi__sublabel">solutions tracked</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 04 LANGUAGE + DIFFICULTY DISTRIBUTIONS -->
+<section class="dist-section" id="distributions">
+  <div class="container">
+    <div class="dist-grid">
+      <!-- Language Distribution -->
+      <div class="card" id="lang-dist">
+        <h2 class="card-title">Language Distribution</h2>
+        <div class="bar-chart" id="lang-bars">
+          <div class="loading-placeholder">Loading…</div>
+        </div>
+      </div>
+      <!-- Difficulty Distribution -->
+      <div class="card" id="diff-dist">
+        <h2 class="card-title">Difficulty Distribution</h2>
+        <div class="bar-chart" id="diff-bars">
+          <div class="loading-placeholder">Loading…</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 05 PRACTICE TREND -->
+<section class="trend-section" id="trend">
+  <div class="container">
+    <div class="card">
+      <div class="card-header">
+        <h2 class="card-title">Practice Trend</h2>
+        <span class="card-subtitle" id="trend-subtitle">Solutions per month</span>
+      </div>
+      <div class="trend-chart-wrap">
+        <svg id="trend-chart" class="trend-chart" role="img" aria-label="Practice trend chart">
+          <text x="50%" y="50%" text-anchor="middle" fill="#64748b">Loading chart…</text>
+        </svg>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 06 PRACTICE FOCUS + CATEGORY TOPICS -->
+<section class="focus-section" id="focus">
+  <div class="container">
+    <div class="dist-grid">
+      <!-- Practice Focus -->
+      <div class="card" id="focus-card">
+        <h2 class="card-title">Practice Focus</h2>
+        <div class="focus-list" id="focus-list">
+          <div class="loading-placeholder">Loading…</div>
+        </div>
+      </div>
+      <!-- Challenge Topics -->
+      <div class="card" id="topics-card">
+        <h2 class="card-title">Challenge Topics</h2>
+        <div class="topics-list" id="topics-list">
+          <div class="loading-placeholder">Loading…</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 07 RECENT ACCEPTED SOLUTIONS -->
+<section class="solutions-section" id="solutions">
+  <div class="container">
+    <div class="card solutions-card">
+      <div class="card-header">
+        <h2 class="card-title">Recent Accepted Solutions</h2>
+        <span class="solutions-count" id="solutions-count">— solutions</span>
+      </div>
+
+      <!-- Filter bar -->
+      <div class="filter-bar" id="filter-bar" role="group" aria-label="Filter solutions">
+        <div class="filter-group">
+          <span class="filter-label">Language</span>
+          <button class="filter-btn active" data-filter="lang" data-value="all" id="filter-lang-all">All</button>
+          <button class="filter-btn filter-btn--python" data-filter="lang" data-value="python" id="filter-lang-python">Python</button>
+          <button class="filter-btn filter-btn--sql" data-filter="lang" data-value="sql" id="filter-lang-sql">SQL</button>
+        </div>
+        <div class="filter-group">
+          <span class="filter-label">Difficulty</span>
+          <button class="filter-btn active" data-filter="diff" data-value="all" id="filter-diff-all">All</button>
+          <button class="filter-btn filter-btn--easy" data-filter="diff" data-value="easy" id="filter-diff-easy">Easy</button>
+          <button class="filter-btn filter-btn--medium" data-filter="diff" data-value="medium" id="filter-diff-medium">Medium</button>
+          <button class="filter-btn filter-btn--hard" data-filter="diff" data-value="hard" id="filter-diff-hard">Hard</button>
+          <button class="filter-btn filter-btn--nightmare" data-filter="diff" data-value="nightmare" id="filter-diff-nightmare">Nightmare</button>
+        </div>
+        <button class="btn-reset" id="btn-reset" aria-label="Reset filters">Reset</button>
+      </div>
+
+      <!-- Solutions table -->
+      <div class="table-wrap" id="solutions-table-wrap">
+        <table class="solutions-table" id="solutions-table" aria-label="Solutions list">
+          <thead>
+            <tr>
+              <th>Problem</th>
+              <th>Category</th>
+              <th>Language</th>
+              <th>Difficulty</th>
+              <th>Date</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody id="solutions-tbody">
+            <tr><td colspan="6" class="loading-placeholder">Loading solutions…</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!-- Empty state -->
+      <div class="empty-state" id="empty-state" style="display:none">
+        <div class="empty-state__icon">⚡</div>
+        <div class="empty-state__text">No solutions match your filters</div>
+        <button class="btn-reset" id="btn-reset-2">Reset filters</button>
+      </div>
+
+      <!-- Show more / less -->
+      <div class="table-footer" id="table-footer">
+        <button class="btn-showmore" id="btn-showmore">Show all solutions</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 08 ACTIVITY + SYNC STATUS -->
+<section class="activity-section" id="activity">
+  <div class="container">
+    <div class="dist-grid">
+      <!-- Activity Heatmap -->
+      <div class="card activity-card">
+        <div class="card-header">
+          <h2 class="card-title">Practice Activity</h2>
+          <span class="card-subtitle" id="activity-subtitle"></span>
+        </div>
+        <div class="heatmap-wrap" id="heatmap-wrap">
+          <div class="heatmap" id="heatmap" role="img" aria-label="Practice activity heatmap">
+            <div class="loading-placeholder">Loading heatmap…</div>
+          </div>
+          <div class="heatmap-legend">
+            <span>Less</span>
+            <div class="hm-cell" data-level="0"></div>
+            <div class="hm-cell" data-level="1"></div>
+            <div class="hm-cell" data-level="2"></div>
+            <div class="hm-cell" data-level="3"></div>
+            <div class="hm-cell" data-level="4"></div>
+            <span>More</span>
+          </div>
+        </div>
+      </div>
+      <!-- Sync Status -->
+      <div class="card sync-card">
+        <h2 class="card-title">Sync Status</h2>
+        <div class="sync-info" id="sync-info">
+          <div class="sync-row">
+            <span class="sync-label">Status</span>
+            <span class="sync-badge sync-badge--lg" id="sync-badge-detail" data-state="synced">● Synced</span>
+          </div>
+          <div class="sync-row">
+            <span class="sync-label">Source commit</span>
+            <code class="sync-commit" id="sync-commit">—</code>
+          </div>
+          <div class="sync-row">
+            <span class="sync-label">Last rebuilt</span>
+            <span class="sync-time" id="sync-time">—</span>
+          </div>
+          <div class="sync-row">
+            <span class="sync-label">Total indexed</span>
+            <span class="sync-total" id="sync-total">—</span>
+          </div>
+          <div class="sync-row">
+            <span class="sync-label">Auto-update</span>
+            <span class="sync-auto">Every 6 hours via GitHub Actions</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 09 DATA SOURCE / FOOTER -->
+<footer class="footer" id="source">
+  <div class="container">
+    <div class="footer-inner">
+      <div class="footer-left">
+        <span class="brand-icon brand-icon--sm">N</span>
+        <div>
+          <div class="footer-title">NgKthy — Data Practice Portfolio</div>
+          <div class="footer-sub">
+            Data auto-synced from <a href="https://github.com/NgKthy/xomdata-practice/tree/main/practice" target="_blank" rel="noopener">practice/</a> · 
+            Updated <span class="freshness" id="freshness">—</span>
+          </div>
+        </div>
+      </div>
+      <div class="footer-links">
+        <a href="https://github.com/NgKthy/xomdata-practice" target="_blank" rel="noopener">GitHub</a>
+        <a href="https://xomdata.com/practice" target="_blank" rel="noopener">Xom Data</a>
+        <a href="https://github.com/NgKthy/xomdata-practice/blob/main/portfolio/data/data.json" target="_blank" rel="noopener">data.json ↗</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</main>
+
+<script src="assets/app.js" defer></script>
+</body>
+</html>
