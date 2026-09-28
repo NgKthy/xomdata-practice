@@ -334,5 +334,7 @@
   "practice/python/nightmare/py-multiply-strings/solution.py": "2f1a7f45dede7490bb3c8616034d3b31d2d35754f202ca415140dfe68d41a99b",
   "practice/python/nightmare/py-add-binary/solution.py": "1f654d2bd65826730452656acdcf8fe69c31aec9d0324318a2d3eed848010f55",
   "practice/python/nightmare/py-count-bits/solution.py": "01cbe356934b373f9d9b4a403e65cf57bc6defaed15dcb0f46c9583fe36c1143",
-  "practice/python/nightmare/py-house-robber/solution.py": "070655d9730c1499da470720cfe591a9aa06e3f17e3fc031477239d1a94eda3c"
+  "practice/python/nightmare/py-house-robber/solution.py": "070655d9730c1499da470720cfe591a9aa06e3f17e3fc031477239d1a94eda3c",
+  "practice/python/nightmare/py-lis/solution.py": "835361c2f36ffefcfd67167448947fd955b9f54c647891c6f4892fccc0ecaea2",
+  "practice/python/nightmare/py-longest-consecutive/solution.py": "8bcf335e95ca693b4441abecaa08f04874e3e988dc53d7a0c2167debc0a91377"
 }
