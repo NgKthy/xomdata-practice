@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-28T10:49:13+00:00",
-  "source_commit": "2880580",
+  "generated_at": "2026-09-28T10:53:49+00:00",
+  "source_commit": "5406d7d",
   "totals": {
-    "accepted": 336,
-    "challenges": 327,
+    "accepted": 338,
+    "challenges": 329,
     "languages": 2,
     "streak": 4,
-    "synced": "336 / 336",
-    "grand": 336
+    "synced": "338 / 338",
+    "grand": 338
   },
   "by_language": {
-    "python": 154,
+    "python": 156,
     "sql": 182
   },
   "by_difficulty": {
     "easy": 170,
     "medium": 73,
     "hard": 46,
-    "nightmare": 47
+    "nightmare": 49
   },
   "by_category": {
-    "Python Data Logic": 140,
+    "Python Data Logic": 141,
     "Data Structures & Algos": 11,
+    "Dynamic Programming": 3,
     "Trees & Graphs": 1,
-    "Dynamic Programming": 2,
     "SQL Querying": 163,
     "Advanced Analytics & Cohorts": 4,
     "SQL Window Functions": 2,
@@ -36,14 +36,14 @@
     },
     {
       "month": "2026-09",
-      "count": 194
+      "count": 196
     }
   ],
   "activity": {
     "2026-09-21": 12,
     "2026-09-17": 9,
     "2026-09-20": 11,
-    "2026-09-28": 6,
+    "2026-09-28": 8,
     "2026-09-18": 11,
     "2026-09-13": 10,
     "2026-08-27": 1,
@@ -111,6 +111,26 @@
       "category": "Python Data Logic",
       "date": "2026-09-28",
       "url": "https://xomdata.com/practice/py-min-path-sum"
+    },
+    {
+      "name": "Longest increasing subsequence",
+      "slug": "py-lis",
+      "file": "practice/python/nightmare/py-lis/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Dynamic Programming",
+      "date": "2026-09-28",
+      "url": "https://xomdata.com/practice/py-lis"
+    },
+    {
+      "name": "Longest consecutive sequence",
+      "slug": "py-longest-consecutive",
+      "file": "practice/python/nightmare/py-longest-consecutive/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-28",
+      "url": "https://xomdata.com/practice/py-longest-consecutive"
     },
     {
       "name": "House robber",
