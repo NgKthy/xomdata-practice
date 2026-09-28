@@ -99,7 +99,7 @@
       langEl.innerHTML = '';
       Object.entries(d.by_language).sort((a,b)=>b[1]-a[1]).forEach(([lang, count]) => {
         const pct = total ? ((count / total) * 100).toFixed(1) : 0;
-        const color = { python: '#60a5fa', sql: '#a78bfa', excel: '#34d399' }[lang] || '#94a3b8';
+        const color = { python: '#8CC8E8', sql: '#C4A0D4', excel: '#B8C99A' }[lang] || '#DDD7CC';
         langEl.appendChild(makeBarRow(lang.toUpperCase(), lang, count, pct, color));
       });
     }
@@ -110,7 +110,7 @@
       const total = Object.values(d.by_difficulty).reduce((a,b)=>a+b, 0);
       diffEl.innerHTML = '';
       const order = ['easy','medium','hard','nightmare'];
-      const colors = { easy:'#34d399', medium:'#fbbf24', hard:'#fb923c', nightmare:'#ef4444' };
+      const colors = { easy:'#B8C99A', medium:'#F4D77B', hard:'#F4A490', nightmare:'#D95757' };
       order.forEach(diff => {
         const count = d.by_difficulty[diff] || 0;
         const pct   = total ? ((count / total) * 100).toFixed(1) : 0;
@@ -167,21 +167,24 @@
     const xScale = (i) => PAD.left + (i / (trend.length - 1)) * (W - PAD.left - PAD.right);
     const yScale = (v) => PAD.top + (1 - (v - minV) / (maxV - minV || 1)) * (H - PAD.top - PAD.bottom);
 
+    const gridSvg_lines_color = 'rgba(180,160,100,0.12)';
+    const text_axis_color = '#A09890';
+
     // Grid lines
     const gridCount = 4;
     let gridSvg = '';
     for (let i = 0; i <= gridCount; i++) {
       const y = PAD.top + (i / gridCount) * (H - PAD.top - PAD.bottom);
       const val = Math.round(maxV - (i / gridCount) * maxV);
-      gridSvg += `<line x1="${PAD.left}" y1="${y}" x2="${W - PAD.right}" y2="${y}" stroke="rgba(99,131,179,0.1)" stroke-dasharray="4,4"/>
-        <text x="${PAD.left - 6}" y="${y+4}" text-anchor="end" fill="#475569" font-size="10">${val}</text>`;
+      gridSvg += `<line x1="${PAD.left}" y1="${y}" x2="${W - PAD.right}" y2="${y}" stroke="${gridSvg_lines_color}" stroke-dasharray="4,4"/>
+        <text x="${PAD.left - 6}" y="${y+4}" text-anchor="end" fill="${text_axis_color}" font-size="10">${val}</text>`;
     }
 
     // X axis labels
     let xLabels = '';
     trend.forEach((p, i) => {
       if (trend.length <= 6 || i % Math.ceil(trend.length / 6) === 0 || i === trend.length - 1) {
-        xLabels += `<text x="${xScale(i)}" y="${H - 6}" text-anchor="middle" fill="#475569" font-size="10">${p.month}</text>`;
+        xLabels += `<text x="${xScale(i)}" y="${H - 6}" text-anchor="middle" fill="#A09890" font-size="10">${p.month}</text>`;
       }
     });
 
@@ -195,10 +198,10 @@
     // Line
     const linePath = `M${trend.map((p,i) => `${xScale(i)},${yScale(p.count)}`).join(' L')}`;
 
-    // Dots
+    // Dots — tomato accent for stationery feel
     let dots = '';
     trend.forEach((p, i) => {
-      dots += `<circle cx="${xScale(i)}" cy="${yScale(p.count)}" r="4" fill="#22d3ee" stroke="#080d1a" stroke-width="2">
+      dots += `<circle cx="${xScale(i)}" cy="${yScale(p.count)}" r="4.5" fill="#D95757" stroke="#FFFDF5" stroke-width="2">
         <title>${p.month}: ${p.count} solutions</title>
       </circle>`;
     });
@@ -209,14 +212,14 @@
     svg.innerHTML = `
       <defs>
         <linearGradient id="areaGrad" x1="0" y1="0" x2="0" y2="1">
-          <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.25"/>
-          <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+          <stop offset="0%" stop-color="#8CC8E8" stop-opacity="0.28"/>
+          <stop offset="100%" stop-color="#8CC8E8" stop-opacity="0"/>
         </linearGradient>
       </defs>
       ${gridSvg}
       ${xLabels}
       <path d="${areaPath}" fill="url(#areaGrad)"/>
-      <path d="${linePath}" fill="none" stroke="#22d3ee" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="${linePath}" fill="none" stroke="#6AB0D4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
       ${dots}
     `;
 
