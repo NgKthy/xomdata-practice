@@ -331,5 +331,8 @@
   "practice/python/easy/py-celsius-to-f/solution.py": "6b3c7453f10b24062889ad56808d1d1d3170d2fa3d58bb9ce0c1aacd75185643",
   "practice/python/nightmare/py-min-path-sum/solution.py": "744dfd97ba1eb779b8dfe8c2730c43a3e0f6181eb032d75f2a64ef171230cb0e",
   "practice/python/nightmare/py-min-window-substring/solution.py": "26f216edd45108d7887194000e2cee34ec67ffb1df3834350d43348f1f84793a",
-  "practice/python/nightmare/py-multiply-strings/solution.py": "2f1a7f45dede7490bb3c8616034d3b31d2d35754f202ca415140dfe68d41a99b"
+  "practice/python/nightmare/py-multiply-strings/solution.py": "2f1a7f45dede7490bb3c8616034d3b31d2d35754f202ca415140dfe68d41a99b",
+  "practice/python/nightmare/py-add-binary/solution.py": "1f654d2bd65826730452656acdcf8fe69c31aec9d0324318a2d3eed848010f55",
+  "practice/python/nightmare/py-count-bits/solution.py": "01cbe356934b373f9d9b4a403e65cf57bc6defaed15dcb0f46c9583fe36c1143",
+  "practice/python/nightmare/py-house-robber/solution.py": "070655d9730c1499da470720cfe591a9aa06e3f17e3fc031477239d1a94eda3c"
 }
