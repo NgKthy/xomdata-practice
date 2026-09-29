@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-29T10:41:07+00:00",
-  "source_commit": "531ead8",
+  "generated_at": "2026-09-29T10:42:43+00:00",
+  "source_commit": "b9abb2f",
   "totals": {
-    "accepted": 341,
-    "challenges": 332,
+    "accepted": 343,
+    "challenges": 334,
     "languages": 2,
     "streak": 5,
-    "synced": "341 / 341",
-    "grand": 341
+    "synced": "343 / 343",
+    "grand": 343
   },
   "by_language": {
-    "python": 159,
+    "python": 161,
     "sql": 182
   },
   "by_difficulty": {
     "easy": 170,
     "medium": 76,
     "hard": 46,
-    "nightmare": 49
+    "nightmare": 51
   },
   "by_category": {
-    "Python Data Logic": 144,
+    "Python Data Logic": 146,
     "Data Structures & Algos": 11,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -36,7 +36,7 @@
     },
     {
       "month": "2026-09",
-      "count": 199
+      "count": 201
     }
   ],
   "activity": {
@@ -48,6 +48,7 @@
     "2026-09-13": 10,
     "2026-08-27": 1,
     "2026-09-26": 6,
+    "2026-09-29": 5,
     "2026-09-02": 1,
     "2026-09-10": 15,
     "2026-08-24": 31,
@@ -60,7 +61,6 @@
     "2026-09-04": 1,
     "2026-09-16": 1,
     "2026-08-31": 1,
-    "2026-09-29": 3,
     "2026-08-29": 1,
     "2026-08-26": 1,
     "2026-08-30": 1,
@@ -104,6 +104,16 @@
       "url": "https://xomdata.com/practice/py-next-workday"
     },
     {
+      "name": "Max area of island",
+      "slug": "py-max-area-island",
+      "file": "practice/python/nightmare/py-max-area-island/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-29",
+      "url": "https://xomdata.com/practice/py-max-area-island"
+    },
+    {
       "name": "Match product names despite small differences",
       "slug": "py-normalize-compare",
       "file": "practice/python/medium/py-normalize-compare/solution.py",
@@ -112,6 +122,16 @@
       "category": "Python Data Logic",
       "date": "2026-09-29",
       "url": "https://xomdata.com/practice/py-normalize-compare"
+    },
+    {
+      "name": "Majority element",
+      "slug": "py-majority-element",
+      "file": "practice/python/nightmare/py-majority-element/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-09-29",
+      "url": "https://xomdata.com/practice/py-majority-element"
     },
     {
       "name": "Multiply strings",
