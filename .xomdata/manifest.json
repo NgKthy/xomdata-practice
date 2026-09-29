@@ -336,5 +336,8 @@
   "practice/python/nightmare/py-count-bits/solution.py": "01cbe356934b373f9d9b4a403e65cf57bc6defaed15dcb0f46c9583fe36c1143",
   "practice/python/nightmare/py-house-robber/solution.py": "070655d9730c1499da470720cfe591a9aa06e3f17e3fc031477239d1a94eda3c",
   "practice/python/nightmare/py-lis/solution.py": "835361c2f36ffefcfd67167448947fd955b9f54c647891c6f4892fccc0ecaea2",
-  "practice/python/nightmare/py-longest-consecutive/solution.py": "8bcf335e95ca693b4441abecaa08f04874e3e988dc53d7a0c2167debc0a91377"
+  "practice/python/nightmare/py-longest-consecutive/solution.py": "8bcf335e95ca693b4441abecaa08f04874e3e988dc53d7a0c2167debc0a91377",
+  "practice/python/medium/py-next-workday/solution.py": "935c68d3a7ac89109b1ca4fc2941b0bbf989422fabc46e1c6dfec4bedd80a875",
+  "practice/python/medium/py-normalize-compare/solution.py": "33f4529afe0e0fa89523b4b203912108b04c175d54cd64f0b3c789b936db0114",
+  "practice/python/medium/py-normalize-phone/solution.py": "792a4b1f1ca882232922a786a3dc27eba68dff0c88dfe2044a120ab2160dea9d"
 }
