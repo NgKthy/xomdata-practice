@@ -4,15 +4,17 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**332** problems solved on [Xom Data](https://xomdata.com/practice).
+**334** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 82 | 30 | 20 | 27 | 159 |
+| Python | 82 | 30 | 20 | 29 | 161 |
 | SQL | 88 | 37 | 26 | 22 | 173 |
 
 **Recently solved**
 
+- [py-max-area-island](https://xomdata.com/practice/py-max-area-island) · Nightmare · 2026-09-29
+- [py-majority-element](https://xomdata.com/practice/py-majority-element) · Nightmare · 2026-09-29
 - [py-normalize-phone](https://xomdata.com/practice/py-normalize-phone) · Medium · 2026-09-29
 - [py-normalize-compare](https://xomdata.com/practice/py-normalize-compare) · Medium · 2026-09-29
 - [py-next-workday](https://xomdata.com/practice/py-next-workday) · Medium · 2026-09-29
@@ -21,10 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-house-robber](https://xomdata.com/practice/py-house-robber) · Nightmare · 2026-09-28
 - [py-count-bits](https://xomdata.com/practice/py-count-bits) · Nightmare · 2026-09-28
 - [py-add-binary](https://xomdata.com/practice/py-add-binary) · Nightmare · 2026-09-28
-- [py-multiply-strings](https://xomdata.com/practice/py-multiply-strings) · Nightmare · 2026-09-28
-- [py-min-window-substring](https://xomdata.com/practice/py-min-window-substring) · Nightmare · 2026-09-28
 
-_Synced 341 solutions · last update 2026-09-29_
+_Synced 343 solutions · last update 2026-09-29_
 
 <!-- xomdata:stats:end -->
 
