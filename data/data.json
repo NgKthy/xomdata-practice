@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-29T03:45:56+00:00",
-  "source_commit": "5406d7d",
+  "generated_at": "2026-09-29T10:41:07+00:00",
+  "source_commit": "531ead8",
   "totals": {
-    "accepted": 338,
-    "challenges": 329,
+    "accepted": 341,
+    "challenges": 332,
     "languages": 2,
-    "streak": 4,
-    "synced": "338 / 338",
-    "grand": 338
+    "streak": 5,
+    "synced": "341 / 341",
+    "grand": 341
   },
   "by_language": {
-    "python": 156,
+    "python": 159,
     "sql": 182
   },
   "by_difficulty": {
     "easy": 170,
-    "medium": 73,
+    "medium": 76,
     "hard": 46,
     "nightmare": 49
   },
   "by_category": {
-    "Python Data Logic": 141,
+    "Python Data Logic": 144,
     "Data Structures & Algos": 11,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -36,7 +36,7 @@
     },
     {
       "month": "2026-09",
-      "count": 196
+      "count": 199
     }
   ],
   "activity": {
@@ -60,6 +60,7 @@
     "2026-09-04": 1,
     "2026-09-16": 1,
     "2026-08-31": 1,
+    "2026-09-29": 3,
     "2026-08-29": 1,
     "2026-08-26": 1,
     "2026-08-30": 1,
@@ -82,6 +83,36 @@
     "2026-09-11": 1
   },
   "solutions": [
+    {
+      "name": "Normalize phone numbers",
+      "slug": "py-normalize-phone",
+      "file": "practice/python/medium/py-normalize-phone/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-09-29",
+      "url": "https://xomdata.com/practice/py-normalize-phone"
+    },
+    {
+      "name": "Next working day",
+      "slug": "py-next-workday",
+      "file": "practice/python/medium/py-next-workday/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-09-29",
+      "url": "https://xomdata.com/practice/py-next-workday"
+    },
+    {
+      "name": "Match product names despite small differences",
+      "slug": "py-normalize-compare",
+      "file": "practice/python/medium/py-normalize-compare/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-09-29",
+      "url": "https://xomdata.com/practice/py-normalize-compare"
+    },
     {
       "name": "Multiply strings",
       "slug": "py-multiply-strings",
