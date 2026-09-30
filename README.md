@@ -4,15 +4,17 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**335** problems solved on [Xom Data](https://xomdata.com/practice).
+**337** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 82 | 30 | 20 | 29 | 161 |
-| SQL | 88 | 37 | 26 | 23 | 174 |
+| SQL | 88 | 37 | 26 | 25 | 176 |
 
 **Recently solved**
 
+- [sql-nightmare-003](https://xomdata.com/practice/sql-nightmare-003) · Nightmare · 2026-09-30
+- [sql-nightmare-002](https://xomdata.com/practice/sql-nightmare-002) · Nightmare · 2026-09-30
 - [expert-final-mix-009](https://xomdata.com/practice/expert-final-mix-009) · Nightmare · 2026-09-30
 - [py-max-area-island](https://xomdata.com/practice/py-max-area-island) · Nightmare · 2026-09-29
 - [py-majority-element](https://xomdata.com/practice/py-majority-element) · Nightmare · 2026-09-29
@@ -21,10 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-next-workday](https://xomdata.com/practice/py-next-workday) · Medium · 2026-09-29
 - [py-longest-consecutive](https://xomdata.com/practice/py-longest-consecutive) · Nightmare · 2026-09-28
 - [py-lis](https://xomdata.com/practice/py-lis) · Nightmare · 2026-09-28
-- [py-house-robber](https://xomdata.com/practice/py-house-robber) · Nightmare · 2026-09-28
-- [py-count-bits](https://xomdata.com/practice/py-count-bits) · Nightmare · 2026-09-28
 
-_Synced 344 solutions · last update 2026-09-30_
+_Synced 346 solutions · last update 2026-09-30_
 
 <!-- xomdata:stats:end -->
 
