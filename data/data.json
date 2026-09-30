@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-09-30T03:34:17+00:00",
-  "source_commit": "b9abb2f",
+  "generated_at": "2026-09-30T06:07:28+00:00",
+  "source_commit": "6e4c725",
   "totals": {
-    "accepted": 343,
-    "challenges": 334,
+    "accepted": 344,
+    "challenges": 335,
     "languages": 2,
-    "streak": 5,
-    "synced": "343 / 343",
-    "grand": 343
+    "streak": 6,
+    "synced": "344 / 344",
+    "grand": 344
   },
   "by_language": {
     "python": 161,
-    "sql": 182
+    "sql": 183
   },
   "by_difficulty": {
     "easy": 170,
     "medium": 76,
     "hard": 46,
-    "nightmare": 51
+    "nightmare": 52
   },
   "by_category": {
     "Python Data Logic": 146,
     "Data Structures & Algos": 11,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
-    "SQL Querying": 163,
+    "SQL Querying": 164,
     "Advanced Analytics & Cohorts": 4,
     "SQL Window Functions": 2,
     "SQL Aggregations": 13
@@ -36,7 +36,7 @@
     },
     {
       "month": "2026-09",
-      "count": 201
+      "count": 202
     }
   ],
   "activity": {
@@ -70,6 +70,7 @@
     "2026-09-19": 13,
     "2026-09-23": 6,
     "2026-09-25": 7,
+    "2026-09-30": 1,
     "2026-09-05": 1,
     "2026-08-23": 39,
     "2026-09-22": 9,
@@ -83,6 +84,16 @@
     "2026-09-11": 1
   },
   "solutions": [
+    {
+      "name": "Three-level sales totals: detail, by region, company-wide",
+      "slug": "expert-final-mix-009",
+      "file": "practice/sql/nightmare/expert-final-mix-009/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-09-30",
+      "url": "https://xomdata.com/practice/expert-final-mix-009"
+    },
     {
       "name": "Normalize phone numbers",
       "slug": "py-normalize-phone",
