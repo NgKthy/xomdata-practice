@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-01T03:39:15+00:00",
-  "source_commit": "76339f2",
+  "generated_at": "2026-10-01T09:51:03+00:00",
+  "source_commit": "4d486b5",
   "totals": {
-    "accepted": 346,
-    "challenges": 337,
+    "accepted": 348,
+    "challenges": 339,
     "languages": 2,
-    "streak": 6,
-    "synced": "346 / 346",
-    "grand": 346
+    "streak": 7,
+    "synced": "348 / 348",
+    "grand": 348
   },
   "by_language": {
-    "python": 161,
+    "python": 163,
     "sql": 185
   },
   "by_difficulty": {
     "easy": 170,
     "medium": 76,
     "hard": 46,
-    "nightmare": 54
+    "nightmare": 56
   },
   "by_category": {
-    "Python Data Logic": 146,
+    "Python Data Logic": 148,
     "Data Structures & Algos": 11,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -37,6 +37,10 @@
     {
       "month": "2026-09",
       "count": 204
+    },
+    {
+      "month": "2026-10",
+      "count": 2
     }
   ],
   "activity": {
@@ -46,6 +50,7 @@
     "2026-09-28": 8,
     "2026-09-18": 11,
     "2026-09-13": 10,
+    "2026-10-01": 2,
     "2026-08-27": 1,
     "2026-09-26": 6,
     "2026-09-29": 5,
@@ -84,6 +89,26 @@
     "2026-09-11": 1
   },
   "solutions": [
+    {
+      "name": "Candy distribution by rank",
+      "slug": "py-candy",
+      "file": "practice/python/nightmare/py-candy/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-10-01",
+      "url": "https://xomdata.com/practice/py-candy"
+    },
+    {
+      "name": "Burst balloons for maximum coins",
+      "slug": "py-burst-balloons",
+      "file": "practice/python/nightmare/py-burst-balloons/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-10-01",
+      "url": "https://xomdata.com/practice/py-burst-balloons"
+    },
     {
       "name": "Three-level sales totals: detail, by region, company-wide",
       "slug": "expert-final-mix-009",
