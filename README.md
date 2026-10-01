@@ -4,15 +4,17 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**337** problems solved on [Xom Data](https://xomdata.com/practice).
+**339** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 82 | 30 | 20 | 29 | 161 |
+| Python | 82 | 30 | 20 | 31 | 163 |
 | SQL | 88 | 37 | 26 | 25 | 176 |
 
 **Recently solved**
 
+- [py-candy](https://xomdata.com/practice/py-candy) · Nightmare · 2026-10-01
+- [py-burst-balloons](https://xomdata.com/practice/py-burst-balloons) · Nightmare · 2026-10-01
 - [sql-nightmare-003](https://xomdata.com/practice/sql-nightmare-003) · Nightmare · 2026-09-30
 - [sql-nightmare-002](https://xomdata.com/practice/sql-nightmare-002) · Nightmare · 2026-09-30
 - [expert-final-mix-009](https://xomdata.com/practice/expert-final-mix-009) · Nightmare · 2026-09-30
@@ -21,10 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-normalize-phone](https://xomdata.com/practice/py-normalize-phone) · Medium · 2026-09-29
 - [py-normalize-compare](https://xomdata.com/practice/py-normalize-compare) · Medium · 2026-09-29
 - [py-next-workday](https://xomdata.com/practice/py-next-workday) · Medium · 2026-09-29
-- [py-longest-consecutive](https://xomdata.com/practice/py-longest-consecutive) · Nightmare · 2026-09-28
-- [py-lis](https://xomdata.com/practice/py-lis) · Nightmare · 2026-09-28
 
-_Synced 346 solutions · last update 2026-09-30_
+_Synced 348 solutions · last update 2026-10-01_
 
 <!-- xomdata:stats:end -->
 
