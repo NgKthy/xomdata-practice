@@ -349,5 +349,7 @@
   "practice/python/nightmare/py-candy/solution.py": "8b94e9dc641445dcc6d01b89ce037c35c00e4e1a87d8cffbeb17411b4d227d95",
   "practice/python/medium/py-distinct-per-group/solution.py": "3a6fff6618f64f4cc3698b40b7affe098769f20e07989e751302ef82ffaa1a2d",
   "practice/python/medium/py-drop-invalid-records/solution.py": "eb427959a13fc209322bce50c3df4e8a0f6a9f9aa1b5a17498df42bfca8d42dc",
-  "practice/python/medium/py-top-seller-region/solution.py": "50b90f3eca58f710a02c996b388fb58d3d9268342f08fa74f407bd07b63aaffa"
+  "practice/python/medium/py-top-seller-region/solution.py": "50b90f3eca58f710a02c996b388fb58d3d9268342f08fa74f407bd07b63aaffa",
+  "practice/python/easy/py-trim-input/solution.py": "a14a999466108ece6f217cdb83c4aa567db3787965fef8604124e968de3e4834",
+  "practice/python/easy/py-truncate-title/solution.py": "e73a848949e5471ab9b418c029b92efba15799ede59775e80b67391eb2b1d51c"
 }
