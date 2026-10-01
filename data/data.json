@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-01T09:51:03+00:00",
-  "source_commit": "4d486b5",
+  "generated_at": "2026-10-01T09:54:12+00:00",
+  "source_commit": "e19d061",
   "totals": {
-    "accepted": 348,
-    "challenges": 339,
+    "accepted": 351,
+    "challenges": 342,
     "languages": 2,
     "streak": 7,
-    "synced": "348 / 348",
-    "grand": 348
+    "synced": "351 / 351",
+    "grand": 351
   },
   "by_language": {
-    "python": 163,
+    "python": 166,
     "sql": 185
   },
   "by_difficulty": {
     "easy": 170,
-    "medium": 76,
+    "medium": 79,
     "hard": 46,
     "nightmare": 56
   },
   "by_category": {
-    "Python Data Logic": 148,
+    "Python Data Logic": 151,
     "Data Structures & Algos": 11,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 2
+      "count": 5
     }
   ],
   "activity": {
@@ -50,7 +50,7 @@
     "2026-09-28": 8,
     "2026-09-18": 11,
     "2026-09-13": 10,
-    "2026-10-01": 2,
+    "2026-10-01": 5,
     "2026-08-27": 1,
     "2026-09-26": 6,
     "2026-09-29": 5,
@@ -89,6 +89,36 @@
     "2026-09-11": 1
   },
   "solutions": [
+    {
+      "name": "Top-selling employee per region",
+      "slug": "py-top-seller-region",
+      "file": "practice/python/medium/py-top-seller-region/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-01",
+      "url": "https://xomdata.com/practice/py-top-seller-region"
+    },
+    {
+      "name": "Drop records missing a required field",
+      "slug": "py-drop-invalid-records",
+      "file": "practice/python/medium/py-drop-invalid-records/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-01",
+      "url": "https://xomdata.com/practice/py-drop-invalid-records"
+    },
+    {
+      "name": "Distinct values per group",
+      "slug": "py-distinct-per-group",
+      "file": "practice/python/medium/py-distinct-per-group/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-01",
+      "url": "https://xomdata.com/practice/py-distinct-per-group"
+    },
     {
       "name": "Candy distribution by rank",
       "slug": "py-candy",
