@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-01T12:15:31+00:00",
-  "source_commit": "e19d061",
+  "generated_at": "2026-10-01T12:45:01+00:00",
+  "source_commit": "e3125b7",
   "totals": {
-    "accepted": 351,
-    "challenges": 342,
+    "accepted": 353,
+    "challenges": 344,
     "languages": 2,
     "streak": 7,
-    "synced": "351 / 351",
-    "grand": 351
+    "synced": "353 / 353",
+    "grand": 353
   },
   "by_language": {
-    "python": 166,
+    "python": 168,
     "sql": 185
   },
   "by_difficulty": {
-    "easy": 170,
+    "easy": 172,
     "medium": 79,
     "hard": 46,
     "nightmare": 56
   },
   "by_category": {
-    "Python Data Logic": 151,
+    "Python Data Logic": 153,
     "Data Structures & Algos": 11,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 5
+      "count": 7
     }
   ],
   "activity": {
@@ -50,7 +50,7 @@
     "2026-09-28": 8,
     "2026-09-18": 11,
     "2026-09-13": 10,
-    "2026-10-01": 5,
+    "2026-10-01": 7,
     "2026-08-27": 1,
     "2026-09-26": 6,
     "2026-09-29": 5,
@@ -100,6 +100,16 @@
       "url": "https://xomdata.com/practice/py-top-seller-region"
     },
     {
+      "name": "Shorten an over-long title on an article card",
+      "slug": "py-truncate-title",
+      "file": "practice/python/easy/py-truncate-title/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-10-01",
+      "url": "https://xomdata.com/practice/py-truncate-title"
+    },
+    {
       "name": "Drop records missing a required field",
       "slug": "py-drop-invalid-records",
       "file": "practice/python/medium/py-drop-invalid-records/solution.py",
@@ -118,6 +128,16 @@
       "category": "Python Data Logic",
       "date": "2026-10-01",
       "url": "https://xomdata.com/practice/py-distinct-per-group"
+    },
+    {
+      "name": "Clean up stray spaces in a list of names",
+      "slug": "py-trim-input",
+      "file": "practice/python/easy/py-trim-input/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-10-01",
+      "url": "https://xomdata.com/practice/py-trim-input"
     },
     {
       "name": "Candy distribution by rank",
