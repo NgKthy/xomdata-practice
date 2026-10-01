@@ -346,5 +346,8 @@
   "practice/sql/nightmare/sql-nightmare-002/solution.sql": "d81a8e6ab700b645b06d26d1025a4798df05735e3850ccf859521222ac419cd5",
   "practice/sql/nightmare/sql-nightmare-003/solution.sql": "8f1a32aa177a332ce76b50bd8b88730767345bf86652c8e55d0c3ed93e6d8460",
   "practice/python/nightmare/py-burst-balloons/solution.py": "a3425165d0617dc2a83db78e854fc7f829565af9f529632be6b4306be9f7c65a",
-  "practice/python/nightmare/py-candy/solution.py": "8b94e9dc641445dcc6d01b89ce037c35c00e4e1a87d8cffbeb17411b4d227d95"
+  "practice/python/nightmare/py-candy/solution.py": "8b94e9dc641445dcc6d01b89ce037c35c00e4e1a87d8cffbeb17411b4d227d95",
+  "practice/python/medium/py-distinct-per-group/solution.py": "3a6fff6618f64f4cc3698b40b7affe098769f20e07989e751302ef82ffaa1a2d",
+  "practice/python/medium/py-drop-invalid-records/solution.py": "eb427959a13fc209322bce50c3df4e8a0f6a9f9aa1b5a17498df42bfca8d42dc",
+  "practice/python/medium/py-top-seller-region/solution.py": "50b90f3eca58f710a02c996b388fb58d3d9268342f08fa74f407bd07b63aaffa"
 }
