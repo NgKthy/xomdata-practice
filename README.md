@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**346** problems solved on [Xom Data](https://xomdata.com/practice).
+**347** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 84 | 33 | 20 | 31 | 168 |
-| SQL | 88 | 37 | 26 | 27 | 178 |
+| SQL | 88 | 38 | 26 | 27 | 179 |
 
 **Recently solved**
 
+- [medium-case-160](https://xomdata.com/practice/medium-case-160) · Medium · 2026-10-02
 - [nightmare-prorate-001](https://xomdata.com/practice/nightmare-prorate-001) · Nightmare · 2026-10-02
 - [nightmare-interval-merge-001](https://xomdata.com/practice/nightmare-interval-merge-001) · Nightmare · 2026-10-02
 - [py-truncate-title](https://xomdata.com/practice/py-truncate-title) · Easy · 2026-10-01
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-distinct-per-group](https://xomdata.com/practice/py-distinct-per-group) · Medium · 2026-10-01
 - [py-candy](https://xomdata.com/practice/py-candy) · Nightmare · 2026-10-01
 - [py-burst-balloons](https://xomdata.com/practice/py-burst-balloons) · Nightmare · 2026-10-01
-- [sql-nightmare-003](https://xomdata.com/practice/sql-nightmare-003) · Nightmare · 2026-09-30
 
-_Synced 355 solutions · last update 2026-10-02_
+_Synced 356 solutions · last update 2026-10-02_
 
 <!-- xomdata:stats:end -->
 
