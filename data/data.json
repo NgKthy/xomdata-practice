@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-02T09:05:25+00:00",
-  "source_commit": "a912f08",
+  "generated_at": "2026-10-02T09:08:29+00:00",
+  "source_commit": "76bd4ba",
   "totals": {
-    "accepted": 355,
-    "challenges": 346,
+    "accepted": 356,
+    "challenges": 347,
     "languages": 2,
     "streak": 8,
-    "synced": "355 / 355",
-    "grand": 355
+    "synced": "356 / 356",
+    "grand": 356
   },
   "by_language": {
     "python": 168,
-    "sql": 187
+    "sql": 188
   },
   "by_difficulty": {
     "easy": 172,
-    "medium": 79,
+    "medium": 80,
     "hard": 46,
     "nightmare": 58
   },
@@ -24,7 +24,7 @@
     "Data Structures & Algos": 11,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
-    "SQL Querying": 168,
+    "SQL Querying": 169,
     "Advanced Analytics & Cohorts": 4,
     "SQL Window Functions": 2,
     "SQL Aggregations": 13
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 9
+      "count": 10
     }
   ],
   "activity": {
@@ -76,7 +76,7 @@
     "2026-09-23": 6,
     "2026-09-30": 3,
     "2026-09-25": 7,
-    "2026-10-02": 2,
+    "2026-10-02": 3,
     "2026-09-05": 1,
     "2026-08-23": 39,
     "2026-09-22": 9,
@@ -99,6 +99,16 @@
       "category": "SQL Querying",
       "date": "2026-10-02",
       "url": "https://xomdata.com/practice/nightmare-interval-merge-001"
+    },
+    {
+      "name": "Delivery performance by size class",
+      "slug": "medium-case-160",
+      "file": "practice/sql/medium/medium-case-160/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-02",
+      "url": "https://xomdata.com/practice/medium-case-160"
     },
     {
       "name": "Allocate contract revenue across years",
