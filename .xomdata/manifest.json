@@ -351,5 +351,7 @@
   "practice/python/medium/py-drop-invalid-records/solution.py": "eb427959a13fc209322bce50c3df4e8a0f6a9f9aa1b5a17498df42bfca8d42dc",
   "practice/python/medium/py-top-seller-region/solution.py": "50b90f3eca58f710a02c996b388fb58d3d9268342f08fa74f407bd07b63aaffa",
   "practice/python/easy/py-trim-input/solution.py": "a14a999466108ece6f217cdb83c4aa567db3787965fef8604124e968de3e4834",
-  "practice/python/easy/py-truncate-title/solution.py": "e73a848949e5471ab9b418c029b92efba15799ede59775e80b67391eb2b1d51c"
+  "practice/python/easy/py-truncate-title/solution.py": "e73a848949e5471ab9b418c029b92efba15799ede59775e80b67391eb2b1d51c",
+  "practice/sql/nightmare/nightmare-interval-merge-001/solution.sql": "33cbec3d4dd726d50a1936047e57d5cf714b18107f809a44c47d078418bb3f30",
+  "practice/sql/nightmare/nightmare-prorate-001/solution.sql": "caa2990b51cedf8a8212f35bdd93c865cfbf01e6a288f47c774b3df7e9e66585"
 }
