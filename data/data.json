@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-02T03:38:54+00:00",
-  "source_commit": "e3125b7",
+  "generated_at": "2026-10-02T09:05:25+00:00",
+  "source_commit": "a912f08",
   "totals": {
-    "accepted": 353,
-    "challenges": 344,
+    "accepted": 355,
+    "challenges": 346,
     "languages": 2,
-    "streak": 7,
-    "synced": "353 / 353",
-    "grand": 353
+    "streak": 8,
+    "synced": "355 / 355",
+    "grand": 355
   },
   "by_language": {
     "python": 168,
-    "sql": 185
+    "sql": 187
   },
   "by_difficulty": {
     "easy": 172,
     "medium": 79,
     "hard": 46,
-    "nightmare": 56
+    "nightmare": 58
   },
   "by_category": {
     "Python Data Logic": 153,
     "Data Structures & Algos": 11,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
-    "SQL Querying": 166,
+    "SQL Querying": 168,
     "Advanced Analytics & Cohorts": 4,
     "SQL Window Functions": 2,
     "SQL Aggregations": 13
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 7
+      "count": 9
     }
   ],
   "activity": {
@@ -76,6 +76,7 @@
     "2026-09-23": 6,
     "2026-09-30": 3,
     "2026-09-25": 7,
+    "2026-10-02": 2,
     "2026-09-05": 1,
     "2026-08-23": 39,
     "2026-09-22": 9,
@@ -89,6 +90,26 @@
     "2026-09-11": 1
   },
   "solutions": [
+    {
+      "name": "Merge overlapping bookings into continuous ranges",
+      "slug": "nightmare-interval-merge-001",
+      "file": "practice/sql/nightmare/nightmare-interval-merge-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-10-02",
+      "url": "https://xomdata.com/practice/nightmare-interval-merge-001"
+    },
+    {
+      "name": "Allocate contract revenue across years",
+      "slug": "nightmare-prorate-001",
+      "file": "practice/sql/nightmare/nightmare-prorate-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-10-02",
+      "url": "https://xomdata.com/practice/nightmare-prorate-001"
+    },
     {
       "name": "Top-selling employee per region",
       "slug": "py-top-seller-region",
