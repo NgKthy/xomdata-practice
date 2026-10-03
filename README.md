@@ -4,15 +4,17 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**351** problems solved on [Xom Data](https://xomdata.com/practice).
+**353** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 84 | 33 | 20 | 31 | 168 |
-| SQL | 88 | 40 | 28 | 27 | 183 |
+| SQL | 88 | 40 | 28 | 29 | 185 |
 
 **Recently solved**
 
+- [expert-final-graph-009](https://xomdata.com/practice/expert-final-graph-009) · Nightmare · 2026-10-03
+- [expert-final-agg-001](https://xomdata.com/practice/expert-final-agg-001) · Nightmare · 2026-10-03
 - [hard-rfm-005](https://xomdata.com/practice/hard-rfm-005) · Hard · 2026-10-03
 - [hard-conditional-001](https://xomdata.com/practice/hard-conditional-001) · Hard · 2026-10-03
 - [medium-groupby-080](https://xomdata.com/practice/medium-groupby-080) · Medium · 2026-10-03
@@ -21,10 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [nightmare-prorate-001](https://xomdata.com/practice/nightmare-prorate-001) · Nightmare · 2026-10-02
 - [nightmare-interval-merge-001](https://xomdata.com/practice/nightmare-interval-merge-001) · Nightmare · 2026-10-02
 - [py-truncate-title](https://xomdata.com/practice/py-truncate-title) · Easy · 2026-10-01
-- [py-trim-input](https://xomdata.com/practice/py-trim-input) · Easy · 2026-10-01
-- [py-top-seller-region](https://xomdata.com/practice/py-top-seller-region) · Medium · 2026-10-01
 
-_Synced 360 solutions · last update 2026-10-03_
+_Synced 362 solutions · last update 2026-10-03_
 
 <!-- xomdata:stats:end -->
 

@@ -358,5 +358,7 @@
   "practice/sql/medium/medium-subquery-160/solution.sql": "eeab1d2b89ac443472bbf35d9bb94d624d523d04567e971cf0c6bd0b84e76c77",
   "practice/sql/medium/medium-groupby-080/solution.sql": "434693f7f38447d85292b3ca43134cd6a6a52cd08d85d958444d15c0cf103947",
   "practice/sql/hard/hard-conditional-001/solution.sql": "e6170f4b4aa749764549f1522fb079c6f89c0d805be708240143620e44f472f5",
-  "practice/sql/hard/hard-rfm-005/solution.sql": "4206f416ec0fdb02a150360a4778e4d33386a57e3b88b7177e5ddfa8598b63b6"
+  "practice/sql/hard/hard-rfm-005/solution.sql": "4206f416ec0fdb02a150360a4778e4d33386a57e3b88b7177e5ddfa8598b63b6",
+  "practice/sql/nightmare/expert-final-agg-001/solution.sql": "c1a5da52d121e2a7578107005e2bf66a69a7e9c93987c41c1cbcf7fbe5440ef8",
+  "practice/sql/nightmare/expert-final-graph-009/solution.sql": "f6ca9bd07f5d62d07373d21d93c8b0038bef44999aa54a3adf5fd5d04010deeb"
 }
