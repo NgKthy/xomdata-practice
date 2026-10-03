@@ -4,15 +4,17 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**347** problems solved on [Xom Data](https://xomdata.com/practice).
+**349** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 84 | 33 | 20 | 31 | 168 |
-| SQL | 88 | 38 | 26 | 27 | 179 |
+| SQL | 88 | 40 | 26 | 27 | 181 |
 
 **Recently solved**
 
+- [medium-groupby-080](https://xomdata.com/practice/medium-groupby-080) · Medium · 2026-10-03
+- [medium-subquery-160](https://xomdata.com/practice/medium-subquery-160) · Medium · 2026-10-03
 - [medium-case-160](https://xomdata.com/practice/medium-case-160) · Medium · 2026-10-02
 - [nightmare-prorate-001](https://xomdata.com/practice/nightmare-prorate-001) · Nightmare · 2026-10-02
 - [nightmare-interval-merge-001](https://xomdata.com/practice/nightmare-interval-merge-001) · Nightmare · 2026-10-02
@@ -21,10 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-top-seller-region](https://xomdata.com/practice/py-top-seller-region) · Medium · 2026-10-01
 - [py-drop-invalid-records](https://xomdata.com/practice/py-drop-invalid-records) · Medium · 2026-10-01
 - [py-distinct-per-group](https://xomdata.com/practice/py-distinct-per-group) · Medium · 2026-10-01
-- [py-candy](https://xomdata.com/practice/py-candy) · Nightmare · 2026-10-01
-- [py-burst-balloons](https://xomdata.com/practice/py-burst-balloons) · Nightmare · 2026-10-01
 
-_Synced 356 solutions · last update 2026-10-02_
+_Synced 358 solutions · last update 2026-10-03_
 
 <!-- xomdata:stats:end -->
 
