@@ -4,15 +4,17 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**349** problems solved on [Xom Data](https://xomdata.com/practice).
+**351** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 84 | 33 | 20 | 31 | 168 |
-| SQL | 88 | 40 | 26 | 27 | 181 |
+| SQL | 88 | 40 | 28 | 27 | 183 |
 
 **Recently solved**
 
+- [hard-rfm-005](https://xomdata.com/practice/hard-rfm-005) · Hard · 2026-10-03
+- [hard-conditional-001](https://xomdata.com/practice/hard-conditional-001) · Hard · 2026-10-03
 - [medium-groupby-080](https://xomdata.com/practice/medium-groupby-080) · Medium · 2026-10-03
 - [medium-subquery-160](https://xomdata.com/practice/medium-subquery-160) · Medium · 2026-10-03
 - [medium-case-160](https://xomdata.com/practice/medium-case-160) · Medium · 2026-10-02
@@ -21,10 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-truncate-title](https://xomdata.com/practice/py-truncate-title) · Easy · 2026-10-01
 - [py-trim-input](https://xomdata.com/practice/py-trim-input) · Easy · 2026-10-01
 - [py-top-seller-region](https://xomdata.com/practice/py-top-seller-region) · Medium · 2026-10-01
-- [py-drop-invalid-records](https://xomdata.com/practice/py-drop-invalid-records) · Medium · 2026-10-01
-- [py-distinct-per-group](https://xomdata.com/practice/py-distinct-per-group) · Medium · 2026-10-01
 
-_Synced 358 solutions · last update 2026-10-03_
+_Synced 360 solutions · last update 2026-10-03_
 
 <!-- xomdata:stats:end -->
 

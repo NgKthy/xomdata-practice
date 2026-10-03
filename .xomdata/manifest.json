@@ -356,5 +356,7 @@
   "practice/sql/nightmare/nightmare-prorate-001/solution.sql": "caa2990b51cedf8a8212f35bdd93c865cfbf01e6a288f47c774b3df7e9e66585",
   "practice/sql/medium/medium-case-160/solution.sql": "7a6d8728004add46460664fcf2d16219c4127963d13c0be9441439954af65184",
   "practice/sql/medium/medium-subquery-160/solution.sql": "eeab1d2b89ac443472bbf35d9bb94d624d523d04567e971cf0c6bd0b84e76c77",
-  "practice/sql/medium/medium-groupby-080/solution.sql": "434693f7f38447d85292b3ca43134cd6a6a52cd08d85d958444d15c0cf103947"
+  "practice/sql/medium/medium-groupby-080/solution.sql": "434693f7f38447d85292b3ca43134cd6a6a52cd08d85d958444d15c0cf103947",
+  "practice/sql/hard/hard-conditional-001/solution.sql": "e6170f4b4aa749764549f1522fb079c6f89c0d805be708240143620e44f472f5",
+  "practice/sql/hard/hard-rfm-005/solution.sql": "4206f416ec0fdb02a150360a4778e4d33386a57e3b88b7177e5ddfa8598b63b6"
 }
