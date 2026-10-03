@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-03T10:57:54+00:00",
-  "source_commit": "76bd4ba",
+  "generated_at": "2026-10-03T12:28:01+00:00",
+  "source_commit": "a9e9298",
   "totals": {
-    "accepted": 356,
-    "challenges": 347,
+    "accepted": 358,
+    "challenges": 349,
     "languages": 2,
-    "streak": 8,
-    "synced": "356 / 356",
-    "grand": 356
+    "streak": 9,
+    "synced": "358 / 358",
+    "grand": 358
   },
   "by_language": {
     "python": 168,
-    "sql": 188
+    "sql": 190
   },
   "by_difficulty": {
     "easy": 172,
-    "medium": 80,
+    "medium": 82,
     "hard": 46,
     "nightmare": 58
   },
@@ -24,7 +24,7 @@
     "Data Structures & Algos": 11,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
-    "SQL Querying": 169,
+    "SQL Querying": 171,
     "Advanced Analytics & Cohorts": 4,
     "SQL Window Functions": 2,
     "SQL Aggregations": 13
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 10
+      "count": 12
     }
   ],
   "activity": {
@@ -86,10 +86,31 @@
     "2026-08-25": 4,
     "2026-08-20": 3,
     "2026-09-07": 6,
+    "2026-10-03": 2,
     "2026-09-06": 2,
     "2026-09-11": 1
   },
   "solutions": [
+    {
+      "name": "Monthly income and expense report",
+      "slug": "medium-groupby-080",
+      "file": "practice/sql/medium/medium-groupby-080/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-03",
+      "url": "https://xomdata.com/practice/medium-groupby-080"
+    },
+    {
+      "name": "Low-activity users",
+      "slug": "medium-subquery-160",
+      "file": "practice/sql/medium/medium-subquery-160/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-03",
+      "url": "https://xomdata.com/practice/medium-subquery-160"
+    },
     {
       "name": "Merge overlapping bookings into continuous ranges",
       "slug": "nightmare-interval-merge-001",
