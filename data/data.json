@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-03T12:28:01+00:00",
-  "source_commit": "a9e9298",
+  "generated_at": "2026-10-03T12:30:58+00:00",
+  "source_commit": "9c98adb",
   "totals": {
-    "accepted": 358,
-    "challenges": 349,
+    "accepted": 360,
+    "challenges": 351,
     "languages": 2,
     "streak": 9,
-    "synced": "358 / 358",
-    "grand": 358
+    "synced": "360 / 360",
+    "grand": 360
   },
   "by_language": {
     "python": 168,
-    "sql": 190
+    "sql": 192
   },
   "by_difficulty": {
     "easy": 172,
     "medium": 82,
-    "hard": 46,
+    "hard": 48,
     "nightmare": 58
   },
   "by_category": {
@@ -24,7 +24,7 @@
     "Data Structures & Algos": 11,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
-    "SQL Querying": 171,
+    "SQL Querying": 173,
     "Advanced Analytics & Cohorts": 4,
     "SQL Window Functions": 2,
     "SQL Aggregations": 13
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 12
+      "count": 14
     }
   ],
   "activity": {
@@ -78,6 +78,7 @@
     "2026-09-25": 7,
     "2026-10-02": 3,
     "2026-09-05": 1,
+    "2026-10-03": 4,
     "2026-08-23": 39,
     "2026-09-22": 9,
     "2026-08-19": 12,
@@ -86,7 +87,6 @@
     "2026-08-25": 4,
     "2026-08-20": 3,
     "2026-09-07": 6,
-    "2026-10-03": 2,
     "2026-09-06": 2,
     "2026-09-11": 1
   },
@@ -110,6 +110,26 @@
       "category": "SQL Querying",
       "date": "2026-10-03",
       "url": "https://xomdata.com/practice/medium-subquery-160"
+    },
+    {
+      "name": "Cumulative revenue from successful transactions only",
+      "slug": "hard-conditional-001",
+      "file": "practice/sql/hard/hard-conditional-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-10-03",
+      "url": "https://xomdata.com/practice/hard-conditional-001"
+    },
+    {
+      "name": "Chấm điểm công bằng khi nhiều khách ngang tài",
+      "slug": "hard-rfm-005",
+      "file": "practice/sql/hard/hard-rfm-005/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-10-03",
+      "url": "https://xomdata.com/practice/hard-rfm-005"
     },
     {
       "name": "Merge overlapping bookings into continuous ranges",
