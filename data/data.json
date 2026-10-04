@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-03T20:28:08+00:00",
-  "source_commit": "89cbdc5",
+  "generated_at": "2026-10-04T01:39:21+00:00",
+  "source_commit": "29d057d",
   "totals": {
-    "accepted": 362,
-    "challenges": 353,
+    "accepted": 364,
+    "challenges": 355,
     "languages": 2,
-    "streak": 9,
-    "synced": "362 / 362",
-    "grand": 362
+    "streak": 10,
+    "synced": "364 / 364",
+    "grand": 364
   },
   "by_language": {
     "python": 168,
-    "sql": 194
+    "sql": 196
   },
   "by_difficulty": {
     "easy": 172,
     "medium": 82,
-    "hard": 48,
+    "hard": 50,
     "nightmare": 60
   },
   "by_category": {
@@ -24,7 +24,7 @@
     "Data Structures & Algos": 11,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
-    "SQL Querying": 175,
+    "SQL Querying": 177,
     "Advanced Analytics & Cohorts": 4,
     "SQL Window Functions": 2,
     "SQL Aggregations": 13
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 16
+      "count": 18
     }
   ],
   "activity": {
@@ -80,6 +80,7 @@
     "2026-10-02": 3,
     "2026-09-05": 1,
     "2026-08-23": 39,
+    "2026-10-04": 2,
     "2026-09-22": 9,
     "2026-08-19": 12,
     "2026-08-22": 11,
@@ -91,6 +92,26 @@
     "2026-09-11": 1
   },
   "solutions": [
+    {
+      "name": "Tam giác giữ chân dạng sổ cái",
+      "slug": "hard-retention-006",
+      "file": "practice/sql/hard/hard-retention-006/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-10-04",
+      "url": "https://xomdata.com/practice/hard-retention-006"
+    },
+    {
+      "name": "Nhật ký vòng đời từng khách mỗi tháng",
+      "slug": "hard-churn-005",
+      "file": "practice/sql/hard/hard-churn-005/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-10-04",
+      "url": "https://xomdata.com/practice/hard-churn-005"
+    },
     {
       "name": "Shortest steps to each node from node 1",
       "slug": "expert-final-graph-009",
