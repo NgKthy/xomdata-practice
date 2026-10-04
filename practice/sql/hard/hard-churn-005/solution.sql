@@ -1,4 +1,4 @@
--- Xom Data · Nhật ký vòng đời từng khách mỗi tháng
+-- Xom Data · Monthly lifecycle log for each customer
 -- Problem: https://xomdata.com/practice/hard-churn-005
 -- Solved: 2026-10-04
 

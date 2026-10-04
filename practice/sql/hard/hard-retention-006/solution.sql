@@ -1,4 +1,4 @@
--- Xom Data · Tam giác giữ chân dạng sổ cái
+-- Xom Data · Retention ledger triangle
 -- Problem: https://xomdata.com/practice/hard-retention-006
 -- Solved: 2026-10-04
 
