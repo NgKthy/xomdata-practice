@@ -360,5 +360,7 @@
   "practice/sql/hard/hard-conditional-001/solution.sql": "e6170f4b4aa749764549f1522fb079c6f89c0d805be708240143620e44f472f5",
   "practice/sql/hard/hard-rfm-005/solution.sql": "4206f416ec0fdb02a150360a4778e4d33386a57e3b88b7177e5ddfa8598b63b6",
   "practice/sql/nightmare/expert-final-agg-001/solution.sql": "c1a5da52d121e2a7578107005e2bf66a69a7e9c93987c41c1cbcf7fbe5440ef8",
-  "practice/sql/nightmare/expert-final-graph-009/solution.sql": "f6ca9bd07f5d62d07373d21d93c8b0038bef44999aa54a3adf5fd5d04010deeb"
+  "practice/sql/nightmare/expert-final-graph-009/solution.sql": "f6ca9bd07f5d62d07373d21d93c8b0038bef44999aa54a3adf5fd5d04010deeb",
+  "practice/sql/hard/hard-retention-006/solution.sql": "be4cde9b1d22e863c791d860b701aebe56e03273a17bc94df811a06703f29c93",
+  "practice/sql/hard/hard-churn-005/solution.sql": "9f6c5822c513d7c55a86eb55fdd42109c5feeab1ef220d39c624333ccd00d092"
 }
