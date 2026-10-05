@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-05T03:35:44+00:00",
-  "source_commit": "135330b",
+  "generated_at": "2026-10-05T12:14:17+00:00",
+  "source_commit": "654948a",
   "totals": {
-    "accepted": 366,
-    "challenges": 357,
+    "accepted": 369,
+    "challenges": 360,
     "languages": 2,
-    "streak": 10,
-    "synced": "366 / 366",
-    "grand": 366
+    "streak": 11,
+    "synced": "369 / 369",
+    "grand": 369
   },
   "by_language": {
-    "python": 168,
+    "python": 171,
     "sql": 198
   },
   "by_difficulty": {
     "easy": 172,
     "medium": 82,
     "hard": 50,
-    "nightmare": 62
+    "nightmare": 65
   },
   "by_category": {
-    "Python Data Logic": 153,
+    "Python Data Logic": 156,
     "Data Structures & Algos": 11,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 20
+      "count": 23
     }
   ],
   "activity": {
@@ -53,6 +53,7 @@
     "2026-10-01": 7,
     "2026-08-27": 1,
     "2026-09-26": 6,
+    "2026-10-05": 3,
     "2026-09-29": 5,
     "2026-09-02": 1,
     "2026-09-10": 15,
@@ -92,6 +93,36 @@
     "2026-09-11": 1
   },
   "solutions": [
+    {
+      "name": "Sort colors",
+      "slug": "py-sort-colors",
+      "file": "practice/python/nightmare/py-sort-colors/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-10-05",
+      "url": "https://xomdata.com/practice/py-sort-colors"
+    },
+    {
+      "name": "Kth largest element",
+      "slug": "py-kth-largest",
+      "file": "practice/python/nightmare/py-kth-largest/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-10-05",
+      "url": "https://xomdata.com/practice/py-kth-largest"
+    },
+    {
+      "name": "House robber II",
+      "slug": "py-house-robber-circle",
+      "file": "practice/python/nightmare/py-house-robber-circle/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-10-05",
+      "url": "https://xomdata.com/practice/py-house-robber-circle"
+    },
     {
       "name": "Tam giác giữ chân dạng sổ cái",
       "slug": "hard-retention-006",
