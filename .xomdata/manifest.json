@@ -370,5 +370,8 @@
   "practice/python/nightmare/py-house-robber-circle/solution.py": "555b4ef20e9b6bf3f5c111f11bc5c47dcd9297f21175cf4b9247faebc8c8cc6f",
   "practice/python/medium/py-roman-to-int/solution.py": "53cf5751f6d1442e296bba1f649c9c7e52e346a85d3b63dff5f710deed95f557",
   "practice/python/medium/py-flatten-one-level/solution.py": "c3b70d44a309183ca0ea73c3d4dbb2d24340b4bdf0eebd2ac3b2f14a29620328",
-  "practice/python/medium/py-caesar-shift/solution.py": "122de098d12c5f3ea6301c55fceba806aaadbbab0e2f20cd90a4427311214705"
+  "practice/python/medium/py-caesar-shift/solution.py": "122de098d12c5f3ea6301c55fceba806aaadbbab0e2f20cd90a4427311214705",
+  "practice/python/easy/py-clamp-value/solution.py": "44fc47fe6c9ef7c0f06b69c6046cdc4aa0abcab3fba4d4b501cccdcc25fd6cbb",
+  "practice/python/easy/py-index-of-max/solution.py": "408ede660313f9482d5e790ea8881bee73c5a074d04496c8626c2640da17cc09",
+  "practice/python/easy/py-char-position/solution.py": "400ac13e74e5438e9df6f328da967753db623032cb6b06c2d7b94722aae019fb"
 }

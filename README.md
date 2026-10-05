@@ -4,15 +4,18 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**363** problems solved on [Xom Data](https://xomdata.com/practice).
+**366** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 84 | 36 | 20 | 34 | 174 |
+| Python | 87 | 36 | 20 | 34 | 177 |
 | SQL | 88 | 40 | 30 | 31 | 189 |
 
 **Recently solved**
 
+- [py-char-position](https://xomdata.com/practice/py-char-position) · Easy · 2026-10-05
+- [py-index-of-max](https://xomdata.com/practice/py-index-of-max) · Easy · 2026-10-05
+- [py-clamp-value](https://xomdata.com/practice/py-clamp-value) · Easy · 2026-10-05
 - [py-caesar-shift](https://xomdata.com/practice/py-caesar-shift) · Medium · 2026-10-05
 - [py-flatten-one-level](https://xomdata.com/practice/py-flatten-one-level) · Medium · 2026-10-05
 - [py-roman-to-int](https://xomdata.com/practice/py-roman-to-int) · Medium · 2026-10-05
@@ -20,11 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-sort-colors](https://xomdata.com/practice/py-sort-colors) · Nightmare · 2026-10-05
 - [py-kth-largest](https://xomdata.com/practice/py-kth-largest) · Nightmare · 2026-10-05
 - [sql-nightmare-005](https://xomdata.com/practice/sql-nightmare-005) · Nightmare · 2026-10-04
-- [sql-nightmare-004](https://xomdata.com/practice/sql-nightmare-004) · Nightmare · 2026-10-04
-- [hard-churn-005](https://xomdata.com/practice/hard-churn-005) · Hard · 2026-10-04
-- [hard-retention-006](https://xomdata.com/practice/hard-retention-006) · Hard · 2026-10-04
 
-_Synced 372 solutions · last update 2026-10-05_
+_Synced 375 solutions · last update 2026-10-05_
 
 <!-- xomdata:stats:end -->
 
