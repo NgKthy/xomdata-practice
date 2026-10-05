@@ -364,5 +364,8 @@
   "practice/sql/hard/hard-retention-006/solution.sql": "be4cde9b1d22e863c791d860b701aebe56e03273a17bc94df811a06703f29c93",
   "practice/sql/hard/hard-churn-005/solution.sql": "9f6c5822c513d7c55a86eb55fdd42109c5feeab1ef220d39c624333ccd00d092",
   "practice/sql/nightmare/sql-nightmare-004/solution.sql": "68f4fcb1fdce70e96291728f5c6236fc62f98f76ea3bb9e8049cf35c53225258",
-  "practice/sql/nightmare/sql-nightmare-005/solution.sql": "4105fa0f0d17c4575f61ff96520a4a7d0903afc8511970f2cb90869ac607773e"
+  "practice/sql/nightmare/sql-nightmare-005/solution.sql": "4105fa0f0d17c4575f61ff96520a4a7d0903afc8511970f2cb90869ac607773e",
+  "practice/python/nightmare/py-kth-largest/solution.py": "e012ab7eb78b3c05e76773bf07caddb930e1e58f6e99e488778645ec255ccd8b",
+  "practice/python/nightmare/py-sort-colors/solution.py": "4c8508e447577fe04d512075985707b20cb8e3decae6dfec7e53c38771ab270c",
+  "practice/python/nightmare/py-house-robber-circle/solution.py": "555b4ef20e9b6bf3f5c111f11bc5c47dcd9297f21175cf4b9247faebc8c8cc6f"
 }
