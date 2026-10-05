@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-05T12:14:17+00:00",
-  "source_commit": "654948a",
+  "generated_at": "2026-10-05T12:16:23+00:00",
+  "source_commit": "3957ffa",
   "totals": {
-    "accepted": 369,
-    "challenges": 360,
+    "accepted": 372,
+    "challenges": 363,
     "languages": 2,
     "streak": 11,
-    "synced": "369 / 369",
-    "grand": 369
+    "synced": "372 / 372",
+    "grand": 372
   },
   "by_language": {
-    "python": 171,
+    "python": 174,
     "sql": 198
   },
   "by_difficulty": {
     "easy": 172,
-    "medium": 82,
+    "medium": 85,
     "hard": 50,
     "nightmare": 65
   },
   "by_category": {
-    "Python Data Logic": 156,
+    "Python Data Logic": 159,
     "Data Structures & Algos": 11,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 23
+      "count": 26
     }
   ],
   "activity": {
@@ -53,7 +53,7 @@
     "2026-10-01": 7,
     "2026-08-27": 1,
     "2026-09-26": 6,
-    "2026-10-05": 3,
+    "2026-10-05": 6,
     "2026-09-29": 5,
     "2026-09-02": 1,
     "2026-09-10": 15,
@@ -104,6 +104,26 @@
       "url": "https://xomdata.com/practice/py-sort-colors"
     },
     {
+      "name": "Scramble a promo code with a letter shift",
+      "slug": "py-caesar-shift",
+      "file": "practice/python/medium/py-caesar-shift/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-05",
+      "url": "https://xomdata.com/practice/py-caesar-shift"
+    },
+    {
+      "name": "Roman to integer",
+      "slug": "py-roman-to-int",
+      "file": "practice/python/medium/py-roman-to-int/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-05",
+      "url": "https://xomdata.com/practice/py-roman-to-int"
+    },
+    {
       "name": "Kth largest element",
       "slug": "py-kth-largest",
       "file": "practice/python/nightmare/py-kth-largest/solution.py",
@@ -122,6 +142,16 @@
       "category": "Python Data Logic",
       "date": "2026-10-05",
       "url": "https://xomdata.com/practice/py-house-robber-circle"
+    },
+    {
+      "name": "Flatten grouped results by one level",
+      "slug": "py-flatten-one-level",
+      "file": "practice/python/medium/py-flatten-one-level/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-05",
+      "url": "https://xomdata.com/practice/py-flatten-one-level"
     },
     {
       "name": "Tam giác giữ chân dạng sổ cái",
