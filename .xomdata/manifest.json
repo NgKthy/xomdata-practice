@@ -367,5 +367,8 @@
   "practice/sql/nightmare/sql-nightmare-005/solution.sql": "4105fa0f0d17c4575f61ff96520a4a7d0903afc8511970f2cb90869ac607773e",
   "practice/python/nightmare/py-kth-largest/solution.py": "e012ab7eb78b3c05e76773bf07caddb930e1e58f6e99e488778645ec255ccd8b",
   "practice/python/nightmare/py-sort-colors/solution.py": "4c8508e447577fe04d512075985707b20cb8e3decae6dfec7e53c38771ab270c",
-  "practice/python/nightmare/py-house-robber-circle/solution.py": "555b4ef20e9b6bf3f5c111f11bc5c47dcd9297f21175cf4b9247faebc8c8cc6f"
+  "practice/python/nightmare/py-house-robber-circle/solution.py": "555b4ef20e9b6bf3f5c111f11bc5c47dcd9297f21175cf4b9247faebc8c8cc6f",
+  "practice/python/medium/py-roman-to-int/solution.py": "53cf5751f6d1442e296bba1f649c9c7e52e346a85d3b63dff5f710deed95f557",
+  "practice/python/medium/py-flatten-one-level/solution.py": "c3b70d44a309183ca0ea73c3d4dbb2d24340b4bdf0eebd2ac3b2f14a29620328",
+  "practice/python/medium/py-caesar-shift/solution.py": "122de098d12c5f3ea6301c55fceba806aaadbbab0e2f20cd90a4427311214705"
 }
