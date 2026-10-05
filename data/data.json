@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-05T12:16:23+00:00",
-  "source_commit": "3957ffa",
+  "generated_at": "2026-10-05T12:19:28+00:00",
+  "source_commit": "2e3ceba",
   "totals": {
-    "accepted": 372,
-    "challenges": 363,
+    "accepted": 375,
+    "challenges": 366,
     "languages": 2,
     "streak": 11,
-    "synced": "372 / 372",
-    "grand": 372
+    "synced": "375 / 375",
+    "grand": 375
   },
   "by_language": {
-    "python": 174,
+    "python": 177,
     "sql": 198
   },
   "by_difficulty": {
-    "easy": 172,
+    "easy": 175,
     "medium": 85,
     "hard": 50,
     "nightmare": 65
   },
   "by_category": {
-    "Python Data Logic": 159,
+    "Python Data Logic": 162,
     "Data Structures & Algos": 11,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 26
+      "count": 29
     }
   ],
   "activity": {
@@ -53,7 +53,7 @@
     "2026-10-01": 7,
     "2026-08-27": 1,
     "2026-09-26": 6,
-    "2026-10-05": 6,
+    "2026-10-05": 9,
     "2026-09-29": 5,
     "2026-09-02": 1,
     "2026-09-10": 15,
@@ -124,6 +124,26 @@
       "url": "https://xomdata.com/practice/py-roman-to-int"
     },
     {
+      "name": "Pull a sensor reading back into range",
+      "slug": "py-clamp-value",
+      "file": "practice/python/easy/py-clamp-value/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-10-05",
+      "url": "https://xomdata.com/practice/py-clamp-value"
+    },
+    {
+      "name": "Position of the priciest item in the table",
+      "slug": "py-index-of-max",
+      "file": "practice/python/easy/py-index-of-max/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-10-05",
+      "url": "https://xomdata.com/practice/py-index-of-max"
+    },
+    {
       "name": "Kth largest element",
       "slug": "py-kth-largest",
       "file": "practice/python/nightmare/py-kth-largest/solution.py",
@@ -152,6 +172,16 @@
       "category": "Python Data Logic",
       "date": "2026-10-05",
       "url": "https://xomdata.com/practice/py-flatten-one-level"
+    },
+    {
+      "name": "First position of a character",
+      "slug": "py-char-position",
+      "file": "practice/python/easy/py-char-position/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-10-05",
+      "url": "https://xomdata.com/practice/py-char-position"
     },
     {
       "name": "Tam giác giữ chân dạng sổ cái",
