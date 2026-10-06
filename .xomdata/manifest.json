@@ -378,5 +378,9 @@
   "practice/python/nightmare/py-kadane-circular/solution.py": "a11c49e292fd8165571989ff21ba7ffa2d7e32e1a6b57101f0cb3657f9973356",
   "practice/python/medium/py-revenue-month/solution.py": "91cdbb5b46ed99fbe2e1b271338cf2691a778fc5452ad93c8d47ee6e7d0179a9",
   "practice/python/medium/py-rotate-list/solution.py": "377423e65e44eddcbf0845796ec1684af1d35f36cba1bd7f762ce0f56d83c285",
-  "practice/python/easy/py-filter-long-names/solution.py": "6c6ab80029ad7d3d731e675a78caca9dba06b3e0b056a23236a31c4e4b465e53"
+  "practice/python/easy/py-filter-long-names/solution.py": "6c6ab80029ad7d3d731e675a78caca9dba06b3e0b056a23236a31c4e4b465e53",
+  "practice/python/easy/py-filter-dict-threshold/solution.py": "698ece662245ca468b157a24df9010bac672b09844cc843f76969deefa38d455",
+  "practice/python/easy/py-average/solution.py": "cc92a6061aea511ab1d69557feb8636a7090d250eca4b7c51bd1842b0873216c",
+  "practice/python/easy/py-initials/solution.py": "1d5bff3e71486102b0e95a2fec93104d68574f261efbedb052f0a8e1955df635",
+  "practice/python/easy/py-mask-phone/solution.py": "eb92ade0cf68514f699c28659f5bf7350f46bb5ce79d007f744632707b69fa9b"
 }
