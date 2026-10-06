@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-06T05:13:35+00:00",
-  "source_commit": "9d630b9",
+  "generated_at": "2026-10-06T05:15:51+00:00",
+  "source_commit": "0a43ff6",
   "totals": {
-    "accepted": 380,
-    "challenges": 371,
+    "accepted": 384,
+    "challenges": 375,
     "languages": 2,
     "streak": 12,
-    "synced": "380 / 380",
-    "grand": 380
+    "synced": "384 / 384",
+    "grand": 384
   },
   "by_language": {
-    "python": 182,
+    "python": 186,
     "sql": 198
   },
   "by_difficulty": {
-    "easy": 176,
+    "easy": 180,
     "medium": 87,
     "hard": 50,
     "nightmare": 67
   },
   "by_category": {
-    "Python Data Logic": 166,
+    "Python Data Logic": 170,
     "Data Structures & Algos": 12,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 34
+      "count": 38
     }
   ],
   "activity": {
@@ -49,7 +49,7 @@
     "2026-09-20": 11,
     "2026-09-28": 8,
     "2026-09-18": 11,
-    "2026-10-06": 5,
+    "2026-10-06": 9,
     "2026-09-13": 10,
     "2026-10-01": 7,
     "2026-08-27": 1,
@@ -135,6 +135,36 @@
       "url": "https://xomdata.com/practice/py-kadane-circular"
     },
     {
+      "name": "Mask phone number",
+      "slug": "py-mask-phone",
+      "file": "practice/python/easy/py-mask-phone/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-10-06",
+      "url": "https://xomdata.com/practice/py-mask-phone"
+    },
+    {
+      "name": "Keep the branches that beat the target",
+      "slug": "py-filter-dict-threshold",
+      "file": "practice/python/easy/py-filter-dict-threshold/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-10-06",
+      "url": "https://xomdata.com/practice/py-filter-dict-threshold"
+    },
+    {
+      "name": "Generate initials",
+      "slug": "py-initials",
+      "file": "practice/python/easy/py-initials/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-10-06",
+      "url": "https://xomdata.com/practice/py-initials"
+    },
+    {
       "name": "Find names too long for the card",
       "slug": "py-filter-long-names",
       "file": "practice/python/easy/py-filter-long-names/solution.py",
@@ -143,6 +173,16 @@
       "category": "Python Data Logic",
       "date": "2026-10-06",
       "url": "https://xomdata.com/practice/py-filter-long-names"
+    },
+    {
+      "name": "Average score by subject",
+      "slug": "py-average",
+      "file": "practice/python/easy/py-average/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-10-06",
+      "url": "https://xomdata.com/practice/py-average"
     },
     {
       "name": "Sort colors",
