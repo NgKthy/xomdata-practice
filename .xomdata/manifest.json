@@ -382,5 +382,10 @@
   "practice/python/easy/py-filter-dict-threshold/solution.py": "698ece662245ca468b157a24df9010bac672b09844cc843f76969deefa38d455",
   "practice/python/easy/py-average/solution.py": "cc92a6061aea511ab1d69557feb8636a7090d250eca4b7c51bd1842b0873216c",
   "practice/python/easy/py-initials/solution.py": "1d5bff3e71486102b0e95a2fec93104d68574f261efbedb052f0a8e1955df635",
-  "practice/python/easy/py-mask-phone/solution.py": "eb92ade0cf68514f699c28659f5bf7350f46bb5ce79d007f744632707b69fa9b"
+  "practice/python/easy/py-mask-phone/solution.py": "eb92ade0cf68514f699c28659f5bf7350f46bb5ce79d007f744632707b69fa9b",
+  "practice/python/easy/py-reverse-code/solution.py": "8c25c65d15a33dc962e8da266e4d3ab93b890a985019e0cf07af4a6e3b28d6ef",
+  "practice/python/easy/py-reverse-order/solution.py": "3ce830a65621e0e23086882c1822c0f647e5bd860f8b5ff62ab699d480892cd6",
+  "practice/python/easy/py-merge-alternate/solution.py": "a8723d03521ef2da5f4dd8c6f35b80e34c9d3a856407471900062be1de8d81da",
+  "practice/python/easy/py-min-value/solution.py": "9d538a8b599cff339de335ddb7ef40ff17d93ca9864d423d06e7bb1240bb7bea",
+  "practice/python/nightmare/py-set-matrix-zeros/solution.py": "2fd8944a83a285f23aaa24d66da3b6cad3d9c142f33ecc20255567ae9c9cc37c"
 }
