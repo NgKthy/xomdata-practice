@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-06T05:11:27+00:00",
-  "source_commit": "bce4c2b",
+  "generated_at": "2026-10-06T05:13:35+00:00",
+  "source_commit": "9d630b9",
   "totals": {
-    "accepted": 377,
-    "challenges": 368,
+    "accepted": 380,
+    "challenges": 371,
     "languages": 2,
     "streak": 12,
-    "synced": "377 / 377",
-    "grand": 377
+    "synced": "380 / 380",
+    "grand": 380
   },
   "by_language": {
-    "python": 179,
+    "python": 182,
     "sql": 198
   },
   "by_difficulty": {
-    "easy": 175,
-    "medium": 85,
+    "easy": 176,
+    "medium": 87,
     "hard": 50,
     "nightmare": 67
   },
   "by_category": {
-    "Python Data Logic": 163,
+    "Python Data Logic": 166,
     "Data Structures & Algos": 12,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 31
+      "count": 34
     }
   ],
   "activity": {
@@ -49,7 +49,7 @@
     "2026-09-20": 11,
     "2026-09-28": 8,
     "2026-09-18": 11,
-    "2026-10-06": 2,
+    "2026-10-06": 5,
     "2026-09-13": 10,
     "2026-10-01": 7,
     "2026-08-27": 1,
@@ -95,6 +95,16 @@
   },
   "solutions": [
     {
+      "name": "Total revenue by month",
+      "slug": "py-revenue-month",
+      "file": "practice/python/medium/py-revenue-month/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-06",
+      "url": "https://xomdata.com/practice/py-revenue-month"
+    },
+    {
       "name": "Rotting oranges",
       "slug": "py-rotting-oranges",
       "file": "practice/python/nightmare/py-rotting-oranges/solution.py",
@@ -105,6 +115,16 @@
       "url": "https://xomdata.com/practice/py-rotting-oranges"
     },
     {
+      "name": "Rotate list to the right",
+      "slug": "py-rotate-list",
+      "file": "practice/python/medium/py-rotate-list/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-06",
+      "url": "https://xomdata.com/practice/py-rotate-list"
+    },
+    {
       "name": "Maximum circular subarray sum",
       "slug": "py-kadane-circular",
       "file": "practice/python/nightmare/py-kadane-circular/solution.py",
@@ -113,6 +133,16 @@
       "category": "Data Structures & Algos",
       "date": "2026-10-06",
       "url": "https://xomdata.com/practice/py-kadane-circular"
+    },
+    {
+      "name": "Find names too long for the card",
+      "slug": "py-filter-long-names",
+      "file": "practice/python/easy/py-filter-long-names/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-10-06",
+      "url": "https://xomdata.com/practice/py-filter-long-names"
     },
     {
       "name": "Sort colors",
