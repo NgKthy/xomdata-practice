@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-06T04:23:39+00:00",
-  "source_commit": "2e3ceba",
+  "generated_at": "2026-10-06T05:11:27+00:00",
+  "source_commit": "bce4c2b",
   "totals": {
-    "accepted": 375,
-    "challenges": 366,
+    "accepted": 377,
+    "challenges": 368,
     "languages": 2,
-    "streak": 11,
-    "synced": "375 / 375",
-    "grand": 375
+    "streak": 12,
+    "synced": "377 / 377",
+    "grand": 377
   },
   "by_language": {
-    "python": 177,
+    "python": 179,
     "sql": 198
   },
   "by_difficulty": {
     "easy": 175,
     "medium": 85,
     "hard": 50,
-    "nightmare": 65
+    "nightmare": 67
   },
   "by_category": {
-    "Python Data Logic": 162,
-    "Data Structures & Algos": 11,
+    "Python Data Logic": 163,
+    "Data Structures & Algos": 12,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
     "SQL Querying": 179,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 29
+      "count": 31
     }
   ],
   "activity": {
@@ -49,6 +49,7 @@
     "2026-09-20": 11,
     "2026-09-28": 8,
     "2026-09-18": 11,
+    "2026-10-06": 2,
     "2026-09-13": 10,
     "2026-10-01": 7,
     "2026-08-27": 1,
@@ -93,6 +94,26 @@
     "2026-09-11": 1
   },
   "solutions": [
+    {
+      "name": "Rotting oranges",
+      "slug": "py-rotting-oranges",
+      "file": "practice/python/nightmare/py-rotting-oranges/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-10-06",
+      "url": "https://xomdata.com/practice/py-rotting-oranges"
+    },
+    {
+      "name": "Maximum circular subarray sum",
+      "slug": "py-kadane-circular",
+      "file": "practice/python/nightmare/py-kadane-circular/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Data Structures & Algos",
+      "date": "2026-10-06",
+      "url": "https://xomdata.com/practice/py-kadane-circular"
+    },
     {
       "name": "Sort colors",
       "slug": "py-sort-colors",
