@@ -373,5 +373,7 @@
   "practice/python/medium/py-caesar-shift/solution.py": "122de098d12c5f3ea6301c55fceba806aaadbbab0e2f20cd90a4427311214705",
   "practice/python/easy/py-clamp-value/solution.py": "44fc47fe6c9ef7c0f06b69c6046cdc4aa0abcab3fba4d4b501cccdcc25fd6cbb",
   "practice/python/easy/py-index-of-max/solution.py": "408ede660313f9482d5e790ea8881bee73c5a074d04496c8626c2640da17cc09",
-  "practice/python/easy/py-char-position/solution.py": "400ac13e74e5438e9df6f328da967753db623032cb6b06c2d7b94722aae019fb"
+  "practice/python/easy/py-char-position/solution.py": "400ac13e74e5438e9df6f328da967753db623032cb6b06c2d7b94722aae019fb",
+  "practice/python/nightmare/py-rotting-oranges/solution.py": "40561e81a6117084772e1dd204dbcc2e6f8dd4be066a6defa2fd4374654a630a",
+  "practice/python/nightmare/py-kadane-circular/solution.py": "a11c49e292fd8165571989ff21ba7ffa2d7e32e1a6b57101f0cb3657f9973356"
 }
