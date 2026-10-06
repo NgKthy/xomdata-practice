@@ -375,5 +375,8 @@
   "practice/python/easy/py-index-of-max/solution.py": "408ede660313f9482d5e790ea8881bee73c5a074d04496c8626c2640da17cc09",
   "practice/python/easy/py-char-position/solution.py": "400ac13e74e5438e9df6f328da967753db623032cb6b06c2d7b94722aae019fb",
   "practice/python/nightmare/py-rotting-oranges/solution.py": "40561e81a6117084772e1dd204dbcc2e6f8dd4be066a6defa2fd4374654a630a",
-  "practice/python/nightmare/py-kadane-circular/solution.py": "a11c49e292fd8165571989ff21ba7ffa2d7e32e1a6b57101f0cb3657f9973356"
+  "practice/python/nightmare/py-kadane-circular/solution.py": "a11c49e292fd8165571989ff21ba7ffa2d7e32e1a6b57101f0cb3657f9973356",
+  "practice/python/medium/py-revenue-month/solution.py": "91cdbb5b46ed99fbe2e1b271338cf2691a778fc5452ad93c8d47ee6e7d0179a9",
+  "practice/python/medium/py-rotate-list/solution.py": "377423e65e44eddcbf0845796ec1684af1d35f36cba1bd7f762ce0f56d83c285",
+  "practice/python/easy/py-filter-long-names/solution.py": "6c6ab80029ad7d3d731e675a78caca9dba06b3e0b056a23236a31c4e4b465e53"
 }
