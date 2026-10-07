@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-07T10:52:10+00:00",
-  "source_commit": "49560f8",
+  "generated_at": "2026-10-07T10:58:16+00:00",
+  "source_commit": "f0b33b0",
   "totals": {
-    "accepted": 394,
-    "challenges": 385,
+    "accepted": 397,
+    "challenges": 388,
     "languages": 2,
     "streak": 13,
-    "synced": "394 / 394",
-    "grand": 394
+    "synced": "397 / 397",
+    "grand": 397
   },
   "by_language": {
-    "python": 196,
+    "python": 199,
     "sql": 198
   },
   "by_difficulty": {
-    "easy": 184,
+    "easy": 187,
     "medium": 89,
     "hard": 50,
     "nightmare": 71
   },
   "by_category": {
-    "Python Data Logic": 179,
+    "Python Data Logic": 182,
     "Data Structures & Algos": 13,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 48
+      "count": 51
     }
   ],
   "activity": {
@@ -54,7 +54,7 @@
     "2026-10-01": 7,
     "2026-08-27": 1,
     "2026-09-26": 6,
-    "2026-10-07": 5,
+    "2026-10-07": 8,
     "2026-10-05": 9,
     "2026-09-29": 5,
     "2026-09-02": 1,
@@ -136,6 +136,26 @@
       "url": "https://xomdata.com/practice/py-catalan-parens"
     },
     {
+      "name": "Normalize customer names",
+      "slug": "py-title-case",
+      "file": "practice/python/easy/py-title-case/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-10-07",
+      "url": "https://xomdata.com/practice/py-title-case"
+    },
+    {
+      "name": "Flip a code-to-name lookup table",
+      "slug": "py-invert-mapping",
+      "file": "practice/python/easy/py-invert-mapping/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-10-07",
+      "url": "https://xomdata.com/practice/py-invert-mapping"
+    },
+    {
       "name": "Count word occurrences",
       "slug": "py-count-occurrences-word",
       "file": "practice/python/medium/py-count-occurrences-word/solution.py",
@@ -144,6 +164,16 @@
       "category": "Python Data Logic",
       "date": "2026-10-07",
       "url": "https://xomdata.com/practice/py-count-occurrences-word"
+    },
+    {
+      "name": "Count students above the benchmark",
+      "slug": "py-above-threshold",
+      "file": "practice/python/easy/py-above-threshold/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-10-07",
+      "url": "https://xomdata.com/practice/py-above-threshold"
     },
     {
       "name": "Total revenue by month",
