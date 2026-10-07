@@ -4,15 +4,17 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**383** problems solved on [Xom Data](https://xomdata.com/practice).
+**385** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 96 | 38 | 20 | 40 | 194 |
+| Python | 96 | 40 | 20 | 40 | 196 |
 | SQL | 88 | 40 | 30 | 31 | 189 |
 
 **Recently solved**
 
+- [py-group-then-sort](https://xomdata.com/practice/py-group-then-sort) · Medium · 2026-10-07
+- [py-count-occurrences-word](https://xomdata.com/practice/py-count-occurrences-word) · Medium · 2026-10-07
 - [py-trapping-rain-water](https://xomdata.com/practice/py-trapping-rain-water) · Nightmare · 2026-10-07
 - [py-catalan-parens](https://xomdata.com/practice/py-catalan-parens) · Nightmare · 2026-10-07
 - [py-single-number](https://xomdata.com/practice/py-single-number) · Nightmare · 2026-10-07
@@ -21,10 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-merge-alternate](https://xomdata.com/practice/py-merge-alternate) · Easy · 2026-10-06
 - [py-reverse-order](https://xomdata.com/practice/py-reverse-order) · Easy · 2026-10-06
 - [py-reverse-code](https://xomdata.com/practice/py-reverse-code) · Easy · 2026-10-06
-- [py-mask-phone](https://xomdata.com/practice/py-mask-phone) · Easy · 2026-10-06
-- [py-initials](https://xomdata.com/practice/py-initials) · Easy · 2026-10-06
 
-_Synced 392 solutions · last update 2026-10-07_
+_Synced 394 solutions · last update 2026-10-07_
 
 <!-- xomdata:stats:end -->
 

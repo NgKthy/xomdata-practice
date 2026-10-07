@@ -390,5 +390,7 @@
   "practice/python/nightmare/py-set-matrix-zeros/solution.py": "2fd8944a83a285f23aaa24d66da3b6cad3d9c142f33ecc20255567ae9c9cc37c",
   "practice/python/nightmare/py-single-number/solution.py": "686f6ec96237fee1af9541778fb1f4093f3b8e264506b5fbaff9b2ce9672a757",
   "practice/python/nightmare/py-catalan-parens/solution.py": "4711770280a1f066cfdaf0cd7b8051d444ce3d9c050a194a2146e49c901f5ce4",
-  "practice/python/nightmare/py-trapping-rain-water/solution.py": "99f02c06a900ea4f7cfe058ee9987453be78b1bcaa3418d1ff083721d836c717"
+  "practice/python/nightmare/py-trapping-rain-water/solution.py": "99f02c06a900ea4f7cfe058ee9987453be78b1bcaa3418d1ff083721d836c717",
+  "practice/python/medium/py-count-occurrences-word/solution.py": "79b06a78ceaeda941bc33720c28f34b439beae8895bee0c2b7fc254bead9938c",
+  "practice/python/medium/py-group-then-sort/solution.py": "b9a23709b47a394d0d8d0b166b83ce1ee257cfcb4988684a9a1a0eb53e1b818d"
 }
