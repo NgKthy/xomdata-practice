@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-07T03:49:49+00:00",
-  "source_commit": "10ef885",
+  "generated_at": "2026-10-07T10:48:53+00:00",
+  "source_commit": "4d2fd6c",
   "totals": {
-    "accepted": 389,
-    "challenges": 380,
+    "accepted": 392,
+    "challenges": 383,
     "languages": 2,
-    "streak": 12,
-    "synced": "389 / 389",
-    "grand": 389
+    "streak": 13,
+    "synced": "392 / 392",
+    "grand": 392
   },
   "by_language": {
-    "python": 191,
+    "python": 194,
     "sql": 198
   },
   "by_difficulty": {
     "easy": 184,
     "medium": 87,
     "hard": 50,
-    "nightmare": 68
+    "nightmare": 71
   },
   "by_category": {
-    "Python Data Logic": 174,
+    "Python Data Logic": 177,
     "Data Structures & Algos": 13,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 43
+      "count": 46
     }
   ],
   "activity": {
@@ -54,6 +54,7 @@
     "2026-10-01": 7,
     "2026-08-27": 1,
     "2026-09-26": 6,
+    "2026-10-07": 3,
     "2026-10-05": 9,
     "2026-09-29": 5,
     "2026-09-02": 1,
@@ -94,6 +95,36 @@
     "2026-09-11": 1
   },
   "solutions": [
+    {
+      "name": "Trapping rain water",
+      "slug": "py-trapping-rain-water",
+      "file": "practice/python/nightmare/py-trapping-rain-water/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-10-07",
+      "url": "https://xomdata.com/practice/py-trapping-rain-water"
+    },
+    {
+      "name": "Single number",
+      "slug": "py-single-number",
+      "file": "practice/python/nightmare/py-single-number/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-10-07",
+      "url": "https://xomdata.com/practice/py-single-number"
+    },
+    {
+      "name": "Number of valid parentheses combinations",
+      "slug": "py-catalan-parens",
+      "file": "practice/python/nightmare/py-catalan-parens/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-10-07",
+      "url": "https://xomdata.com/practice/py-catalan-parens"
+    },
     {
       "name": "Total revenue by month",
       "slug": "py-revenue-month",
