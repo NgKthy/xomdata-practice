@@ -392,5 +392,8 @@
   "practice/python/nightmare/py-catalan-parens/solution.py": "4711770280a1f066cfdaf0cd7b8051d444ce3d9c050a194a2146e49c901f5ce4",
   "practice/python/nightmare/py-trapping-rain-water/solution.py": "99f02c06a900ea4f7cfe058ee9987453be78b1bcaa3418d1ff083721d836c717",
   "practice/python/medium/py-count-occurrences-word/solution.py": "79b06a78ceaeda941bc33720c28f34b439beae8895bee0c2b7fc254bead9938c",
-  "practice/python/medium/py-group-then-sort/solution.py": "b9a23709b47a394d0d8d0b166b83ce1ee257cfcb4988684a9a1a0eb53e1b818d"
+  "practice/python/medium/py-group-then-sort/solution.py": "b9a23709b47a394d0d8d0b166b83ce1ee257cfcb4988684a9a1a0eb53e1b818d",
+  "practice/python/easy/py-above-threshold/solution.py": "09ec53f0ab794996a3f9804b251be03ce7d42e2d6fe65153709d48b8f650a740",
+  "practice/python/easy/py-invert-mapping/solution.py": "c1d02cfcc550bcd651bdb4613f3ce20cbdfc01a5909784d3ee67dd3b1b37f3e0",
+  "practice/python/easy/py-title-case/solution.py": "d3e195d271bac0d084f5de04478f226b62e7c76b4c849d11c6ff5f0b59e27e1f"
 }
