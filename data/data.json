@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-07T10:48:53+00:00",
-  "source_commit": "4d2fd6c",
+  "generated_at": "2026-10-07T10:52:10+00:00",
+  "source_commit": "49560f8",
   "totals": {
-    "accepted": 392,
-    "challenges": 383,
+    "accepted": 394,
+    "challenges": 385,
     "languages": 2,
     "streak": 13,
-    "synced": "392 / 392",
-    "grand": 392
+    "synced": "394 / 394",
+    "grand": 394
   },
   "by_language": {
-    "python": 194,
+    "python": 196,
     "sql": 198
   },
   "by_difficulty": {
     "easy": 184,
-    "medium": 87,
+    "medium": 89,
     "hard": 50,
     "nightmare": 71
   },
   "by_category": {
-    "Python Data Logic": 177,
+    "Python Data Logic": 179,
     "Data Structures & Algos": 13,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 46
+      "count": 48
     }
   ],
   "activity": {
@@ -54,7 +54,7 @@
     "2026-10-01": 7,
     "2026-08-27": 1,
     "2026-09-26": 6,
-    "2026-10-07": 3,
+    "2026-10-07": 5,
     "2026-10-05": 9,
     "2026-09-29": 5,
     "2026-09-02": 1,
@@ -116,6 +116,16 @@
       "url": "https://xomdata.com/practice/py-single-number"
     },
     {
+      "name": "Order regions by total sales",
+      "slug": "py-group-then-sort",
+      "file": "practice/python/medium/py-group-then-sort/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-07",
+      "url": "https://xomdata.com/practice/py-group-then-sort"
+    },
+    {
       "name": "Number of valid parentheses combinations",
       "slug": "py-catalan-parens",
       "file": "practice/python/nightmare/py-catalan-parens/solution.py",
@@ -124,6 +134,16 @@
       "category": "Python Data Logic",
       "date": "2026-10-07",
       "url": "https://xomdata.com/practice/py-catalan-parens"
+    },
+    {
+      "name": "Count word occurrences",
+      "slug": "py-count-occurrences-word",
+      "file": "practice/python/medium/py-count-occurrences-word/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-07",
+      "url": "https://xomdata.com/practice/py-count-occurrences-word"
     },
     {
       "name": "Total revenue by month",
