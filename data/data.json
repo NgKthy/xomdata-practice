@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-07T10:58:16+00:00",
-  "source_commit": "f0b33b0",
+  "generated_at": "2026-10-07T10:59:22+00:00",
+  "source_commit": "08efe50",
   "totals": {
-    "accepted": 397,
-    "challenges": 388,
+    "accepted": 399,
+    "challenges": 390,
     "languages": 2,
     "streak": 13,
-    "synced": "397 / 397",
-    "grand": 397
+    "synced": "399 / 399",
+    "grand": 399
   },
   "by_language": {
-    "python": 199,
+    "python": 201,
     "sql": 198
   },
   "by_difficulty": {
-    "easy": 187,
+    "easy": 188,
     "medium": 89,
     "hard": 50,
-    "nightmare": 71
+    "nightmare": 72
   },
   "by_category": {
-    "Python Data Logic": 182,
+    "Python Data Logic": 184,
     "Data Structures & Algos": 13,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 51
+      "count": 53
     }
   ],
   "activity": {
@@ -54,7 +54,7 @@
     "2026-10-01": 7,
     "2026-08-27": 1,
     "2026-09-26": 6,
-    "2026-10-07": 8,
+    "2026-10-07": 10,
     "2026-10-05": 9,
     "2026-09-29": 5,
     "2026-09-02": 1,
@@ -174,6 +174,26 @@
       "category": "Python Data Logic",
       "date": "2026-10-07",
       "url": "https://xomdata.com/practice/py-above-threshold"
+    },
+    {
+      "name": "Coin change",
+      "slug": "py-coin-change-min",
+      "file": "practice/python/nightmare/py-coin-change-min/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-10-07",
+      "url": "https://xomdata.com/practice/py-coin-change-min"
+    },
+    {
+      "name": "Branch leading on revenue",
+      "slug": "py-best-branch",
+      "file": "practice/python/easy/py-best-branch/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-10-07",
+      "url": "https://xomdata.com/practice/py-best-branch"
     },
     {
       "name": "Total revenue by month",
