@@ -387,5 +387,8 @@
   "practice/python/easy/py-reverse-order/solution.py": "3ce830a65621e0e23086882c1822c0f647e5bd860f8b5ff62ab699d480892cd6",
   "practice/python/easy/py-merge-alternate/solution.py": "a8723d03521ef2da5f4dd8c6f35b80e34c9d3a856407471900062be1de8d81da",
   "practice/python/easy/py-min-value/solution.py": "9d538a8b599cff339de335ddb7ef40ff17d93ca9864d423d06e7bb1240bb7bea",
-  "practice/python/nightmare/py-set-matrix-zeros/solution.py": "2fd8944a83a285f23aaa24d66da3b6cad3d9c142f33ecc20255567ae9c9cc37c"
+  "practice/python/nightmare/py-set-matrix-zeros/solution.py": "2fd8944a83a285f23aaa24d66da3b6cad3d9c142f33ecc20255567ae9c9cc37c",
+  "practice/python/nightmare/py-single-number/solution.py": "686f6ec96237fee1af9541778fb1f4093f3b8e264506b5fbaff9b2ce9672a757",
+  "practice/python/nightmare/py-catalan-parens/solution.py": "4711770280a1f066cfdaf0cd7b8051d444ce3d9c050a194a2146e49c901f5ce4",
+  "practice/python/nightmare/py-trapping-rain-water/solution.py": "99f02c06a900ea4f7cfe058ee9987453be78b1bcaa3418d1ff083721d836c717"
 }
