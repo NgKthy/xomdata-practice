@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**391** problems solved on [Xom Data](https://xomdata.com/practice).
+**392** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 101 | 40 | 20 | 41 | 202 |
+| Python | 102 | 40 | 20 | 41 | 203 |
 | SQL | 88 | 40 | 30 | 31 | 189 |
 
 **Recently solved**
 
+- [py-total-revenue-dict](https://xomdata.com/practice/py-total-revenue-dict) · Easy · 2026-10-08
 - [py-triangle-valid](https://xomdata.com/practice/py-triangle-valid) · Easy · 2026-10-08
 - [py-coin-change-min](https://xomdata.com/practice/py-coin-change-min) · Nightmare · 2026-10-07
 - [py-best-branch](https://xomdata.com/practice/py-best-branch) · Easy · 2026-10-07
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-group-then-sort](https://xomdata.com/practice/py-group-then-sort) · Medium · 2026-10-07
 - [py-count-occurrences-word](https://xomdata.com/practice/py-count-occurrences-word) · Medium · 2026-10-07
 - [py-trapping-rain-water](https://xomdata.com/practice/py-trapping-rain-water) · Nightmare · 2026-10-07
-- [py-catalan-parens](https://xomdata.com/practice/py-catalan-parens) · Nightmare · 2026-10-07
 
-_Synced 400 solutions · last update 2026-10-08_
+_Synced 401 solutions · last update 2026-10-08_
 
 <!-- xomdata:stats:end -->
 
