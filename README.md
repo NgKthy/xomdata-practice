@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**394** problems solved on [Xom Data](https://xomdata.com/practice).
+**395** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 104 | 40 | 20 | 41 | 205 |
+| Python | 104 | 40 | 20 | 42 | 206 |
 | SQL | 88 | 40 | 30 | 31 | 189 |
 
 **Recently solved**
 
+- [py-integer-sqrt](https://xomdata.com/practice/py-integer-sqrt) · Nightmare · 2026-10-08
 - [py-missing-customers](https://xomdata.com/practice/py-missing-customers) · Easy · 2026-10-08
 - [py-boxes-needed](https://xomdata.com/practice/py-boxes-needed) · Easy · 2026-10-08
 - [py-total-revenue-dict](https://xomdata.com/practice/py-total-revenue-dict) · Easy · 2026-10-08
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-title-case](https://xomdata.com/practice/py-title-case) · Easy · 2026-10-07
 - [py-invert-mapping](https://xomdata.com/practice/py-invert-mapping) · Easy · 2026-10-07
 - [py-above-threshold](https://xomdata.com/practice/py-above-threshold) · Easy · 2026-10-07
-- [py-group-then-sort](https://xomdata.com/practice/py-group-then-sort) · Medium · 2026-10-07
 
-_Synced 403 solutions · last update 2026-10-08_
+_Synced 404 solutions · last update 2026-10-08_
 
 <!-- xomdata:stats:end -->
 
