@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-08T15:56:29+00:00",
-  "source_commit": "2161329",
+  "generated_at": "2026-10-08T15:57:19+00:00",
+  "source_commit": "0f8710a",
   "totals": {
-    "accepted": 403,
-    "challenges": 394,
+    "accepted": 404,
+    "challenges": 395,
     "languages": 2,
     "streak": 14,
-    "synced": "403 / 403",
-    "grand": 403
+    "synced": "404 / 404",
+    "grand": 404
   },
   "by_language": {
-    "python": 205,
+    "python": 206,
     "sql": 198
   },
   "by_difficulty": {
     "easy": 192,
     "medium": 89,
     "hard": 50,
-    "nightmare": 72
+    "nightmare": 73
   },
   "by_category": {
-    "Python Data Logic": 188,
+    "Python Data Logic": 189,
     "Data Structures & Algos": 13,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 57
+      "count": 58
     }
   ],
   "activity": {
@@ -56,6 +56,7 @@
     "2026-09-26": 6,
     "2026-10-07": 10,
     "2026-10-05": 9,
+    "2026-10-08": 5,
     "2026-09-29": 5,
     "2026-09-02": 1,
     "2026-09-10": 15,
@@ -64,7 +65,6 @@
     "2026-09-12": 27,
     "2026-08-28": 10,
     "2026-09-14": 6,
-    "2026-10-08": 4,
     "2026-09-27": 5,
     "2026-09-08": 9,
     "2026-09-04": 1,
@@ -105,6 +105,16 @@
       "category": "Python Data Logic",
       "date": "2026-10-08",
       "url": "https://xomdata.com/practice/py-total-revenue-dict"
+    },
+    {
+      "name": "Integer square root",
+      "slug": "py-integer-sqrt",
+      "file": "practice/python/nightmare/py-integer-sqrt/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-10-08",
+      "url": "https://xomdata.com/practice/py-integer-sqrt"
     },
     {
       "name": "Customers who only bought at the first branch",
