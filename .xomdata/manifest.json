@@ -397,5 +397,6 @@
   "practice/python/easy/py-invert-mapping/solution.py": "c1d02cfcc550bcd651bdb4613f3ce20cbdfc01a5909784d3ee67dd3b1b37f3e0",
   "practice/python/easy/py-title-case/solution.py": "d3e195d271bac0d084f5de04478f226b62e7c76b4c849d11c6ff5f0b59e27e1f",
   "practice/python/easy/py-best-branch/solution.py": "f6ba8cdaa0588f3cc3dffbe1fcc72d8a4ad1bdec8868d65ebf2cb00d101c20ff",
-  "practice/python/nightmare/py-coin-change-min/solution.py": "967dd706abaae859a02e081cce69d4884fc5bcbdb9b6b69f99964b63c0281db2"
+  "practice/python/nightmare/py-coin-change-min/solution.py": "967dd706abaae859a02e081cce69d4884fc5bcbdb9b6b69f99964b63c0281db2",
+  "practice/python/easy/py-triangle-valid/solution.py": "be9961c2ecb39fb7294c7a63266f7a4c5ef57d597a78f264058d1d38448f4429"
 }
