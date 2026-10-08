@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-08T15:55:46+00:00",
-  "source_commit": "92dfd7f",
+  "generated_at": "2026-10-08T15:56:29+00:00",
+  "source_commit": "2161329",
   "totals": {
-    "accepted": 401,
-    "challenges": 392,
+    "accepted": 403,
+    "challenges": 394,
     "languages": 2,
     "streak": 14,
-    "synced": "401 / 401",
-    "grand": 401
+    "synced": "403 / 403",
+    "grand": 403
   },
   "by_language": {
-    "python": 203,
+    "python": 205,
     "sql": 198
   },
   "by_difficulty": {
-    "easy": 190,
+    "easy": 192,
     "medium": 89,
     "hard": 50,
     "nightmare": 72
   },
   "by_category": {
-    "Python Data Logic": 186,
+    "Python Data Logic": 188,
     "Data Structures & Algos": 13,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 55
+      "count": 57
     }
   ],
   "activity": {
@@ -64,8 +64,8 @@
     "2026-09-12": 27,
     "2026-08-28": 10,
     "2026-09-14": 6,
+    "2026-10-08": 4,
     "2026-09-27": 5,
-    "2026-10-08": 2,
     "2026-09-08": 9,
     "2026-09-04": 1,
     "2026-09-16": 1,
@@ -107,6 +107,16 @@
       "url": "https://xomdata.com/practice/py-total-revenue-dict"
     },
     {
+      "name": "Customers who only bought at the first branch",
+      "slug": "py-missing-customers",
+      "file": "practice/python/easy/py-missing-customers/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-10-08",
+      "url": "https://xomdata.com/practice/py-missing-customers"
+    },
+    {
       "name": "Check triangle sides",
       "slug": "py-triangle-valid",
       "file": "practice/python/easy/py-triangle-valid/solution.py",
@@ -115,6 +125,16 @@
       "category": "Python Data Logic",
       "date": "2026-10-08",
       "url": "https://xomdata.com/practice/py-triangle-valid"
+    },
+    {
+      "name": "Boxes needed to pack the goods",
+      "slug": "py-boxes-needed",
+      "file": "practice/python/easy/py-boxes-needed/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-10-08",
+      "url": "https://xomdata.com/practice/py-boxes-needed"
     },
     {
       "name": "Trapping rain water",
