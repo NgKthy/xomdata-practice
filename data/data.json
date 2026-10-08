@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-08T12:39:08+00:00",
-  "source_commit": "08efe50",
+  "generated_at": "2026-10-08T15:54:35+00:00",
+  "source_commit": "baffdd8",
   "totals": {
-    "accepted": 399,
-    "challenges": 390,
+    "accepted": 400,
+    "challenges": 391,
     "languages": 2,
-    "streak": 13,
-    "synced": "399 / 399",
-    "grand": 399
+    "streak": 14,
+    "synced": "400 / 400",
+    "grand": 400
   },
   "by_language": {
-    "python": 201,
+    "python": 202,
     "sql": 198
   },
   "by_difficulty": {
-    "easy": 188,
+    "easy": 189,
     "medium": 89,
     "hard": 50,
     "nightmare": 72
   },
   "by_category": {
-    "Python Data Logic": 184,
+    "Python Data Logic": 185,
     "Data Structures & Algos": 13,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 53
+      "count": 54
     }
   ],
   "activity": {
@@ -65,6 +65,7 @@
     "2026-08-28": 10,
     "2026-09-14": 6,
     "2026-09-27": 5,
+    "2026-10-08": 1,
     "2026-09-08": 9,
     "2026-09-04": 1,
     "2026-09-16": 1,
@@ -95,6 +96,16 @@
     "2026-09-11": 1
   },
   "solutions": [
+    {
+      "name": "Check triangle sides",
+      "slug": "py-triangle-valid",
+      "file": "practice/python/easy/py-triangle-valid/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-10-08",
+      "url": "https://xomdata.com/practice/py-triangle-valid"
+    },
     {
       "name": "Trapping rain water",
       "slug": "py-trapping-rain-water",
