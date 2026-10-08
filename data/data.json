@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-08T15:54:35+00:00",
-  "source_commit": "baffdd8",
+  "generated_at": "2026-10-08T15:55:46+00:00",
+  "source_commit": "92dfd7f",
   "totals": {
-    "accepted": 400,
-    "challenges": 391,
+    "accepted": 401,
+    "challenges": 392,
     "languages": 2,
     "streak": 14,
-    "synced": "400 / 400",
-    "grand": 400
+    "synced": "401 / 401",
+    "grand": 401
   },
   "by_language": {
-    "python": 202,
+    "python": 203,
     "sql": 198
   },
   "by_difficulty": {
-    "easy": 189,
+    "easy": 190,
     "medium": 89,
     "hard": 50,
     "nightmare": 72
   },
   "by_category": {
-    "Python Data Logic": 185,
+    "Python Data Logic": 186,
     "Data Structures & Algos": 13,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 54
+      "count": 55
     }
   ],
   "activity": {
@@ -65,7 +65,7 @@
     "2026-08-28": 10,
     "2026-09-14": 6,
     "2026-09-27": 5,
-    "2026-10-08": 1,
+    "2026-10-08": 2,
     "2026-09-08": 9,
     "2026-09-04": 1,
     "2026-09-16": 1,
@@ -96,6 +96,16 @@
     "2026-09-11": 1
   },
   "solutions": [
+    {
+      "name": "Total revenue across the network",
+      "slug": "py-total-revenue-dict",
+      "file": "practice/python/easy/py-total-revenue-dict/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-10-08",
+      "url": "https://xomdata.com/practice/py-total-revenue-dict"
+    },
     {
       "name": "Check triangle sides",
       "slug": "py-triangle-valid",
