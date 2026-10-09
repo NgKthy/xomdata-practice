@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-09T04:08:40+00:00",
-  "source_commit": "0f8710a",
+  "generated_at": "2026-10-09T05:26:00+00:00",
+  "source_commit": "61ee872",
   "totals": {
-    "accepted": 404,
-    "challenges": 395,
+    "accepted": 407,
+    "challenges": 398,
     "languages": 2,
-    "streak": 14,
-    "synced": "404 / 404",
-    "grand": 404
+    "streak": 15,
+    "synced": "407 / 407",
+    "grand": 407
   },
   "by_language": {
-    "python": 206,
+    "python": 209,
     "sql": 198
   },
   "by_difficulty": {
     "easy": 192,
     "medium": 89,
     "hard": 50,
-    "nightmare": 73
+    "nightmare": 76
   },
   "by_category": {
-    "Python Data Logic": 189,
-    "Data Structures & Algos": 13,
+    "Python Data Logic": 191,
+    "Data Structures & Algos": 14,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
     "SQL Querying": 179,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 58
+      "count": 61
     }
   ],
   "activity": {
@@ -54,6 +54,7 @@
     "2026-10-01": 7,
     "2026-08-27": 1,
     "2026-09-26": 6,
+    "2026-10-09": 3,
     "2026-10-07": 10,
     "2026-10-05": 9,
     "2026-10-08": 5,
@@ -96,6 +97,36 @@
     "2026-09-11": 1
   },
   "solutions": [
+    {
+      "name": "Jump game",
+      "slug": "py-jump-game",
+      "file": "practice/python/nightmare/py-jump-game/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-10-09",
+      "url": "https://xomdata.com/practice/py-jump-game"
+    },
+    {
+      "name": "Interleaving string",
+      "slug": "py-interleave-string",
+      "file": "practice/python/nightmare/py-interleave-string/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Data Structures & Algos",
+      "date": "2026-10-09",
+      "url": "https://xomdata.com/practice/py-interleave-string"
+    },
+    {
+      "name": "Game of life",
+      "slug": "py-game-of-life",
+      "file": "practice/python/nightmare/py-game-of-life/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-10-09",
+      "url": "https://xomdata.com/practice/py-game-of-life"
+    },
     {
       "name": "Total revenue across the network",
       "slug": "py-total-revenue-dict",
