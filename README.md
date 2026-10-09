@@ -4,15 +4,18 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**395** problems solved on [Xom Data](https://xomdata.com/practice).
+**398** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 104 | 40 | 20 | 42 | 206 |
+| Python | 104 | 40 | 20 | 45 | 209 |
 | SQL | 88 | 40 | 30 | 31 | 189 |
 
 **Recently solved**
 
+- [py-jump-game](https://xomdata.com/practice/py-jump-game) · Nightmare · 2026-10-09
+- [py-interleave-string](https://xomdata.com/practice/py-interleave-string) · Nightmare · 2026-10-09
+- [py-game-of-life](https://xomdata.com/practice/py-game-of-life) · Nightmare · 2026-10-09
 - [py-integer-sqrt](https://xomdata.com/practice/py-integer-sqrt) · Nightmare · 2026-10-08
 - [py-missing-customers](https://xomdata.com/practice/py-missing-customers) · Easy · 2026-10-08
 - [py-boxes-needed](https://xomdata.com/practice/py-boxes-needed) · Easy · 2026-10-08
@@ -20,11 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-triangle-valid](https://xomdata.com/practice/py-triangle-valid) · Easy · 2026-10-08
 - [py-coin-change-min](https://xomdata.com/practice/py-coin-change-min) · Nightmare · 2026-10-07
 - [py-best-branch](https://xomdata.com/practice/py-best-branch) · Easy · 2026-10-07
-- [py-title-case](https://xomdata.com/practice/py-title-case) · Easy · 2026-10-07
-- [py-invert-mapping](https://xomdata.com/practice/py-invert-mapping) · Easy · 2026-10-07
-- [py-above-threshold](https://xomdata.com/practice/py-above-threshold) · Easy · 2026-10-07
 
-_Synced 404 solutions · last update 2026-10-08_
+_Synced 407 solutions · last update 2026-10-09_
 
 <!-- xomdata:stats:end -->
 
