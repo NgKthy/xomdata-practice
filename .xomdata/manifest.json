@@ -415,5 +415,7 @@
   "practice/python/medium/py-chunk-list/solution.py": "a57024d91b0987b58421b09fc73ffc89957702f9803e93aaff8a337105736276",
   "practice/python/medium/py-digit-frequency/solution.py": "3fe18175bc0634edf5a47e294df9a84bb3fec3c0fd2c3927a08df6bd48bf414f",
   "practice/python/medium/py-run-length/solution.py": "07231ba5c4f65bf0c561e4b0dea74b9d22528a3d75b232314ade3b6629502c74",
-  "practice/python/medium/py-mask-email/solution.py": "8ad0c8cf203b72ae1696de2144a7b64170d9db157b50f4bcc327f4cc5889aee4"
+  "practice/python/medium/py-mask-email/solution.py": "8ad0c8cf203b72ae1696de2144a7b64170d9db157b50f4bcc327f4cc5889aee4",
+  "practice/python/medium/py-email-domain/solution.py": "8311a783f158b753ce8642fd057a257d70e88c9a4dd2cea906966eb0c0b237e4",
+  "practice/python/medium/py-first-unique-word/solution.py": "ded6db5d5ca4948f410495599d4ec01ec7572f40d02a6800c57f6f4e754586de"
 }
