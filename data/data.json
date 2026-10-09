@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-09T05:44:18+00:00",
-  "source_commit": "4f85e1d",
+  "generated_at": "2026-10-09T05:45:45+00:00",
+  "source_commit": "7ee741d",
   "totals": {
-    "accepted": 412,
-    "challenges": 403,
+    "accepted": 414,
+    "challenges": 405,
     "languages": 2,
     "streak": 15,
-    "synced": "412 / 412",
-    "grand": 412
+    "synced": "414 / 414",
+    "grand": 414
   },
   "by_language": {
-    "python": 214,
+    "python": 216,
     "sql": 198
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 93,
+    "medium": 95,
     "hard": 50,
     "nightmare": 77
   },
   "by_category": {
-    "Python Data Logic": 196,
+    "Python Data Logic": 198,
     "Data Structures & Algos": 14,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 66
+      "count": 68
     }
   ],
   "activity": {
@@ -54,7 +54,7 @@
     "2026-10-01": 7,
     "2026-08-27": 1,
     "2026-09-26": 6,
-    "2026-10-09": 8,
+    "2026-10-09": 10,
     "2026-10-07": 10,
     "2026-10-05": 9,
     "2026-10-08": 5,
@@ -106,6 +106,16 @@
       "category": "Python Data Logic",
       "date": "2026-10-09",
       "url": "https://xomdata.com/practice/py-vote-winner"
+    },
+    {
+      "name": "Split a list into batches",
+      "slug": "py-chunk-list",
+      "file": "practice/python/medium/py-chunk-list/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-09",
+      "url": "https://xomdata.com/practice/py-chunk-list"
     },
     {
       "name": "Reverse integer",
@@ -176,6 +186,16 @@
       "category": "Python Data Logic",
       "date": "2026-10-09",
       "url": "https://xomdata.com/practice/py-game-of-life"
+    },
+    {
+      "name": "Contact list ordered ignoring case",
+      "slug": "py-case-insensitive-order",
+      "file": "practice/python/medium/py-case-insensitive-order/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-09",
+      "url": "https://xomdata.com/practice/py-case-insensitive-order"
     },
     {
       "name": "Total revenue across the network",
