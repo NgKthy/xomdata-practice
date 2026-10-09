@@ -412,5 +412,7 @@
   "practice/python/medium/py-longest-word/solution.py": "d7e3628fb6b0d0366afaac40a9f4b887b138593112529cb8d925ad8d8062b584",
   "practice/python/nightmare/py-reverse-integer/solution.py": "53f661ce2c0b57965f14dc685e30e84ab6791c32d280d53a35c8faa7cd8db599",
   "practice/python/medium/py-case-insensitive-order/solution.py": "68c5c44ecf3ffaf4cd8bdbbb04ac745beccea365f2537b70395713188993e3df",
-  "practice/python/medium/py-chunk-list/solution.py": "a57024d91b0987b58421b09fc73ffc89957702f9803e93aaff8a337105736276"
+  "practice/python/medium/py-chunk-list/solution.py": "a57024d91b0987b58421b09fc73ffc89957702f9803e93aaff8a337105736276",
+  "practice/python/medium/py-digit-frequency/solution.py": "3fe18175bc0634edf5a47e294df9a84bb3fec3c0fd2c3927a08df6bd48bf414f",
+  "practice/python/medium/py-run-length/solution.py": "07231ba5c4f65bf0c561e4b0dea74b9d22528a3d75b232314ade3b6629502c74"
 }
