@@ -405,5 +405,6 @@
   "practice/python/nightmare/py-integer-sqrt/solution.py": "4a7a37e37f33c12269b599a1abe958d5b36990f7f9ec7dd14cc8af4fad2b1902",
   "practice/python/nightmare/py-game-of-life/solution.py": "92c2cb510f0cea109fb16162735dc97d4f2c94869feff211513e3af4be5f4960",
   "practice/python/nightmare/py-interleave-string/solution.py": "c86163ac04731c47a1ceb7470d0fdf73ba0711a4eb1622a2c86430bd050cecf2",
-  "practice/python/nightmare/py-jump-game/solution.py": "0fb826e8ed0b3b3a68b7b7a00f8390d739b1e502f81ad6a49b9aad9f551c4453"
+  "practice/python/nightmare/py-jump-game/solution.py": "0fb826e8ed0b3b3a68b7b7a00f8390d739b1e502f81ad6a49b9aad9f551c4453",
+  "practice/python/medium/py-vote-winner/solution.py": "0f33eaa172c2961558e83c5c011b96db45bac427054a47243c1078e197649fe8"
 }
