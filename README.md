@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**407** problems solved on [Xom Data](https://xomdata.com/practice).
+**408** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 104 | 48 | 20 | 46 | 218 |
+| Python | 104 | 49 | 20 | 46 | 219 |
 | SQL | 88 | 40 | 30 | 31 | 189 |
 
 **Recently solved**
 
+- [py-mask-email](https://xomdata.com/practice/py-mask-email) · Medium · 2026-10-09
 - [py-run-length](https://xomdata.com/practice/py-run-length) · Medium · 2026-10-09
 - [py-digit-frequency](https://xomdata.com/practice/py-digit-frequency) · Medium · 2026-10-09
 - [py-chunk-list](https://xomdata.com/practice/py-chunk-list) · Medium · 2026-10-09
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-csv-line-record](https://xomdata.com/practice/py-csv-line-record) · Medium · 2026-10-09
 - [py-merge-sorted](https://xomdata.com/practice/py-merge-sorted) · Medium · 2026-10-09
 - [py-vote-winner](https://xomdata.com/practice/py-vote-winner) · Medium · 2026-10-09
-- [py-jump-game](https://xomdata.com/practice/py-jump-game) · Nightmare · 2026-10-09
 
-_Synced 416 solutions · last update 2026-10-09_
+_Synced 417 solutions · last update 2026-10-09_
 
 <!-- xomdata:stats:end -->
 
