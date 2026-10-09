@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-09T05:26:00+00:00",
-  "source_commit": "61ee872",
+  "generated_at": "2026-10-09T05:29:36+00:00",
+  "source_commit": "9d880df",
   "totals": {
-    "accepted": 407,
-    "challenges": 398,
+    "accepted": 408,
+    "challenges": 399,
     "languages": 2,
     "streak": 15,
-    "synced": "407 / 407",
-    "grand": 407
+    "synced": "408 / 408",
+    "grand": 408
   },
   "by_language": {
-    "python": 209,
+    "python": 210,
     "sql": 198
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 89,
+    "medium": 90,
     "hard": 50,
     "nightmare": 76
   },
   "by_category": {
-    "Python Data Logic": 191,
+    "Python Data Logic": 192,
     "Data Structures & Algos": 14,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 61
+      "count": 62
     }
   ],
   "activity": {
@@ -54,7 +54,7 @@
     "2026-10-01": 7,
     "2026-08-27": 1,
     "2026-09-26": 6,
-    "2026-10-09": 3,
+    "2026-10-09": 4,
     "2026-10-07": 10,
     "2026-10-05": 9,
     "2026-10-08": 5,
@@ -97,6 +97,16 @@
     "2026-09-11": 1
   },
   "solutions": [
+    {
+      "name": "Voting winner",
+      "slug": "py-vote-winner",
+      "file": "practice/python/medium/py-vote-winner/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-09",
+      "url": "https://xomdata.com/practice/py-vote-winner"
+    },
     {
       "name": "Jump game",
       "slug": "py-jump-game",
