@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-09T20:02:44+00:00",
-  "source_commit": "2b4da10",
+  "generated_at": "2026-10-09T20:03:21+00:00",
+  "source_commit": "e5b21ea",
   "totals": {
-    "accepted": 417,
-    "challenges": 408,
+    "accepted": 419,
+    "challenges": 410,
     "languages": 2,
     "streak": 15,
-    "synced": "417 / 417",
-    "grand": 417
+    "synced": "419 / 419",
+    "grand": 419
   },
   "by_language": {
-    "python": 219,
+    "python": 221,
     "sql": 198
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 98,
+    "medium": 100,
     "hard": 50,
     "nightmare": 77
   },
   "by_category": {
-    "Python Data Logic": 200,
+    "Python Data Logic": 201,
     "Data Structures & Algos": 15,
     "Dynamic Programming": 3,
-    "Trees & Graphs": 1,
+    "Trees & Graphs": 2,
     "SQL Querying": 179,
     "Advanced Analytics & Cohorts": 4,
     "SQL Window Functions": 2,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 71
+      "count": 73
     }
   ],
   "activity": {
@@ -54,7 +54,7 @@
     "2026-10-01": 7,
     "2026-08-27": 1,
     "2026-09-26": 6,
-    "2026-10-09": 13,
+    "2026-10-09": 15,
     "2026-10-07": 10,
     "2026-10-05": 9,
     "2026-10-08": 5,
@@ -206,6 +206,26 @@
       "category": "Python Data Logic",
       "date": "2026-10-09",
       "url": "https://xomdata.com/practice/py-game-of-life"
+    },
+    {
+      "name": "First non-repeating word in a paragraph",
+      "slug": "py-first-unique-word",
+      "file": "practice/python/medium/py-first-unique-word/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Trees & Graphs",
+      "date": "2026-10-09",
+      "url": "https://xomdata.com/practice/py-first-unique-word"
+    },
+    {
+      "name": "Extract domain from email",
+      "slug": "py-email-domain",
+      "file": "practice/python/medium/py-email-domain/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-09",
+      "url": "https://xomdata.com/practice/py-email-domain"
     },
     {
       "name": "Digit frequency",
