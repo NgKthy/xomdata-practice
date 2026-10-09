@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-09T05:29:36+00:00",
-  "source_commit": "9d880df",
+  "generated_at": "2026-10-09T05:44:18+00:00",
+  "source_commit": "4f85e1d",
   "totals": {
-    "accepted": 408,
-    "challenges": 399,
+    "accepted": 412,
+    "challenges": 403,
     "languages": 2,
     "streak": 15,
-    "synced": "408 / 408",
-    "grand": 408
+    "synced": "412 / 412",
+    "grand": 412
   },
   "by_language": {
-    "python": 210,
+    "python": 214,
     "sql": 198
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 90,
+    "medium": 93,
     "hard": 50,
-    "nightmare": 76
+    "nightmare": 77
   },
   "by_category": {
-    "Python Data Logic": 192,
+    "Python Data Logic": 196,
     "Data Structures & Algos": 14,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 62
+      "count": 66
     }
   ],
   "activity": {
@@ -54,7 +54,7 @@
     "2026-10-01": 7,
     "2026-08-27": 1,
     "2026-09-26": 6,
-    "2026-10-09": 4,
+    "2026-10-09": 8,
     "2026-10-07": 10,
     "2026-10-05": 9,
     "2026-10-08": 5,
@@ -106,6 +106,46 @@
       "category": "Python Data Logic",
       "date": "2026-10-09",
       "url": "https://xomdata.com/practice/py-vote-winner"
+    },
+    {
+      "name": "Reverse integer",
+      "slug": "py-reverse-integer",
+      "file": "practice/python/nightmare/py-reverse-integer/solution.py",
+      "lang": "python",
+      "difficulty": "nightmare",
+      "category": "Python Data Logic",
+      "date": "2026-10-09",
+      "url": "https://xomdata.com/practice/py-reverse-integer"
+    },
+    {
+      "name": "Merge two sorted lists",
+      "slug": "py-merge-sorted",
+      "file": "practice/python/medium/py-merge-sorted/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-09",
+      "url": "https://xomdata.com/practice/py-merge-sorted"
+    },
+    {
+      "name": "Match a CSV line to its column names",
+      "slug": "py-csv-line-record",
+      "file": "practice/python/medium/py-csv-line-record/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-09",
+      "url": "https://xomdata.com/practice/py-csv-line-record"
+    },
+    {
+      "name": "Longest word in a sentence",
+      "slug": "py-longest-word",
+      "file": "practice/python/medium/py-longest-word/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-09",
+      "url": "https://xomdata.com/practice/py-longest-word"
     },
     {
       "name": "Jump game",
