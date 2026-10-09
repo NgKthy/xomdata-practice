@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-09T12:26:13+00:00",
-  "source_commit": "7ee741d",
+  "generated_at": "2026-10-09T20:00:02+00:00",
+  "source_commit": "29a34d2",
   "totals": {
-    "accepted": 414,
-    "challenges": 405,
+    "accepted": 416,
+    "challenges": 407,
     "languages": 2,
     "streak": 15,
-    "synced": "414 / 414",
-    "grand": 414
+    "synced": "416 / 416",
+    "grand": 416
   },
   "by_language": {
-    "python": 216,
+    "python": 218,
     "sql": 198
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 95,
+    "medium": 97,
     "hard": 50,
     "nightmare": 77
   },
   "by_category": {
-    "Python Data Logic": 198,
-    "Data Structures & Algos": 14,
+    "Python Data Logic": 199,
+    "Data Structures & Algos": 15,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
     "SQL Querying": 179,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 68
+      "count": 70
     }
   ],
   "activity": {
@@ -54,7 +54,7 @@
     "2026-10-01": 7,
     "2026-08-27": 1,
     "2026-09-26": 6,
-    "2026-10-09": 10,
+    "2026-10-09": 12,
     "2026-10-07": 10,
     "2026-10-05": 9,
     "2026-10-08": 5,
@@ -106,6 +106,16 @@
       "category": "Python Data Logic",
       "date": "2026-10-09",
       "url": "https://xomdata.com/practice/py-vote-winner"
+    },
+    {
+      "name": "String compression",
+      "slug": "py-run-length",
+      "file": "practice/python/medium/py-run-length/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Data Structures & Algos",
+      "date": "2026-10-09",
+      "url": "https://xomdata.com/practice/py-run-length"
     },
     {
       "name": "Split a list into batches",
@@ -186,6 +196,16 @@
       "category": "Python Data Logic",
       "date": "2026-10-09",
       "url": "https://xomdata.com/practice/py-game-of-life"
+    },
+    {
+      "name": "Digit frequency",
+      "slug": "py-digit-frequency",
+      "file": "practice/python/medium/py-digit-frequency/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-09",
+      "url": "https://xomdata.com/practice/py-digit-frequency"
     },
     {
       "name": "Contact list ordered ignoring case",
