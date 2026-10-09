@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-09T20:00:02+00:00",
-  "source_commit": "29a34d2",
+  "generated_at": "2026-10-09T20:02:44+00:00",
+  "source_commit": "2b4da10",
   "totals": {
-    "accepted": 416,
-    "challenges": 407,
+    "accepted": 417,
+    "challenges": 408,
     "languages": 2,
     "streak": 15,
-    "synced": "416 / 416",
-    "grand": 416
+    "synced": "417 / 417",
+    "grand": 417
   },
   "by_language": {
-    "python": 218,
+    "python": 219,
     "sql": 198
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 97,
+    "medium": 98,
     "hard": 50,
     "nightmare": 77
   },
   "by_category": {
-    "Python Data Logic": 199,
+    "Python Data Logic": 200,
     "Data Structures & Algos": 15,
     "Dynamic Programming": 3,
     "Trees & Graphs": 1,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 70
+      "count": 71
     }
   ],
   "activity": {
@@ -54,7 +54,7 @@
     "2026-10-01": 7,
     "2026-08-27": 1,
     "2026-09-26": 6,
-    "2026-10-09": 12,
+    "2026-10-09": 13,
     "2026-10-07": 10,
     "2026-10-05": 9,
     "2026-10-08": 5,
@@ -156,6 +156,16 @@
       "category": "Python Data Logic",
       "date": "2026-10-09",
       "url": "https://xomdata.com/practice/py-csv-line-record"
+    },
+    {
+      "name": "Mask emails in the log",
+      "slug": "py-mask-email",
+      "file": "practice/python/medium/py-mask-email/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-09",
+      "url": "https://xomdata.com/practice/py-mask-email"
     },
     {
       "name": "Longest word in a sentence",
