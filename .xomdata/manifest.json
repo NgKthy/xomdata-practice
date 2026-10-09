@@ -406,5 +406,9 @@
   "practice/python/nightmare/py-game-of-life/solution.py": "92c2cb510f0cea109fb16162735dc97d4f2c94869feff211513e3af4be5f4960",
   "practice/python/nightmare/py-interleave-string/solution.py": "c86163ac04731c47a1ceb7470d0fdf73ba0711a4eb1622a2c86430bd050cecf2",
   "practice/python/nightmare/py-jump-game/solution.py": "0fb826e8ed0b3b3a68b7b7a00f8390d739b1e502f81ad6a49b9aad9f551c4453",
-  "practice/python/medium/py-vote-winner/solution.py": "0f33eaa172c2961558e83c5c011b96db45bac427054a47243c1078e197649fe8"
+  "practice/python/medium/py-vote-winner/solution.py": "0f33eaa172c2961558e83c5c011b96db45bac427054a47243c1078e197649fe8",
+  "practice/python/medium/py-merge-sorted/solution.py": "d75fd6d82a4ae10ae88f4a8f349dbc3c6e35e7758a071f83c1dc9b5eaee4dfe3",
+  "practice/python/medium/py-csv-line-record/solution.py": "b98f8a4e5b6de28f881dce5f8d5b4065fc9e432e8478fad856b569e05287fbbf",
+  "practice/python/medium/py-longest-word/solution.py": "d7e3628fb6b0d0366afaac40a9f4b887b138593112529cb8d925ad8d8062b584",
+  "practice/python/nightmare/py-reverse-integer/solution.py": "53f661ce2c0b57965f14dc685e30e84ab6791c32d280d53a35c8faa7cd8db599"
 }
