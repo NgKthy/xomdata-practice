@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-10T16:47:50+00:00",
-  "source_commit": "e5b21ea",
+  "generated_at": "2026-10-10T18:02:01+00:00",
+  "source_commit": "ce88f3f",
   "totals": {
-    "accepted": 419,
-    "challenges": 410,
+    "accepted": 421,
+    "challenges": 412,
     "languages": 2,
-    "streak": 15,
-    "synced": "419 / 419",
-    "grand": 419
+    "streak": 16,
+    "synced": "421 / 421",
+    "grand": 421
   },
   "by_language": {
-    "python": 221,
+    "python": 223,
     "sql": 198
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 100,
+    "medium": 102,
     "hard": 50,
     "nightmare": 77
   },
   "by_category": {
-    "Python Data Logic": 201,
+    "Python Data Logic": 203,
     "Data Structures & Algos": 15,
     "Dynamic Programming": 3,
     "Trees & Graphs": 2,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 73
+      "count": 75
     }
   ],
   "activity": {
@@ -71,6 +71,7 @@
     "2026-09-04": 1,
     "2026-09-16": 1,
     "2026-08-31": 1,
+    "2026-10-10": 2,
     "2026-08-29": 1,
     "2026-08-26": 1,
     "2026-08-30": 1,
@@ -97,6 +98,26 @@
     "2026-09-11": 1
   },
   "solutions": [
+    {
+      "name": "Filter transactions inside a reporting period",
+      "slug": "py-date-range-filter",
+      "file": "practice/python/medium/py-date-range-filter/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-10",
+      "url": "https://xomdata.com/practice/py-date-range-filter"
+    },
+    {
+      "name": "Distance between two dates",
+      "slug": "py-days-between",
+      "file": "practice/python/medium/py-days-between/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-10",
+      "url": "https://xomdata.com/practice/py-days-between"
+    },
     {
       "name": "Voting winner",
       "slug": "py-vote-winner",
