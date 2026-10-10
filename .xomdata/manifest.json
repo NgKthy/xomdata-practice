@@ -417,5 +417,7 @@
   "practice/python/medium/py-run-length/solution.py": "07231ba5c4f65bf0c561e4b0dea74b9d22528a3d75b232314ade3b6629502c74",
   "practice/python/medium/py-mask-email/solution.py": "8ad0c8cf203b72ae1696de2144a7b64170d9db157b50f4bcc327f4cc5889aee4",
   "practice/python/medium/py-email-domain/solution.py": "8311a783f158b753ce8642fd057a257d70e88c9a4dd2cea906966eb0c0b237e4",
-  "practice/python/medium/py-first-unique-word/solution.py": "ded6db5d5ca4948f410495599d4ec01ec7572f40d02a6800c57f6f4e754586de"
+  "practice/python/medium/py-first-unique-word/solution.py": "ded6db5d5ca4948f410495599d4ec01ec7572f40d02a6800c57f6f4e754586de",
+  "practice/python/medium/py-date-range-filter/solution.py": "80b749ea1d1050850845a9d57fc1edc4a8e2bf95e0195675cc82247fd2ffe1f3",
+  "practice/python/medium/py-days-between/solution.py": "fa262e6aea2262f0f5943e0f2b6bfb95157aff47ec57e9caab4718a72c1e94a2"
 }

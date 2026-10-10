@@ -4,15 +4,17 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**410** problems solved on [Xom Data](https://xomdata.com/practice).
+**412** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 104 | 51 | 20 | 46 | 221 |
+| Python | 104 | 53 | 20 | 46 | 223 |
 | SQL | 88 | 40 | 30 | 31 | 189 |
 
 **Recently solved**
 
+- [py-days-between](https://xomdata.com/practice/py-days-between) · Medium · 2026-10-10
+- [py-date-range-filter](https://xomdata.com/practice/py-date-range-filter) · Medium · 2026-10-10
 - [py-first-unique-word](https://xomdata.com/practice/py-first-unique-word) · Medium · 2026-10-09
 - [py-email-domain](https://xomdata.com/practice/py-email-domain) · Medium · 2026-10-09
 - [py-mask-email](https://xomdata.com/practice/py-mask-email) · Medium · 2026-10-09
@@ -21,10 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-chunk-list](https://xomdata.com/practice/py-chunk-list) · Medium · 2026-10-09
 - [py-case-insensitive-order](https://xomdata.com/practice/py-case-insensitive-order) · Medium · 2026-10-09
 - [py-reverse-integer](https://xomdata.com/practice/py-reverse-integer) · Nightmare · 2026-10-09
-- [py-longest-word](https://xomdata.com/practice/py-longest-word) · Medium · 2026-10-09
-- [py-csv-line-record](https://xomdata.com/practice/py-csv-line-record) · Medium · 2026-10-09
 
-_Synced 419 solutions · last update 2026-10-09_
+_Synced 421 solutions · last update 2026-10-10_
 
 <!-- xomdata:stats:end -->
 
