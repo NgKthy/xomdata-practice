@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-10T18:14:35+00:00",
-  "source_commit": "bb19851",
+  "generated_at": "2026-10-10T18:24:51+00:00",
+  "source_commit": "81f67f2",
   "totals": {
-    "accepted": 427,
-    "challenges": 418,
+    "accepted": 429,
+    "challenges": 420,
     "languages": 2,
     "streak": 16,
-    "synced": "427 / 427",
-    "grand": 427
+    "synced": "429 / 429",
+    "grand": 429
   },
   "by_language": {
     "python": 227,
-    "sql": 200
+    "sql": 202
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 107,
-    "hard": 51,
+    "medium": 108,
+    "hard": 52,
     "nightmare": 77
   },
   "by_category": {
@@ -24,7 +24,7 @@
     "Data Structures & Algos": 16,
     "Dynamic Programming": 3,
     "Trees & Graphs": 2,
-    "SQL Querying": 181,
+    "SQL Querying": 183,
     "Advanced Analytics & Cohorts": 4,
     "SQL Window Functions": 2,
     "SQL Aggregations": 13
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 81
+      "count": 83
     }
   ],
   "activity": {
@@ -71,7 +71,7 @@
     "2026-09-04": 1,
     "2026-09-16": 1,
     "2026-08-31": 1,
-    "2026-10-10": 8,
+    "2026-10-10": 10,
     "2026-08-29": 1,
     "2026-08-26": 1,
     "2026-08-30": 1,
@@ -98,6 +98,16 @@
     "2026-09-11": 1
   },
   "solutions": [
+    {
+      "name": "Suppliers that deliver late frequently",
+      "slug": "medium-having-162",
+      "file": "practice/sql/medium/medium-having-162/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-10",
+      "url": "https://xomdata.com/practice/medium-having-162"
+    },
     {
       "name": "Split an ISO date string into parts",
       "slug": "py-parse-date-parts",
@@ -177,6 +187,16 @@
       "category": "Python Data Logic",
       "date": "2026-10-10",
       "url": "https://xomdata.com/practice/py-days-between"
+    },
+    {
+      "name": "Detect anomalous days vs the average",
+      "slug": "hard-anomaly-001",
+      "file": "practice/sql/hard/hard-anomaly-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-10-10",
+      "url": "https://xomdata.com/practice/hard-anomaly-001"
     },
     {
       "name": "Voting winner",
