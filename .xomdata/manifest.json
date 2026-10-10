@@ -423,5 +423,7 @@
   "practice/python/medium/py-dedupe-records/solution.py": "99c78a9f13f45dea77cbd51f9bdfdded5f0ee323206609d08b887c9f607a4fab",
   "practice/python/medium/py-earliest-latest/solution.py": "d724a23c3fb69e0707a4138a67c07e501bfb78bf1185a3a4ca9b0d36860a3be8",
   "practice/python/medium/py-days-in-month/solution.py": "350804db60f533fd742557112ad0b57350de507c280108a7c58de065dd6af069",
-  "practice/python/medium/py-parse-date-parts/solution.py": "a26f493a19c4ff69a18bf071b0f7fa6e4140a077adf4f4ed04b36cf2b2f3ed7e"
+  "practice/python/medium/py-parse-date-parts/solution.py": "a26f493a19c4ff69a18bf071b0f7fa6e4140a077adf4f4ed04b36cf2b2f3ed7e",
+  "practice/sql/medium/medium-having-128/solution.sql": "5997355637bd4d536417414a3a0e30f50e56ae5e40f7f945ce1b79c9b604ce04",
+  "practice/sql/hard/hard-pathanalysis-001/solution.sql": "743f683634273ed58c9251ef72bb63256eac85aebe1d0faea65e04a6e90361c4"
 }
