@@ -4,15 +4,17 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**418** problems solved on [Xom Data](https://xomdata.com/practice).
+**420** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 104 | 57 | 20 | 46 | 227 |
-| SQL | 88 | 41 | 31 | 31 | 191 |
+| SQL | 88 | 42 | 32 | 31 | 193 |
 
 **Recently solved**
 
+- [hard-anomaly-001](https://xomdata.com/practice/hard-anomaly-001) · Hard · 2026-10-10
+- [medium-having-162](https://xomdata.com/practice/medium-having-162) · Medium · 2026-10-10
 - [hard-pathanalysis-001](https://xomdata.com/practice/hard-pathanalysis-001) · Hard · 2026-10-10
 - [medium-having-128](https://xomdata.com/practice/medium-having-128) · Medium · 2026-10-10
 - [py-parse-date-parts](https://xomdata.com/practice/py-parse-date-parts) · Medium · 2026-10-10
@@ -21,10 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-dedupe-records](https://xomdata.com/practice/py-dedupe-records) · Medium · 2026-10-10
 - [py-days-between](https://xomdata.com/practice/py-days-between) · Medium · 2026-10-10
 - [py-date-range-filter](https://xomdata.com/practice/py-date-range-filter) · Medium · 2026-10-10
-- [py-first-unique-word](https://xomdata.com/practice/py-first-unique-word) · Medium · 2026-10-09
-- [py-email-domain](https://xomdata.com/practice/py-email-domain) · Medium · 2026-10-09
 
-_Synced 427 solutions · last update 2026-10-10_
+_Synced 429 solutions · last update 2026-10-10_
 
 <!-- xomdata:stats:end -->
 

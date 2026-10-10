@@ -425,5 +425,7 @@
   "practice/python/medium/py-days-in-month/solution.py": "350804db60f533fd742557112ad0b57350de507c280108a7c58de065dd6af069",
   "practice/python/medium/py-parse-date-parts/solution.py": "a26f493a19c4ff69a18bf071b0f7fa6e4140a077adf4f4ed04b36cf2b2f3ed7e",
   "practice/sql/medium/medium-having-128/solution.sql": "5997355637bd4d536417414a3a0e30f50e56ae5e40f7f945ce1b79c9b604ce04",
-  "practice/sql/hard/hard-pathanalysis-001/solution.sql": "743f683634273ed58c9251ef72bb63256eac85aebe1d0faea65e04a6e90361c4"
+  "practice/sql/hard/hard-pathanalysis-001/solution.sql": "743f683634273ed58c9251ef72bb63256eac85aebe1d0faea65e04a6e90361c4",
+  "practice/sql/medium/medium-having-162/solution.sql": "0994706dd6f93b93e0b78b3a02fa33e7d876e65965968a135d5a1e3febbf3727",
+  "practice/sql/hard/hard-anomaly-001/solution.sql": "c9c22a92e71e50dd9715368507e0be1e5700cbade8d223112e90015def8370ad"
 }
