@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-10T18:02:01+00:00",
-  "source_commit": "ce88f3f",
+  "generated_at": "2026-10-10T18:07:12+00:00",
+  "source_commit": "c2023d7",
   "totals": {
-    "accepted": 421,
-    "challenges": 412,
+    "accepted": 425,
+    "challenges": 416,
     "languages": 2,
     "streak": 16,
-    "synced": "421 / 421",
-    "grand": 421
+    "synced": "425 / 425",
+    "grand": 425
   },
   "by_language": {
-    "python": 223,
+    "python": 227,
     "sql": 198
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 102,
+    "medium": 106,
     "hard": 50,
     "nightmare": 77
   },
   "by_category": {
-    "Python Data Logic": 203,
-    "Data Structures & Algos": 15,
+    "Python Data Logic": 206,
+    "Data Structures & Algos": 16,
     "Dynamic Programming": 3,
     "Trees & Graphs": 2,
     "SQL Querying": 179,
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 75
+      "count": 79
     }
   ],
   "activity": {
@@ -71,7 +71,7 @@
     "2026-09-04": 1,
     "2026-09-16": 1,
     "2026-08-31": 1,
-    "2026-10-10": 2,
+    "2026-10-10": 6,
     "2026-08-29": 1,
     "2026-08-26": 1,
     "2026-08-30": 1,
@@ -99,6 +99,26 @@
   },
   "solutions": [
     {
+      "name": "Split an ISO date string into parts",
+      "slug": "py-parse-date-parts",
+      "file": "practice/python/medium/py-parse-date-parts/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Data Structures & Algos",
+      "date": "2026-10-10",
+      "url": "https://xomdata.com/practice/py-parse-date-parts"
+    },
+    {
+      "name": "How many days a given month has",
+      "slug": "py-days-in-month",
+      "file": "practice/python/medium/py-days-in-month/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-10",
+      "url": "https://xomdata.com/practice/py-days-in-month"
+    },
+    {
       "name": "Filter transactions inside a reporting period",
       "slug": "py-date-range-filter",
       "file": "practice/python/medium/py-date-range-filter/solution.py",
@@ -107,6 +127,26 @@
       "category": "Python Data Logic",
       "date": "2026-10-10",
       "url": "https://xomdata.com/practice/py-date-range-filter"
+    },
+    {
+      "name": "Earliest and latest date in the ledger",
+      "slug": "py-earliest-latest",
+      "file": "practice/python/medium/py-earliest-latest/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-10",
+      "url": "https://xomdata.com/practice/py-earliest-latest"
+    },
+    {
+      "name": "Drop duplicates, keep the newest record",
+      "slug": "py-dedupe-records",
+      "file": "practice/python/medium/py-dedupe-records/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-10",
+      "url": "https://xomdata.com/practice/py-dedupe-records"
     },
     {
       "name": "Distance between two dates",
