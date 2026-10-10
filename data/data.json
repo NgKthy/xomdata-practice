@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-10T18:07:12+00:00",
-  "source_commit": "c2023d7",
+  "generated_at": "2026-10-10T18:14:35+00:00",
+  "source_commit": "bb19851",
   "totals": {
-    "accepted": 425,
-    "challenges": 416,
+    "accepted": 427,
+    "challenges": 418,
     "languages": 2,
     "streak": 16,
-    "synced": "425 / 425",
-    "grand": 425
+    "synced": "427 / 427",
+    "grand": 427
   },
   "by_language": {
     "python": 227,
-    "sql": 198
+    "sql": 200
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 106,
-    "hard": 50,
+    "medium": 107,
+    "hard": 51,
     "nightmare": 77
   },
   "by_category": {
@@ -24,7 +24,7 @@
     "Data Structures & Algos": 16,
     "Dynamic Programming": 3,
     "Trees & Graphs": 2,
-    "SQL Querying": 179,
+    "SQL Querying": 181,
     "Advanced Analytics & Cohorts": 4,
     "SQL Window Functions": 2,
     "SQL Aggregations": 13
@@ -40,7 +40,7 @@
     },
     {
       "month": "2026-10",
-      "count": 79
+      "count": 81
     }
   ],
   "activity": {
@@ -71,7 +71,7 @@
     "2026-09-04": 1,
     "2026-09-16": 1,
     "2026-08-31": 1,
-    "2026-10-10": 6,
+    "2026-10-10": 8,
     "2026-08-29": 1,
     "2026-08-26": 1,
     "2026-08-30": 1,
@@ -109,6 +109,16 @@
       "url": "https://xomdata.com/practice/py-parse-date-parts"
     },
     {
+      "name": "Most common 3-step user path",
+      "slug": "hard-pathanalysis-001",
+      "file": "practice/sql/hard/hard-pathanalysis-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-10-10",
+      "url": "https://xomdata.com/practice/hard-pathanalysis-001"
+    },
+    {
       "name": "How many days a given month has",
       "slug": "py-days-in-month",
       "file": "practice/python/medium/py-days-in-month/solution.py",
@@ -127,6 +137,16 @@
       "category": "Python Data Logic",
       "date": "2026-10-10",
       "url": "https://xomdata.com/practice/py-date-range-filter"
+    },
+    {
+      "name": "Employees averaging over 5 overtime hours",
+      "slug": "medium-having-128",
+      "file": "practice/sql/medium/medium-having-128/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-10",
+      "url": "https://xomdata.com/practice/medium-having-128"
     },
     {
       "name": "Earliest and latest date in the ledger",
