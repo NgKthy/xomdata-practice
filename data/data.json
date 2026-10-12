@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-12T03:51:39+00:00",
-  "source_commit": "81f67f2",
+  "generated_at": "2026-10-12T06:59:29+00:00",
+  "source_commit": "c75b3a0",
   "totals": {
-    "accepted": 429,
-    "challenges": 420,
+    "accepted": 434,
+    "challenges": 425,
     "languages": 2,
-    "streak": 0,
-    "synced": "429 / 429",
-    "grand": 429
+    "streak": 1,
+    "synced": "434 / 434",
+    "grand": 434
   },
   "by_language": {
     "python": 227,
-    "sql": 202
+    "sql": 207
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 108,
-    "hard": 52,
+    "medium": 111,
+    "hard": 54,
     "nightmare": 77
   },
   "by_category": {
@@ -24,10 +24,11 @@
     "Data Structures & Algos": 16,
     "Dynamic Programming": 3,
     "Trees & Graphs": 2,
-    "SQL Querying": 183,
-    "Advanced Analytics & Cohorts": 4,
+    "SQL Querying": 179,
+    "Advanced Analytics & Cohorts": 8,
     "SQL Window Functions": 2,
-    "SQL Aggregations": 13
+    "SQL Aggregations": 17,
+    "SQL Joins & Relational": 1
   },
   "trend": [
     {
@@ -40,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 83
+      "count": 88
     }
   ],
   "activity": {
@@ -88,6 +89,7 @@
     "2026-09-05": 1,
     "2026-08-23": 39,
     "2026-09-22": 9,
+    "2026-10-12": 5,
     "2026-08-19": 12,
     "2026-08-22": 11,
     "2026-08-21": 27,
@@ -98,6 +100,56 @@
     "2026-09-11": 1
   },
   "solutions": [
+    {
+      "name": "Students above the subject average",
+      "slug": "medium-subquery-028",
+      "file": "practice/sql/medium/medium-subquery-028/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-12",
+      "url": "https://xomdata.com/practice/medium-subquery-028"
+    },
+    {
+      "name": "Scoring customers across three measures",
+      "slug": "hard-rfm-001",
+      "file": "practice/sql/hard/hard-rfm-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-10-12",
+      "url": "https://xomdata.com/practice/hard-rfm-001"
+    },
+    {
+      "name": "Players with 3 or more goals",
+      "slug": "medium-having-187",
+      "file": "practice/sql/medium/medium-having-187/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-12",
+      "url": "https://xomdata.com/practice/medium-having-187"
+    },
+    {
+      "name": "Investor trade summary",
+      "slug": "medium-agg-137",
+      "file": "practice/sql/medium/medium-agg-137/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Aggregations",
+      "date": "2026-10-12",
+      "url": "https://xomdata.com/practice/medium-agg-137"
+    },
+    {
+      "name": "Assigning customers to the right care segment",
+      "slug": "hard-rfm-002",
+      "file": "practice/sql/hard/hard-rfm-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-10-12",
+      "url": "https://xomdata.com/practice/hard-rfm-002"
+    },
     {
       "name": "Suppliers that deliver late frequently",
       "slug": "medium-having-162",
@@ -729,17 +781,17 @@
       "url": "https://xomdata.com/practice/py-char-position"
     },
     {
-      "name": "Tam giác giữ chân dạng sổ cái",
+      "name": "Retention ledger triangle",
       "slug": "hard-retention-006",
       "file": "practice/sql/hard/hard-retention-006/solution.sql",
       "lang": "sql",
       "difficulty": "hard",
-      "category": "SQL Querying",
+      "category": "Advanced Analytics & Cohorts",
       "date": "2026-10-04",
       "url": "https://xomdata.com/practice/hard-retention-006"
     },
     {
-      "name": "Nhật ký vòng đời từng khách mỗi tháng",
+      "name": "Monthly lifecycle log for each customer",
       "slug": "hard-churn-005",
       "file": "practice/sql/hard/hard-churn-005/solution.sql",
       "lang": "sql",
@@ -777,6 +829,16 @@
       "category": "SQL Querying",
       "date": "2026-10-03",
       "url": "https://xomdata.com/practice/expert-final-graph-009"
+    },
+    {
+      "name": "Scoring fairly when multiple customers are tied",
+      "slug": "hard-rfm-005",
+      "file": "practice/sql/hard/hard-rfm-005/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-10-03",
+      "url": "https://xomdata.com/practice/hard-rfm-005"
     },
     {
       "name": "Quarterly sales per employee (2024)",
@@ -817,16 +879,6 @@
       "category": "SQL Querying",
       "date": "2026-10-03",
       "url": "https://xomdata.com/practice/hard-conditional-001"
-    },
-    {
-      "name": "Chấm điểm công bằng khi nhiều khách ngang tài",
-      "slug": "hard-rfm-005",
-      "file": "practice/sql/hard/hard-rfm-005/solution.sql",
-      "lang": "sql",
-      "difficulty": "hard",
-      "category": "SQL Querying",
-      "date": "2026-10-03",
-      "url": "https://xomdata.com/practice/hard-rfm-005"
     },
     {
       "name": "Merge overlapping bookings into continuous ranges",
@@ -1269,14 +1321,14 @@
       "url": "https://xomdata.com/practice/medium-case-110"
     },
     {
-      "name": "Điểm tươi mới cộng điểm chuyên cần",
-      "slug": "hard-rfm-003",
-      "file": "practice/sql/hard/hard-rfm-003/solution.sql",
+      "name": "Those who returned after two months of silence",
+      "slug": "hard-winback-001",
+      "file": "practice/sql/hard/hard-winback-001/solution.sql",
       "lang": "sql",
       "difficulty": "hard",
       "category": "SQL Querying",
       "date": "2026-09-23",
-      "url": "https://xomdata.com/practice/hard-rfm-003"
+      "url": "https://xomdata.com/practice/hard-winback-001"
     },
     {
       "name": "TWAP per stock symbol",
@@ -1299,17 +1351,17 @@
       "url": "https://xomdata.com/practice/expert-final-rec-003"
     },
     {
-      "name": "Những người quay về sau hai tháng im ắng",
-      "slug": "hard-winback-001",
-      "file": "practice/sql/hard/hard-winback-001/solution.sql",
+      "name": "Freshness score plus diligence points",
+      "slug": "hard-rfm-003",
+      "file": "practice/sql/hard/hard-rfm-003/solution.sql",
       "lang": "sql",
       "difficulty": "hard",
       "category": "SQL Querying",
       "date": "2026-09-23",
-      "url": "https://xomdata.com/practice/hard-winback-001"
+      "url": "https://xomdata.com/practice/hard-rfm-003"
     },
     {
-      "name": "Còn quay lại trong tuần kế tiếp không",
+      "name": "Does anyone return the following week",
       "slug": "hard-retention-003",
       "file": "practice/sql/hard/hard-retention-003/solution.sql",
       "lang": "sql",
@@ -1327,6 +1379,16 @@
       "category": "SQL Querying",
       "date": "2026-09-23",
       "url": "https://xomdata.com/practice/expert-final-win-008"
+    },
+    {
+      "name": "Who has spent past the five-million mark",
+      "slug": "medium-monetary-001",
+      "file": "practice/sql/easy/medium-monetary-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-09-22",
+      "url": "https://xomdata.com/practice/medium-monetary-001"
     },
     {
       "name": "Total spend for one budget category",
@@ -1349,26 +1411,6 @@
       "url": "https://xomdata.com/practice/easy-orderby-002"
     },
     {
-      "name": "Mỗi lần ghé, khách chi trung bình bao nhiêu",
-      "slug": "medium-monetary-002",
-      "file": "practice/sql/easy/medium-monetary-002/solution.sql",
-      "lang": "sql",
-      "difficulty": "easy",
-      "category": "SQL Querying",
-      "date": "2026-09-22",
-      "url": "https://xomdata.com/practice/medium-monetary-002"
-    },
-    {
-      "name": "Lần đầu và lần gần nhất của mỗi khách",
-      "slug": "medium-firstlast-001",
-      "file": "practice/sql/easy/medium-firstlast-001/solution.sql",
-      "lang": "sql",
-      "difficulty": "easy",
-      "category": "SQL Querying",
-      "date": "2026-09-22",
-      "url": "https://xomdata.com/practice/medium-firstlast-001"
-    },
-    {
       "name": "Line total for each item",
       "slug": "easy-alias-001",
       "file": "practice/sql/easy/easy-alias-001/solution.sql",
@@ -1377,6 +1419,16 @@
       "category": "SQL Querying",
       "date": "2026-09-22",
       "url": "https://xomdata.com/practice/easy-alias-001"
+    },
+    {
+      "name": "Each customer's first and most recent order",
+      "slug": "medium-firstlast-001",
+      "file": "practice/sql/easy/medium-firstlast-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-09-22",
+      "url": "https://xomdata.com/practice/medium-firstlast-001"
     },
     {
       "name": "Customers silent for 90 days",
@@ -1409,14 +1461,14 @@
       "url": "https://xomdata.com/practice/easy-substr-001"
     },
     {
-      "name": "Ai đã tiêu vượt mốc năm triệu",
-      "slug": "medium-monetary-001",
-      "file": "practice/sql/easy/medium-monetary-001/solution.sql",
+      "name": "Average spend per visit, per customer",
+      "slug": "medium-monetary-002",
+      "file": "practice/sql/easy/medium-monetary-002/solution.sql",
       "lang": "sql",
       "difficulty": "easy",
       "category": "SQL Querying",
       "date": "2026-09-22",
-      "url": "https://xomdata.com/practice/medium-monetary-001"
+      "url": "https://xomdata.com/practice/medium-monetary-002"
     },
     {
       "name": "Missing number",
@@ -1699,26 +1751,6 @@
       "url": "https://xomdata.com/practice/nightmare-knapsack-001"
     },
     {
-      "name": "Mã ba chữ số nói lên tất cả",
-      "slug": "hard-rfm-004",
-      "file": "practice/sql/hard/hard-rfm-004/solution.sql",
-      "lang": "sql",
-      "difficulty": "hard",
-      "category": "SQL Querying",
-      "date": "2026-09-19",
-      "url": "https://xomdata.com/practice/hard-rfm-004"
-    },
-    {
-      "name": "Ma trận tỷ lệ quay lại ba tháng đầu",
-      "slug": "hard-retention-004",
-      "file": "practice/sql/hard/hard-retention-004/solution.sql",
-      "lang": "sql",
-      "difficulty": "hard",
-      "category": "SQL Querying",
-      "date": "2026-09-19",
-      "url": "https://xomdata.com/practice/hard-retention-004"
-    },
-    {
       "name": "Instructor teaching load",
       "slug": "medium-join-029",
       "file": "practice/sql/medium/medium-join-029/solution.sql",
@@ -1737,6 +1769,16 @@
       "category": "SQL Querying",
       "date": "2026-09-19",
       "url": "https://xomdata.com/practice/nightmare-network-001"
+    },
+    {
+      "name": "First three-month return-rate matrix",
+      "slug": "hard-retention-004",
+      "file": "practice/sql/hard/hard-retention-004/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-09-19",
+      "url": "https://xomdata.com/practice/hard-retention-004"
     },
     {
       "name": "Booking count per branch",
@@ -1767,6 +1809,16 @@
       "category": "SQL Aggregations",
       "date": "2026-09-19",
       "url": "https://xomdata.com/practice/easy-length-001"
+    },
+    {
+      "name": "A three-digit code says it all",
+      "slug": "hard-rfm-004",
+      "file": "practice/sql/hard/hard-rfm-004/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-09-19",
+      "url": "https://xomdata.com/practice/hard-rfm-004"
     },
     {
       "name": "4-step onboarding conversion rate",
@@ -2049,14 +2101,14 @@
       "url": "https://xomdata.com/practice/pd-report-table"
     },
     {
-      "name": "Tháng này mất bao nhiêu khách của tháng trước",
-      "slug": "hard-churn-002",
-      "file": "practice/sql/hard/hard-churn-002/solution.sql",
+      "name": "Splitting customers into five spend tiers",
+      "slug": "hard-monetary-001",
+      "file": "practice/sql/hard/hard-monetary-001/solution.sql",
       "lang": "sql",
       "difficulty": "hard",
       "category": "SQL Querying",
       "date": "2026-09-14",
-      "url": "https://xomdata.com/practice/hard-churn-002"
+      "url": "https://xomdata.com/practice/hard-monetary-001"
     },
     {
       "name": "Orders within a date range",
@@ -2069,7 +2121,7 @@
       "url": "https://xomdata.com/practice/pd-filter-date-range"
     },
     {
-      "name": "Người mới và người quen mỗi tháng",
+      "name": "New customers and returning customers each month",
       "slug": "hard-cohort-003",
       "file": "practice/sql/hard/hard-cohort-003/solution.sql",
       "lang": "sql",
@@ -2079,14 +2131,14 @@
       "url": "https://xomdata.com/practice/hard-cohort-003"
     },
     {
-      "name": "Chia khách thành năm hạng chi tiêu",
-      "slug": "hard-monetary-001",
-      "file": "practice/sql/hard/hard-monetary-001/solution.sql",
+      "name": "How many of last month's customers are lost this month",
+      "slug": "hard-churn-002",
+      "file": "practice/sql/hard/hard-churn-002/solution.sql",
       "lang": "sql",
       "difficulty": "hard",
       "category": "SQL Querying",
       "date": "2026-09-14",
-      "url": "https://xomdata.com/practice/hard-monetary-001"
+      "url": "https://xomdata.com/practice/hard-churn-002"
     },
     {
       "name": "Add a month column from the order date",
@@ -3469,24 +3521,34 @@
       "url": "https://xomdata.com/practice/py-rectangle-area"
     },
     {
-      "name": "Đồng hồ đếm ngược trước khi mất khách",
-      "slug": "medium-churn-003",
-      "file": "practice/sql/medium/medium-churn-003/solution.sql",
+      "name": "Who stayed loyal all quarter",
+      "slug": "medium-active-004",
+      "file": "practice/sql/easy/medium-active-004/solution.sql",
       "lang": "sql",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "category": "SQL Querying",
       "date": "2026-08-23",
-      "url": "https://xomdata.com/practice/medium-churn-003"
+      "url": "https://xomdata.com/practice/medium-active-004"
     },
     {
-      "name": "Đà tăng giảm lượng khách qua từng tháng",
-      "slug": "medium-active-005",
-      "file": "practice/sql/medium/medium-active-005/solution.sql",
+      "name": "Who showed up in two consecutive months",
+      "slug": "medium-active-002",
+      "file": "practice/sql/easy/medium-active-002/solution.sql",
       "lang": "sql",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "category": "SQL Querying",
       "date": "2026-08-23",
-      "url": "https://xomdata.com/practice/medium-active-005"
+      "url": "https://xomdata.com/practice/medium-active-002"
+    },
+    {
+      "name": "Who Joined During Promo Season",
+      "slug": "medium-cohort-007",
+      "file": "practice/sql/medium/medium-cohort-007/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Joins & Relational",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-cohort-007"
     },
     {
       "name": "Which sales channel leads in orders",
@@ -3499,24 +3561,24 @@
       "url": "https://xomdata.com/practice/easy-groupby-004"
     },
     {
-      "name": "Vùng cảnh báo vàng trước khi mất khách",
-      "slug": "medium-churn-005",
-      "file": "practice/sql/medium/medium-churn-005/solution.sql",
+      "name": "Which channel produces loyal customers",
+      "slug": "medium-repeat-005",
+      "file": "practice/sql/hard/medium-repeat-005/solution.sql",
       "lang": "sql",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "category": "SQL Querying",
       "date": "2026-08-23",
-      "url": "https://xomdata.com/practice/medium-churn-005"
+      "url": "https://xomdata.com/practice/medium-repeat-005"
     },
     {
-      "name": "Tuổi đời mua sắm của khách",
-      "slug": "medium-cohort-006",
-      "file": "practice/sql/medium/medium-cohort-006/solution.sql",
+      "name": "What share of customers does the shop retain",
+      "slug": "medium-repeat-002",
+      "file": "practice/sql/medium/medium-repeat-002/solution.sql",
       "lang": "sql",
       "difficulty": "medium",
       "category": "SQL Querying",
       "date": "2026-08-23",
-      "url": "https://xomdata.com/practice/medium-cohort-006"
+      "url": "https://xomdata.com/practice/medium-repeat-002"
     },
     {
       "name": "Tickets still valid",
@@ -3529,26 +3591,6 @@
       "url": "https://xomdata.com/practice/easy-count-010"
     },
     {
-      "name": "Tháng bùng nổ khách mới",
-      "slug": "medium-active-003",
-      "file": "practice/sql/medium/medium-active-003/solution.sql",
-      "lang": "sql",
-      "difficulty": "medium",
-      "category": "SQL Querying",
-      "date": "2026-08-23",
-      "url": "https://xomdata.com/practice/medium-active-003"
-    },
-    {
-      "name": "Thuê bao còn hiệu lực hay đã dừng",
-      "slug": "medium-churn-002",
-      "file": "practice/sql/easy/medium-churn-002/solution.sql",
-      "lang": "sql",
-      "difficulty": "easy",
-      "category": "SQL Querying",
-      "date": "2026-08-23",
-      "url": "https://xomdata.com/practice/medium-churn-002"
-    },
-    {
       "name": "Thuê bao còn hiệu lực hay đã dừng",
       "slug": "medium-churn-002",
       "file": "practice/sql/medium/medium-churn-002/solution.sql",
@@ -3559,7 +3601,37 @@
       "url": "https://xomdata.com/practice/medium-churn-002"
     },
     {
-      "name": "Sổ đen những khách đã im lặng quá lâu",
+      "name": "The yellow warning zone before losing a customer",
+      "slug": "medium-churn-005",
+      "file": "practice/sql/medium/medium-churn-005/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-churn-005"
+    },
+    {
+      "name": "The size of each customer cohort",
+      "slug": "medium-cohort-004",
+      "file": "practice/sql/medium/medium-cohort-004/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "Advanced Analytics & Cohorts",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-cohort-004"
+    },
+    {
+      "name": "The month that exploded with new customers",
+      "slug": "medium-active-003",
+      "file": "practice/sql/medium/medium-active-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-active-003"
+    },
+    {
+      "name": "The blacklist of long-silent customers",
       "slug": "medium-churn-004",
       "file": "practice/sql/medium/medium-churn-004/solution.sql",
       "lang": "sql",
@@ -3569,14 +3641,24 @@
       "url": "https://xomdata.com/practice/medium-churn-004"
     },
     {
-      "name": "So găng lượng khách giữa các quý",
-      "slug": "medium-active-006",
-      "file": "practice/sql/medium/medium-active-006/solution.sql",
+      "name": "The Silence Between Two Consecutive Purchases",
+      "slug": "medium-gap-001",
+      "file": "practice/sql/medium/medium-gap-001/solution.sql",
       "lang": "sql",
       "difficulty": "medium",
       "category": "SQL Querying",
       "date": "2026-08-23",
-      "url": "https://xomdata.com/practice/medium-active-006"
+      "url": "https://xomdata.com/practice/medium-gap-001"
+    },
+    {
+      "name": "Revenue walking out the door with old customers",
+      "slug": "medium-churn-007",
+      "file": "practice/sql/medium/medium-churn-007/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-churn-007"
     },
     {
       "name": "Revenue by product category",
@@ -3589,26 +3671,6 @@
       "url": "https://xomdata.com/practice/easy-groupby-002"
     },
     {
-      "name": "Quý khởi đầu của mỗi khách",
-      "slug": "medium-cohort-005",
-      "file": "practice/sql/medium/medium-cohort-005/solution.sql",
-      "lang": "sql",
-      "difficulty": "medium",
-      "category": "SQL Querying",
-      "date": "2026-08-23",
-      "url": "https://xomdata.com/practice/medium-cohort-005"
-    },
-    {
-      "name": "Quy mô và tiền tươi tháng đầu của mỗi thế hệ",
-      "slug": "medium-cohort-008",
-      "file": "practice/sql/hard/medium-cohort-008/solution.sql",
-      "lang": "sql",
-      "difficulty": "hard",
-      "category": "SQL Querying",
-      "date": "2026-08-23",
-      "url": "https://xomdata.com/practice/medium-cohort-008"
-    },
-    {
       "name": "Quy mô và tiền tươi tháng đầu của mỗi thế hệ",
       "slug": "medium-cohort-008",
       "file": "practice/sql/medium/medium-cohort-008/solution.sql",
@@ -3617,16 +3679,6 @@
       "category": "SQL Querying",
       "date": "2026-08-23",
       "url": "https://xomdata.com/practice/medium-cohort-008"
-    },
-    {
-      "name": "Nhịp khách ghé cửa hàng theo tháng",
-      "slug": "medium-active-001",
-      "file": "practice/sql/easy/medium-active-001/solution.sql",
-      "lang": "sql",
-      "difficulty": "easy",
-      "category": "SQL Querying",
-      "date": "2026-08-23",
-      "url": "https://xomdata.com/practice/medium-active-001"
     },
     {
       "name": "Nhịp khách ghé cửa hàng theo tháng",
@@ -3649,24 +3701,24 @@
       "url": "https://xomdata.com/practice/easy-concat-001"
     },
     {
-      "name": "Mỗi thế hệ khách đông cỡ nào",
-      "slug": "medium-cohort-004",
-      "file": "practice/sql/medium/medium-cohort-004/solution.sql",
+      "name": "Monthly store visit rhythm",
+      "slug": "medium-active-001",
+      "file": "practice/sql/easy/medium-active-001/solution.sql",
       "lang": "sql",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "category": "SQL Querying",
       "date": "2026-08-23",
-      "url": "https://xomdata.com/practice/medium-cohort-004"
+      "url": "https://xomdata.com/practice/medium-active-001"
     },
     {
-      "name": "Kênh nào tạo ra khách trung thành",
-      "slug": "medium-repeat-005",
-      "file": "practice/sql/hard/medium-repeat-005/solution.sql",
+      "name": "Month-over-month momentum in customer count",
+      "slug": "medium-active-005",
+      "file": "practice/sql/medium/medium-active-005/solution.sql",
       "lang": "sql",
-      "difficulty": "hard",
-      "category": "SQL Querying",
+      "difficulty": "medium",
+      "category": "SQL Aggregations",
       "date": "2026-08-23",
-      "url": "https://xomdata.com/practice/medium-repeat-005"
+      "url": "https://xomdata.com/practice/medium-active-005"
     },
     {
       "name": "Kênh nào tạo ra khách trung thành",
@@ -3679,24 +3731,14 @@
       "url": "https://xomdata.com/practice/medium-repeat-005"
     },
     {
-      "name": "Khách chuyên cần đủ bốn mùa",
-      "slug": "medium-repeat-006",
-      "file": "practice/sql/medium/medium-repeat-006/solution.sql",
+      "name": "How long before a customer decides to come back a second time",
+      "slug": "medium-gap-002",
+      "file": "practice/sql/hard/medium-gap-002/solution.sql",
       "lang": "sql",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "category": "SQL Querying",
       "date": "2026-08-23",
-      "url": "https://xomdata.com/practice/medium-repeat-006"
-    },
-    {
-      "name": "Khoảng lặng giữa hai lần mua liền kề",
-      "slug": "medium-gap-001",
-      "file": "practice/sql/medium/medium-gap-001/solution.sql",
-      "lang": "sql",
-      "difficulty": "medium",
-      "category": "SQL Querying",
-      "date": "2026-08-23",
-      "url": "https://xomdata.com/practice/medium-gap-001"
+      "url": "https://xomdata.com/practice/medium-gap-002"
     },
     {
       "name": "Headcount per membership plan",
@@ -3709,24 +3751,54 @@
       "url": "https://xomdata.com/practice/easy-groupby-001"
     },
     {
-      "name": "Doanh thu đội nón ra đi cùng khách cũ",
-      "slug": "medium-churn-007",
-      "file": "practice/sql/medium/medium-churn-007/solution.sql",
+      "name": "Head-to-head customer count across quarters",
+      "slug": "medium-active-006",
+      "file": "practice/sql/medium/medium-active-006/solution.sql",
       "lang": "sql",
       "difficulty": "medium",
-      "category": "SQL Querying",
+      "category": "SQL Aggregations",
       "date": "2026-08-23",
-      "url": "https://xomdata.com/practice/medium-churn-007"
+      "url": "https://xomdata.com/practice/medium-active-006"
     },
     {
-      "name": "Cửa hàng giữ được bao nhiêu phần khách",
-      "slug": "medium-repeat-002",
-      "file": "practice/sql/medium/medium-repeat-002/solution.sql",
+      "name": "Each customer's starting quarter",
+      "slug": "medium-cohort-005",
+      "file": "practice/sql/medium/medium-cohort-005/solution.sql",
       "lang": "sql",
       "difficulty": "medium",
       "category": "SQL Querying",
       "date": "2026-08-23",
-      "url": "https://xomdata.com/practice/medium-repeat-002"
+      "url": "https://xomdata.com/practice/medium-cohort-005"
+    },
+    {
+      "name": "Each cohort's size and first-month cash",
+      "slug": "medium-cohort-008",
+      "file": "practice/sql/hard/medium-cohort-008/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "Advanced Analytics & Cohorts",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-cohort-008"
+    },
+    {
+      "name": "Diligent customers across all four quarters",
+      "slug": "medium-repeat-006",
+      "file": "practice/sql/medium/medium-repeat-006/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-repeat-006"
+    },
+    {
+      "name": "Customer Shopping Tenure",
+      "slug": "medium-cohort-006",
+      "file": "practice/sql/medium/medium-cohort-006/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-cohort-006"
     },
     {
       "name": "Countries our students come from",
@@ -3739,7 +3811,17 @@
       "url": "https://xomdata.com/practice/easy-distinct-008"
     },
     {
-      "name": "Chốt được đơn thứ hai trong một tháng",
+      "name": "Countdown before losing a customer",
+      "slug": "medium-churn-003",
+      "file": "practice/sql/medium/medium-churn-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Aggregations",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-churn-003"
+    },
+    {
+      "name": "Closing a second order within a month",
       "slug": "medium-repeat-004",
       "file": "practice/sql/hard/medium-repeat-004/solution.sql",
       "lang": "sql",
@@ -3757,26 +3839,6 @@
       "category": "SQL Querying",
       "date": "2026-08-23",
       "url": "https://xomdata.com/practice/medium-repeat-004"
-    },
-    {
-      "name": "Bức ảnh tệp khách tại một thời điểm",
-      "slug": "medium-churn-006",
-      "file": "practice/sql/medium/medium-churn-006/solution.sql",
-      "lang": "sql",
-      "difficulty": "medium",
-      "category": "SQL Querying",
-      "date": "2026-08-23",
-      "url": "https://xomdata.com/practice/medium-churn-006"
-    },
-    {
-      "name": "Bao lâu thì khách quyết định quay lại lần hai",
-      "slug": "medium-gap-002",
-      "file": "practice/sql/hard/medium-gap-002/solution.sql",
-      "lang": "sql",
-      "difficulty": "hard",
-      "category": "SQL Querying",
-      "date": "2026-08-23",
-      "url": "https://xomdata.com/practice/medium-gap-002"
     },
     {
       "name": "Bao lâu thì khách quyết định quay lại lần hai",
@@ -3799,26 +3861,6 @@
       "url": "https://xomdata.com/practice/easy-groupby-003"
     },
     {
-      "name": "Ai nhập hội đúng mùa khuyến mãi",
-      "slug": "medium-cohort-007",
-      "file": "practice/sql/medium/medium-cohort-007/solution.sql",
-      "lang": "sql",
-      "difficulty": "medium",
-      "category": "SQL Querying",
-      "date": "2026-08-23",
-      "url": "https://xomdata.com/practice/medium-cohort-007"
-    },
-    {
-      "name": "Ai ghé đủ cả hai tháng liền nhau",
-      "slug": "medium-active-002",
-      "file": "practice/sql/easy/medium-active-002/solution.sql",
-      "lang": "sql",
-      "difficulty": "easy",
-      "category": "SQL Querying",
-      "date": "2026-08-23",
-      "url": "https://xomdata.com/practice/medium-active-002"
-    },
-    {
       "name": "Ai ghé đủ cả hai tháng liền nhau",
       "slug": "medium-active-002",
       "file": "practice/sql/medium/medium-active-002/solution.sql",
@@ -3831,22 +3873,22 @@
     {
       "name": "Ai chuyên cần suốt cả quý",
       "slug": "medium-active-004",
-      "file": "practice/sql/easy/medium-active-004/solution.sql",
-      "lang": "sql",
-      "difficulty": "easy",
-      "category": "SQL Querying",
-      "date": "2026-08-23",
-      "url": "https://xomdata.com/practice/medium-active-004"
-    },
-    {
-      "name": "Ai chuyên cần suốt cả quý",
-      "slug": "medium-active-004",
       "file": "practice/sql/medium/medium-active-004/solution.sql",
       "lang": "sql",
       "difficulty": "medium",
       "category": "SQL Querying",
       "date": "2026-08-23",
       "url": "https://xomdata.com/practice/medium-active-004"
+    },
+    {
+      "name": "Active or stopped subscription",
+      "slug": "medium-churn-002",
+      "file": "practice/sql/easy/medium-churn-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-churn-002"
     },
     {
       "name": "Accounts still missing a tax code",
@@ -3857,6 +3899,16 @@
       "category": "SQL Aggregations",
       "date": "2026-08-23",
       "url": "https://xomdata.com/practice/easy-count-011"
+    },
+    {
+      "name": "A snapshot of the customer base at a point in time",
+      "slug": "medium-churn-006",
+      "file": "practice/sql/medium/medium-churn-006/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-23",
+      "url": "https://xomdata.com/practice/medium-churn-006"
     },
     {
       "name": "Users who never took a ride",
@@ -4031,16 +4083,6 @@
     {
       "name": "Tháng chào sân của từng khách",
       "slug": "medium-cohort-003",
-      "file": "practice/sql/easy/medium-cohort-003/solution.sql",
-      "lang": "sql",
-      "difficulty": "easy",
-      "category": "SQL Querying",
-      "date": "2026-08-21",
-      "url": "https://xomdata.com/practice/medium-cohort-003"
-    },
-    {
-      "name": "Tháng chào sân của từng khách",
-      "slug": "medium-cohort-003",
       "file": "practice/sql/medium/medium-cohort-003/solution.sql",
       "lang": "sql",
       "difficulty": "medium",
@@ -4099,6 +4141,16 @@
       "url": "https://xomdata.com/practice/easy-between-002"
     },
     {
+      "name": "One-time buyers vs. repeat customers",
+      "slug": "medium-repeat-001",
+      "file": "practice/sql/medium/medium-repeat-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/medium-repeat-001"
+    },
+    {
       "name": "Multi-day tours",
       "slug": "easy-where-023",
       "file": "practice/sql/easy/easy-where-023/solution.sql",
@@ -4119,14 +4171,14 @@
       "url": "https://xomdata.com/practice/easy-join-003"
     },
     {
-      "name": "Khách một lần ghé và khách quay lại",
-      "slug": "medium-repeat-001",
-      "file": "practice/sql/medium/medium-repeat-001/solution.sql",
+      "name": "Labeling customers as retained or churned",
+      "slug": "medium-churn-001",
+      "file": "practice/sql/medium/medium-churn-001/solution.sql",
       "lang": "sql",
       "difficulty": "medium",
-      "category": "SQL Querying",
+      "category": "Advanced Analytics & Cohorts",
       "date": "2026-08-21",
-      "url": "https://xomdata.com/practice/medium-repeat-001"
+      "url": "https://xomdata.com/practice/medium-churn-001"
     },
     {
       "name": "Highest-revenue month across the chain",
@@ -4159,16 +4211,6 @@
       "url": "https://xomdata.com/practice/easy-where-025"
     },
     {
-      "name": "Gắn nhãn khách còn gắn bó hay đã rời đi",
-      "slug": "medium-churn-001",
-      "file": "practice/sql/medium/medium-churn-001/solution.sql",
-      "lang": "sql",
-      "difficulty": "medium",
-      "category": "SQL Querying",
-      "date": "2026-08-21",
-      "url": "https://xomdata.com/practice/medium-churn-001"
-    },
-    {
       "name": "Employees by salary, descending",
       "slug": "easy-where-008",
       "file": "practice/sql/easy/easy-where-008/solution.sql",
@@ -4177,6 +4219,16 @@
       "category": "SQL Querying",
       "date": "2026-08-21",
       "url": "https://xomdata.com/practice/easy-where-008"
+    },
+    {
+      "name": "Each customer's debut month",
+      "slug": "medium-cohort-003",
+      "file": "practice/sql/easy/medium-cohort-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "easy",
+      "category": "SQL Querying",
+      "date": "2026-08-21",
+      "url": "https://xomdata.com/practice/medium-cohort-003"
     },
     {
       "name": "Delivered orders",
