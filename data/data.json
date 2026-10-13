@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-13T13:25:58+00:00",
-  "source_commit": "84b40b6",
+  "generated_at": "2026-10-13T13:46:41+00:00",
+  "source_commit": "ea628e2",
   "totals": {
-    "accepted": 441,
-    "challenges": 432,
+    "accepted": 444,
+    "challenges": 435,
     "languages": 2,
     "streak": 2,
-    "synced": "441 / 441",
-    "grand": 441
+    "synced": "444 / 444",
+    "grand": 444
   },
   "by_language": {
     "python": 227,
-    "sql": 214
+    "sql": 217
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 118,
+    "medium": 121,
     "hard": 54,
     "nightmare": 77
   },
@@ -24,7 +24,7 @@
     "Data Structures & Algos": 16,
     "Dynamic Programming": 3,
     "Trees & Graphs": 2,
-    "SQL Querying": 185,
+    "SQL Querying": 188,
     "Advanced Analytics & Cohorts": 8,
     "SQL Window Functions": 3,
     "SQL Aggregations": 17,
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 95
+      "count": 98
     }
   ],
   "activity": {
@@ -95,12 +95,22 @@
     "2026-08-21": 27,
     "2026-08-25": 4,
     "2026-08-20": 3,
+    "2026-10-13": 5,
     "2026-09-07": 6,
-    "2026-10-13": 2,
     "2026-09-06": 2,
     "2026-09-11": 1
   },
   "solutions": [
+    {
+      "name": "Three-day rolling total per store",
+      "slug": "medium-rolling-002",
+      "file": "practice/sql/medium/medium-rolling-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-13",
+      "url": "https://xomdata.com/practice/medium-rolling-002"
+    },
     {
       "name": "Sales rankings with department names",
       "slug": "medium-winjoin-001",
@@ -110,6 +120,26 @@
       "category": "SQL Window Functions",
       "date": "2026-10-13",
       "url": "https://xomdata.com/practice/medium-winjoin-001"
+    },
+    {
+      "name": "Latest readings and over-limit alerts",
+      "slug": "medium-dedup-003",
+      "file": "practice/sql/medium/medium-dedup-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-13",
+      "url": "https://xomdata.com/practice/medium-dedup-003"
+    },
+    {
+      "name": "Intake sequence per warehouse",
+      "slug": "medium-rownum-002",
+      "file": "practice/sql/medium/medium-rownum-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-13",
+      "url": "https://xomdata.com/practice/medium-rownum-002"
     },
     {
       "name": "Consultation revenue by doctor",
