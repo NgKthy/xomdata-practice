@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**439** problems solved on [Xom Data](https://xomdata.com/practice).
+**440** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 104 | 57 | 20 | 46 | 227 |
-| SQL | 88 | 57 | 36 | 31 | 212 |
+| SQL | 88 | 57 | 37 | 31 | 213 |
 
 **Recently solved**
 
+- [hard-rfm-006](https://xomdata.com/practice/hard-rfm-006) · Hard · 2026-10-13
 - [hard-winback-002](https://xomdata.com/practice/hard-winback-002) · Hard · 2026-10-13
 - [hard-fifo-001](https://xomdata.com/practice/hard-fifo-001) · Hard · 2026-10-13
 - [medium-denserank-003](https://xomdata.com/practice/medium-denserank-003) · Medium · 2026-10-13
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [medium-rolling-002](https://xomdata.com/practice/medium-rolling-002) · Medium · 2026-10-13
 - [medium-winjoin-001](https://xomdata.com/practice/medium-winjoin-001) · Medium · 2026-10-13
 - [medium-join-141](https://xomdata.com/practice/medium-join-141) · Medium · 2026-10-13
-- [medium-lag-004](https://xomdata.com/practice/medium-lag-004) · Medium · 2026-10-12
 
-_Synced 448 solutions · last update 2026-10-13_
+_Synced 449 solutions · last update 2026-10-13_
 
 <!-- xomdata:stats:end -->
 

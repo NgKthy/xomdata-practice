@@ -446,5 +446,6 @@
   "practice/sql/medium/medium-cohort-001/solution.sql": "d1252ccf306ca467cb641339c425659e0f3b68e9861a005dc936d0e044f259e7",
   "practice/sql/medium/medium-denserank-003/solution.sql": "b9f69e7e52e7037a57ad3635da920c19f91f733fb300319b71266a4dbd12bdd8",
   "practice/sql/hard/hard-fifo-001/solution.sql": "e1bcb748d9288f6cf0c07385fa7efa477ab19df3bf11645e08e583b3ec9c7f08",
-  "practice/sql/hard/hard-winback-002/solution.sql": "18929078e726c89fb6699b62a2faaedb85b54b2a7e8e4eb6339033850b18d17a"
+  "practice/sql/hard/hard-winback-002/solution.sql": "18929078e726c89fb6699b62a2faaedb85b54b2a7e8e4eb6339033850b18d17a",
+  "practice/sql/hard/hard-rfm-006/solution.sql": "dcbb3b37da36fc7b42aa204dd1801ead67a624a69b28d75219bbb078559ee94c"
 }
