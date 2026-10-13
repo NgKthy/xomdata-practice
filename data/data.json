@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-13T13:21:51+00:00",
-  "source_commit": "4d93e71",
+  "generated_at": "2026-10-13T13:25:58+00:00",
+  "source_commit": "84b40b6",
   "totals": {
-    "accepted": 439,
-    "challenges": 430,
+    "accepted": 441,
+    "challenges": 432,
     "languages": 2,
-    "streak": 1,
-    "synced": "439 / 439",
-    "grand": 439
+    "streak": 2,
+    "synced": "441 / 441",
+    "grand": 441
   },
   "by_language": {
     "python": 227,
-    "sql": 212
+    "sql": 214
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 116,
+    "medium": 118,
     "hard": 54,
     "nightmare": 77
   },
@@ -24,9 +24,9 @@
     "Data Structures & Algos": 16,
     "Dynamic Programming": 3,
     "Trees & Graphs": 2,
-    "SQL Querying": 184,
+    "SQL Querying": 185,
     "Advanced Analytics & Cohorts": 8,
-    "SQL Window Functions": 2,
+    "SQL Window Functions": 3,
     "SQL Aggregations": 17,
     "SQL Joins & Relational": 1
   },
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 93
+      "count": 95
     }
   ],
   "activity": {
@@ -96,10 +96,31 @@
     "2026-08-25": 4,
     "2026-08-20": 3,
     "2026-09-07": 6,
+    "2026-10-13": 2,
     "2026-09-06": 2,
     "2026-09-11": 1
   },
   "solutions": [
+    {
+      "name": "Sales rankings with department names",
+      "slug": "medium-winjoin-001",
+      "file": "practice/sql/medium/medium-winjoin-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Window Functions",
+      "date": "2026-10-13",
+      "url": "https://xomdata.com/practice/medium-winjoin-001"
+    },
+    {
+      "name": "Consultation revenue by doctor",
+      "slug": "medium-join-141",
+      "file": "practice/sql/medium/medium-join-141/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-13",
+      "url": "https://xomdata.com/practice/medium-join-141"
+    },
     {
       "name": "Trend labels for the monthly report",
       "slug": "medium-lag-004",
