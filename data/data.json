@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-13T13:46:41+00:00",
-  "source_commit": "ea628e2",
+  "generated_at": "2026-10-13T13:51:18+00:00",
+  "source_commit": "8c16e05",
   "totals": {
-    "accepted": 444,
-    "challenges": 435,
+    "accepted": 448,
+    "challenges": 439,
     "languages": 2,
     "streak": 2,
-    "synced": "444 / 444",
-    "grand": 444
+    "synced": "448 / 448",
+    "grand": 448
   },
   "by_language": {
     "python": 227,
-    "sql": 217
+    "sql": 221
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 121,
-    "hard": 54,
+    "medium": 123,
+    "hard": 56,
     "nightmare": 77
   },
   "by_category": {
@@ -24,11 +24,11 @@
     "Data Structures & Algos": 16,
     "Dynamic Programming": 3,
     "Trees & Graphs": 2,
-    "SQL Querying": 188,
+    "SQL Querying": 190,
     "Advanced Analytics & Cohorts": 8,
+    "SQL Aggregations": 18,
     "SQL Window Functions": 3,
-    "SQL Aggregations": 17,
-    "SQL Joins & Relational": 1
+    "SQL Joins & Relational": 2
   },
   "trend": [
     {
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 98
+      "count": 102
     }
   ],
   "activity": {
@@ -87,6 +87,7 @@
     "2026-10-03": 6,
     "2026-10-02": 3,
     "2026-09-05": 1,
+    "2026-10-13": 9,
     "2026-08-23": 39,
     "2026-09-22": 9,
     "2026-10-12": 10,
@@ -95,7 +96,6 @@
     "2026-08-21": 27,
     "2026-08-25": 4,
     "2026-08-20": 3,
-    "2026-10-13": 5,
     "2026-09-07": 6,
     "2026-09-06": 2,
     "2026-09-11": 1
@@ -112,6 +112,26 @@
       "url": "https://xomdata.com/practice/medium-rolling-002"
     },
     {
+      "name": "The customer's joining month on every order",
+      "slug": "medium-cohort-001",
+      "file": "practice/sql/medium/medium-cohort-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Joins & Relational",
+      "date": "2026-10-13",
+      "url": "https://xomdata.com/practice/medium-cohort-001"
+    },
+    {
+      "name": "Spending tiers of loyal customers",
+      "slug": "medium-denserank-003",
+      "file": "practice/sql/medium/medium-denserank-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-13",
+      "url": "https://xomdata.com/practice/medium-denserank-003"
+    },
+    {
       "name": "Sales rankings with department names",
       "slug": "medium-winjoin-001",
       "file": "practice/sql/medium/medium-winjoin-001/solution.sql",
@@ -120,6 +140,16 @@
       "category": "SQL Window Functions",
       "date": "2026-10-13",
       "url": "https://xomdata.com/practice/medium-winjoin-001"
+    },
+    {
+      "name": "Running inventory balance over time",
+      "slug": "hard-fifo-001",
+      "file": "practice/sql/hard/hard-fifo-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-10-13",
+      "url": "https://xomdata.com/practice/hard-fifo-001"
     },
     {
       "name": "Latest readings and over-limit alerts",
@@ -140,6 +170,16 @@
       "category": "SQL Querying",
       "date": "2026-10-13",
       "url": "https://xomdata.com/practice/medium-rownum-002"
+    },
+    {
+      "name": "Counting comebacks each month",
+      "slug": "hard-winback-002",
+      "file": "practice/sql/hard/hard-winback-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Aggregations",
+      "date": "2026-10-13",
+      "url": "https://xomdata.com/practice/hard-winback-002"
     },
     {
       "name": "Consultation revenue by doctor",
