@@ -442,5 +442,9 @@
   "practice/sql/medium/medium-winjoin-001/solution.sql": "ce7c6fd5b38f29ed6a48de61a517b8c951d07980f3b81b602a425aff62986320",
   "practice/sql/medium/medium-rolling-002/solution.sql": "50aa9bb2acee17156f0399d3f352f5158143c5d517163d71df7c4f01d7fa45fd",
   "practice/sql/medium/medium-rownum-002/solution.sql": "791dc18b301fb6e88d3012bee0e0d05322f63f0a59b88fdea318383283817f33",
-  "practice/sql/medium/medium-dedup-003/solution.sql": "3bd0e6be2ec2a92c396b8c783b79c183dcb45b69cab21030a1321f9c4ece4b21"
+  "practice/sql/medium/medium-dedup-003/solution.sql": "3bd0e6be2ec2a92c396b8c783b79c183dcb45b69cab21030a1321f9c4ece4b21",
+  "practice/sql/medium/medium-cohort-001/solution.sql": "d1252ccf306ca467cb641339c425659e0f3b68e9861a005dc936d0e044f259e7",
+  "practice/sql/medium/medium-denserank-003/solution.sql": "b9f69e7e52e7037a57ad3635da920c19f91f733fb300319b71266a4dbd12bdd8",
+  "practice/sql/hard/hard-fifo-001/solution.sql": "e1bcb748d9288f6cf0c07385fa7efa477ab19df3bf11645e08e583b3ec9c7f08",
+  "practice/sql/hard/hard-winback-002/solution.sql": "18929078e726c89fb6699b62a2faaedb85b54b2a7e8e4eb6339033850b18d17a"
 }
