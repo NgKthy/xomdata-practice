@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-13T13:51:18+00:00",
-  "source_commit": "8c16e05",
+  "generated_at": "2026-10-13T13:53:39+00:00",
+  "source_commit": "30d3ba4",
   "totals": {
-    "accepted": 448,
-    "challenges": 439,
+    "accepted": 449,
+    "challenges": 440,
     "languages": 2,
     "streak": 2,
-    "synced": "448 / 448",
-    "grand": 448
+    "synced": "449 / 449",
+    "grand": 449
   },
   "by_language": {
     "python": 227,
-    "sql": 221
+    "sql": 222
   },
   "by_difficulty": {
     "easy": 192,
     "medium": 123,
-    "hard": 56,
+    "hard": 57,
     "nightmare": 77
   },
   "by_category": {
@@ -24,7 +24,7 @@
     "Data Structures & Algos": 16,
     "Dynamic Programming": 3,
     "Trees & Graphs": 2,
-    "SQL Querying": 190,
+    "SQL Querying": 191,
     "Advanced Analytics & Cohorts": 8,
     "SQL Aggregations": 18,
     "SQL Window Functions": 3,
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 102
+      "count": 103
     }
   ],
   "activity": {
@@ -87,7 +87,7 @@
     "2026-10-03": 6,
     "2026-10-02": 3,
     "2026-09-05": 1,
-    "2026-10-13": 9,
+    "2026-10-13": 10,
     "2026-08-23": 39,
     "2026-09-22": 9,
     "2026-10-12": 10,
@@ -110,6 +110,16 @@
       "category": "SQL Querying",
       "date": "2026-10-13",
       "url": "https://xomdata.com/practice/medium-rolling-002"
+    },
+    {
+      "name": "The eight-segment customer map",
+      "slug": "hard-rfm-006",
+      "file": "practice/sql/hard/hard-rfm-006/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-10-13",
+      "url": "https://xomdata.com/practice/hard-rfm-006"
     },
     {
       "name": "The customer's joining month on every order",
