@@ -439,5 +439,8 @@
   "practice/sql/medium/medium-join-186/solution.sql": "7cd7869ae046c96c1ececc2cf458d8ee05637a55d187d553d6c17fdc0466a2f4",
   "practice/sql/medium/medium-lag-004/solution.sql": "ff94a2a25e63086ea7690bd4d15e40481a6bfe00a660138bc3c339fc5a0f0b16",
   "practice/sql/medium/medium-join-141/solution.sql": "375b067c9fb7f9adeedfa5a896f3a0a651133ad444820f172998debd0a48e978",
-  "practice/sql/medium/medium-winjoin-001/solution.sql": "ce7c6fd5b38f29ed6a48de61a517b8c951d07980f3b81b602a425aff62986320"
+  "practice/sql/medium/medium-winjoin-001/solution.sql": "ce7c6fd5b38f29ed6a48de61a517b8c951d07980f3b81b602a425aff62986320",
+  "practice/sql/medium/medium-rolling-002/solution.sql": "50aa9bb2acee17156f0399d3f352f5158143c5d517163d71df7c4f01d7fa45fd",
+  "practice/sql/medium/medium-rownum-002/solution.sql": "791dc18b301fb6e88d3012bee0e0d05322f63f0a59b88fdea318383283817f33",
+  "practice/sql/medium/medium-dedup-003/solution.sql": "3bd0e6be2ec2a92c396b8c783b79c183dcb45b69cab21030a1321f9c4ece4b21"
 }
