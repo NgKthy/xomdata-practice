@@ -449,5 +449,7 @@
   "practice/sql/hard/hard-winback-002/solution.sql": "18929078e726c89fb6699b62a2faaedb85b54b2a7e8e4eb6339033850b18d17a",
   "practice/sql/hard/hard-rfm-006/solution.sql": "dcbb3b37da36fc7b42aa204dd1801ead67a624a69b28d75219bbb078559ee94c",
   "practice/sql/medium/medium-subquery-198/solution.sql": "b99e793a94832af3de6d96c86aee0c56b768e82533ed6449f7cfc7e701f6fbbc",
-  "practice/sql/medium/medium-join-155/solution.sql": "f225f4fd2921e7e9c9167bef865d38755bf4b5ac1b8e6fea0e885b24b84c78e1"
+  "practice/sql/medium/medium-join-155/solution.sql": "f225f4fd2921e7e9c9167bef865d38755bf4b5ac1b8e6fea0e885b24b84c78e1",
+  "practice/sql/medium/medium-denserank-002/solution.sql": "b99ea65067acdea7822f14500e431d239089e00b36e8c677575268550d0869b0",
+  "practice/sql/medium/medium-firstval-001/solution.sql": "cfde16399a46da1bb2b650bcdc30c42a2c9c600a66d6c44a061dac5c2763b967"
 }
