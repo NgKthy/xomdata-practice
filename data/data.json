@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-16T11:09:20+00:00",
-  "source_commit": "e6742b1",
+  "generated_at": "2026-10-16T11:14:02+00:00",
+  "source_commit": "5e8ffb7",
   "totals": {
-    "accepted": 451,
-    "challenges": 442,
+    "accepted": 453,
+    "challenges": 444,
     "languages": 2,
     "streak": 1,
-    "synced": "451 / 451",
-    "grand": 451
+    "synced": "453 / 453",
+    "grand": 453
   },
   "by_language": {
     "python": 227,
-    "sql": 224
+    "sql": 226
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 125,
+    "medium": 127,
     "hard": 57,
     "nightmare": 77
   },
@@ -24,10 +24,10 @@
     "Data Structures & Algos": 16,
     "Dynamic Programming": 3,
     "Trees & Graphs": 2,
-    "SQL Querying": 192,
+    "SQL Querying": 193,
     "Advanced Analytics & Cohorts": 8,
     "SQL Aggregations": 18,
-    "SQL Window Functions": 4,
+    "SQL Window Functions": 5,
     "SQL Joins & Relational": 2
   },
   "trend": [
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 105
+      "count": 107
     }
   ],
   "activity": {
@@ -97,7 +97,7 @@
     "2026-08-25": 4,
     "2026-08-20": 3,
     "2026-09-07": 6,
-    "2026-10-16": 2,
+    "2026-10-16": 4,
     "2026-09-06": 2,
     "2026-09-11": 1
   },
@@ -111,6 +111,26 @@
       "category": "SQL Querying",
       "date": "2026-10-16",
       "url": "https://xomdata.com/practice/medium-subquery-198"
+    },
+    {
+      "name": "The category's flagship next to each item",
+      "slug": "medium-firstval-001",
+      "file": "practice/sql/medium/medium-firstval-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Window Functions",
+      "date": "2026-10-16",
+      "url": "https://xomdata.com/practice/medium-firstval-001"
+    },
+    {
+      "name": "Salary bands within each department",
+      "slug": "medium-denserank-002",
+      "file": "practice/sql/medium/medium-denserank-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-16",
+      "url": "https://xomdata.com/practice/medium-denserank-002"
     },
     {
       "name": "Rank hotels by room price within each destination",
