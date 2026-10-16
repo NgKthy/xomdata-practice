@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-16T10:30:52+00:00",
-  "source_commit": "30d3ba4",
+  "generated_at": "2026-10-16T11:09:20+00:00",
+  "source_commit": "e6742b1",
   "totals": {
-    "accepted": 449,
-    "challenges": 440,
+    "accepted": 451,
+    "challenges": 442,
     "languages": 2,
-    "streak": 0,
-    "synced": "449 / 449",
-    "grand": 449
+    "streak": 1,
+    "synced": "451 / 451",
+    "grand": 451
   },
   "by_language": {
     "python": 227,
-    "sql": 222
+    "sql": 224
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 123,
+    "medium": 125,
     "hard": 57,
     "nightmare": 77
   },
@@ -24,10 +24,10 @@
     "Data Structures & Algos": 16,
     "Dynamic Programming": 3,
     "Trees & Graphs": 2,
-    "SQL Querying": 191,
+    "SQL Querying": 192,
     "Advanced Analytics & Cohorts": 8,
     "SQL Aggregations": 18,
-    "SQL Window Functions": 3,
+    "SQL Window Functions": 4,
     "SQL Joins & Relational": 2
   },
   "trend": [
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 103
+      "count": 105
     }
   ],
   "activity": {
@@ -97,10 +97,31 @@
     "2026-08-25": 4,
     "2026-08-20": 3,
     "2026-09-07": 6,
+    "2026-10-16": 2,
     "2026-09-06": 2,
     "2026-09-11": 1
   },
   "solutions": [
+    {
+      "name": "Top 10 most-borrowed books",
+      "slug": "medium-subquery-198",
+      "file": "practice/sql/medium/medium-subquery-198/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-16",
+      "url": "https://xomdata.com/practice/medium-subquery-198"
+    },
+    {
+      "name": "Rank hotels by room price within each destination",
+      "slug": "medium-join-155",
+      "file": "practice/sql/medium/medium-join-155/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Window Functions",
+      "date": "2026-10-16",
+      "url": "https://xomdata.com/practice/medium-join-155"
+    },
     {
       "name": "Three-day rolling total per store",
       "slug": "medium-rolling-002",
