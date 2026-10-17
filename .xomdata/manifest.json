@@ -458,5 +458,7 @@
   "practice/sql/medium/medium-winagg-009/solution.sql": "8d6d4f4f5aa827eca20308e79b5b7796c99d20a0c6d67d20830dfe6f72b22034",
   "practice/sql/hard/hard-hierarchical-001/solution.sql": "2e833ab44f6cf0e5f45d2ffd7855e6ac1a05308bc976e6d8771ac52808882200",
   "practice/sql/hard/hard-retention-002/solution.sql": "332e469f1d2b9c3777b3f28fc6f66e47f537ff6b2f26eb7bb66b61a0be7ef72a",
-  "practice/sql/hard/hard-cohort-002/solution.sql": "1b8a274af6deb5781b0e56ec5c8587f5a6aa26fac829f83432ff6fb393019759"
+  "practice/sql/hard/hard-cohort-002/solution.sql": "1b8a274af6deb5781b0e56ec5c8587f5a6aa26fac829f83432ff6fb393019759",
+  "practice/sql/nightmare/nightmare-top3-dept-001/solution.sql": "6587706088ed605ea35a33ecb13180af59ba7d80de788e0102d114cc42c25cea",
+  "practice/sql/nightmare/sql-nightmare-001/solution.sql": "da405d7f6eea83b73a160fdb8b359dc8fcd59249de8571bf4cbfc4565367a7ed"
 }
