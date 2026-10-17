@@ -453,5 +453,7 @@
   "practice/sql/medium/medium-denserank-002/solution.sql": "b99ea65067acdea7822f14500e431d239089e00b36e8c677575268550d0869b0",
   "practice/sql/medium/medium-firstval-001/solution.sql": "cfde16399a46da1bb2b650bcdc30c42a2c9c600a66d6c44a061dac5c2763b967",
   "practice/sql/medium/medium-rank-001/solution.sql": "2f727216fa01fffb84efb3da02d19a40d94b3c17f6e69a75940c70fe2a2e21a7",
-  "practice/sql/medium/medium-dedup-002/solution.sql": "1e63ca630c9ee7e33e635697a2677bb142237b956e8f60c81a5fa49e7073f953"
+  "practice/sql/medium/medium-dedup-002/solution.sql": "1e63ca630c9ee7e33e635697a2677bb142237b956e8f60c81a5fa49e7073f953",
+  "practice/sql/medium/medium-join-126/solution.sql": "84aaf2e3d1198aac9febb317577384b91d8a635defce02df202b08899eb29d72",
+  "practice/sql/medium/medium-winagg-009/solution.sql": "8d6d4f4f5aa827eca20308e79b5b7796c99d20a0c6d67d20830dfe6f72b22034"
 }
