@@ -455,5 +455,8 @@
   "practice/sql/medium/medium-rank-001/solution.sql": "2f727216fa01fffb84efb3da02d19a40d94b3c17f6e69a75940c70fe2a2e21a7",
   "practice/sql/medium/medium-dedup-002/solution.sql": "1e63ca630c9ee7e33e635697a2677bb142237b956e8f60c81a5fa49e7073f953",
   "practice/sql/medium/medium-join-126/solution.sql": "84aaf2e3d1198aac9febb317577384b91d8a635defce02df202b08899eb29d72",
-  "practice/sql/medium/medium-winagg-009/solution.sql": "8d6d4f4f5aa827eca20308e79b5b7796c99d20a0c6d67d20830dfe6f72b22034"
+  "practice/sql/medium/medium-winagg-009/solution.sql": "8d6d4f4f5aa827eca20308e79b5b7796c99d20a0c6d67d20830dfe6f72b22034",
+  "practice/sql/hard/hard-hierarchical-001/solution.sql": "2e833ab44f6cf0e5f45d2ffd7855e6ac1a05308bc976e6d8771ac52808882200",
+  "practice/sql/hard/hard-retention-002/solution.sql": "332e469f1d2b9c3777b3f28fc6f66e47f537ff6b2f26eb7bb66b61a0be7ef72a",
+  "practice/sql/hard/hard-cohort-002/solution.sql": "1b8a274af6deb5781b0e56ec5c8587f5a6aa26fac829f83432ff6fb393019759"
 }
