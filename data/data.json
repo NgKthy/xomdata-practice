@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-17T12:25:38+00:00",
-  "source_commit": "6e97fa1",
+  "generated_at": "2026-10-17T12:32:03+00:00",
+  "source_commit": "695e8f6",
   "totals": {
-    "accepted": 457,
-    "challenges": 448,
+    "accepted": 460,
+    "challenges": 451,
     "languages": 2,
     "streak": 2,
-    "synced": "457 / 457",
-    "grand": 457
+    "synced": "460 / 460",
+    "grand": 460
   },
   "by_language": {
     "python": 227,
-    "sql": 230
+    "sql": 233
   },
   "by_difficulty": {
     "easy": 192,
     "medium": 131,
-    "hard": 57,
+    "hard": 60,
     "nightmare": 77
   },
   "by_category": {
@@ -24,8 +24,8 @@
     "Data Structures & Algos": 16,
     "Dynamic Programming": 3,
     "Trees & Graphs": 2,
-    "SQL Querying": 196,
-    "Advanced Analytics & Cohorts": 8,
+    "SQL Querying": 198,
+    "Advanced Analytics & Cohorts": 9,
     "SQL Aggregations": 18,
     "SQL Window Functions": 6,
     "SQL Joins & Relational": 2
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 111
+      "count": 114
     }
   ],
   "activity": {
@@ -90,6 +90,7 @@
     "2026-10-13": 10,
     "2026-08-23": 39,
     "2026-09-22": 9,
+    "2026-10-17": 5,
     "2026-10-12": 10,
     "2026-08-19": 12,
     "2026-08-22": 11,
@@ -97,12 +98,21 @@
     "2026-08-25": 4,
     "2026-08-20": 3,
     "2026-09-07": 6,
-    "2026-10-17": 2,
     "2026-10-16": 6,
     "2026-09-06": 2,
     "2026-09-11": 1
   },
   "solutions": [
+    {
+      "name": "Total sales by org branch",
+      "slug": "hard-hierarchical-001",
+      "file": "practice/sql/hard/hard-hierarchical-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-10-17",
+      "url": "https://xomdata.com/practice/hard-hierarchical-001"
+    },
     {
       "name": "Salary by department and title",
       "slug": "medium-join-126",
@@ -112,6 +122,26 @@
       "category": "SQL Querying",
       "date": "2026-10-17",
       "url": "https://xomdata.com/practice/medium-join-126"
+    },
+    {
+      "name": "Repeat-customer tracking table by cohort",
+      "slug": "hard-cohort-002",
+      "file": "practice/sql/hard/hard-cohort-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "Advanced Analytics & Cohorts",
+      "date": "2026-10-17",
+      "url": "https://xomdata.com/practice/hard-cohort-002"
+    },
+    {
+      "name": "How much is left after one month",
+      "slug": "hard-retention-002",
+      "file": "practice/sql/hard/hard-retention-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-10-17",
+      "url": "https://xomdata.com/practice/hard-retention-002"
     },
     {
       "name": "Each category's slice of revenue",
