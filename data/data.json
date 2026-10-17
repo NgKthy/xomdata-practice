@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-17T12:32:03+00:00",
-  "source_commit": "695e8f6",
+  "generated_at": "2026-10-17T12:35:47+00:00",
+  "source_commit": "ccc1fba",
   "totals": {
-    "accepted": 460,
-    "challenges": 451,
+    "accepted": 462,
+    "challenges": 453,
     "languages": 2,
     "streak": 2,
-    "synced": "460 / 460",
-    "grand": 460
+    "synced": "462 / 462",
+    "grand": 462
   },
   "by_language": {
     "python": 227,
-    "sql": 233
+    "sql": 235
   },
   "by_difficulty": {
     "easy": 192,
     "medium": 131,
     "hard": 60,
-    "nightmare": 77
+    "nightmare": 79
   },
   "by_category": {
     "Python Data Logic": 206,
     "Data Structures & Algos": 16,
     "Dynamic Programming": 3,
     "Trees & Graphs": 2,
-    "SQL Querying": 198,
+    "SQL Querying": 200,
     "Advanced Analytics & Cohorts": 9,
     "SQL Aggregations": 18,
     "SQL Window Functions": 6,
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 114
+      "count": 116
     }
   ],
   "activity": {
@@ -86,11 +86,11 @@
     "2026-09-25": 7,
     "2026-10-03": 6,
     "2026-10-02": 3,
+    "2026-10-17": 7,
     "2026-09-05": 1,
     "2026-10-13": 10,
     "2026-08-23": 39,
     "2026-09-22": 9,
-    "2026-10-17": 5,
     "2026-10-12": 10,
     "2026-08-19": 12,
     "2026-08-22": 11,
@@ -114,6 +114,16 @@
       "url": "https://xomdata.com/practice/hard-hierarchical-001"
     },
     {
+      "name": "Top 3 salaries per department",
+      "slug": "nightmare-top3-dept-001",
+      "file": "practice/sql/nightmare/nightmare-top3-dept-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-10-17",
+      "url": "https://xomdata.com/practice/nightmare-top3-dept-001"
+    },
+    {
       "name": "Salary by department and title",
       "slug": "medium-join-126",
       "file": "practice/sql/medium/medium-join-126/solution.sql",
@@ -132,6 +142,16 @@
       "category": "Advanced Analytics & Cohorts",
       "date": "2026-10-17",
       "url": "https://xomdata.com/practice/hard-cohort-002"
+    },
+    {
+      "name": "Longest consecutive login streak",
+      "slug": "sql-nightmare-001",
+      "file": "practice/sql/nightmare/sql-nightmare-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-10-17",
+      "url": "https://xomdata.com/practice/sql-nightmare-001"
     },
     {
       "name": "How much is left after one month",
