@@ -462,5 +462,7 @@
   "practice/sql/nightmare/nightmare-top3-dept-001/solution.sql": "6587706088ed605ea35a33ecb13180af59ba7d80de788e0102d114cc42c25cea",
   "practice/sql/nightmare/sql-nightmare-001/solution.sql": "da405d7f6eea83b73a160fdb8b359dc8fcd59249de8571bf4cbfc4565367a7ed",
   "practice/sql/hard/hard-cohort-004/solution.sql": "f31c82671293b4cd858d586839553aef51f23d00cdfe99ee0d6f113e37f73651",
-  "practice/sql/hard/hard-churn-003/solution.sql": "a47e032ef1e1e609e3a24baac999aacfe4a74ba5da92f464113463ab00715445"
+  "practice/sql/hard/hard-churn-003/solution.sql": "a47e032ef1e1e609e3a24baac999aacfe4a74ba5da92f464113463ab00715445",
+  "practice/sql/medium/medium-leftjoin-096/solution.sql": "fadb46571d13e8b36bceb79ae9a9068e17a34d6cf259c837cc47ce4cd9f280dc",
+  "practice/sql/medium/medium-ntile-001/solution.sql": "81cd269eaf4d0855f0c7ef8344601e018515ac8d59879b0d9179fcba638a6676"
 }
