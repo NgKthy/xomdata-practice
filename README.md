@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**457** problems solved on [Xom Data](https://xomdata.com/practice).
+**461** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 104 | 57 | 20 | 46 | 227 |
-| SQL | 88 | 67 | 42 | 33 | 230 |
+| SQL | 88 | 71 | 42 | 33 | 234 |
 
 **Recently solved**
 
+- [medium-cohort-002](https://xomdata.com/practice/medium-cohort-002) · Medium · 2026-10-19
+- [medium-rownum-003](https://xomdata.com/practice/medium-rownum-003) · Medium · 2026-10-19
+- [medium-winjoin-003](https://xomdata.com/practice/medium-winjoin-003) · Medium · 2026-10-19
+- [medium-join-014](https://xomdata.com/practice/medium-join-014) · Medium · 2026-10-19
 - [medium-ntile-001](https://xomdata.com/practice/medium-ntile-001) · Medium · 2026-10-18
 - [medium-leftjoin-096](https://xomdata.com/practice/medium-leftjoin-096) · Medium · 2026-10-18
 - [hard-churn-003](https://xomdata.com/practice/hard-churn-003) · Hard · 2026-10-17
 - [hard-cohort-004](https://xomdata.com/practice/hard-cohort-004) · Hard · 2026-10-17
 - [sql-nightmare-001](https://xomdata.com/practice/sql-nightmare-001) · Nightmare · 2026-10-17
 - [nightmare-top3-dept-001](https://xomdata.com/practice/nightmare-top3-dept-001) · Nightmare · 2026-10-17
-- [hard-cohort-002](https://xomdata.com/practice/hard-cohort-002) · Hard · 2026-10-17
-- [hard-retention-002](https://xomdata.com/practice/hard-retention-002) · Hard · 2026-10-17
-- [hard-hierarchical-001](https://xomdata.com/practice/hard-hierarchical-001) · Hard · 2026-10-17
-- [medium-winagg-009](https://xomdata.com/practice/medium-winagg-009) · Medium · 2026-10-17
 
-_Synced 466 solutions · last update 2026-10-18_
+_Synced 470 solutions · last update 2026-10-19_
 
 <!-- xomdata:stats:end -->
 

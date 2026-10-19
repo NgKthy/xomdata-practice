@@ -464,5 +464,9 @@
   "practice/sql/hard/hard-cohort-004/solution.sql": "f31c82671293b4cd858d586839553aef51f23d00cdfe99ee0d6f113e37f73651",
   "practice/sql/hard/hard-churn-003/solution.sql": "a47e032ef1e1e609e3a24baac999aacfe4a74ba5da92f464113463ab00715445",
   "practice/sql/medium/medium-leftjoin-096/solution.sql": "fadb46571d13e8b36bceb79ae9a9068e17a34d6cf259c837cc47ce4cd9f280dc",
-  "practice/sql/medium/medium-ntile-001/solution.sql": "81cd269eaf4d0855f0c7ef8344601e018515ac8d59879b0d9179fcba638a6676"
+  "practice/sql/medium/medium-ntile-001/solution.sql": "81cd269eaf4d0855f0c7ef8344601e018515ac8d59879b0d9179fcba638a6676",
+  "practice/sql/medium/medium-join-014/solution.sql": "dd9fda1a80edb4c728c6327ec23f14b562d6ad7cb14b0f35d71e68fc0a9df922",
+  "practice/sql/medium/medium-winjoin-003/solution.sql": "2360573a01efa5c746c0da5d1b5387b462de724ff40249e00778fa70b0f27bf6",
+  "practice/sql/medium/medium-rownum-003/solution.sql": "005c4c667edc7f2961d65d2d7d69861cef5d70726afb369198e8c6b167b8b564",
+  "practice/sql/medium/medium-cohort-002/solution.sql": "08abe36c420f5bd2dc492d3dffa7bcb24069952e5fd19c48cb131c09efa01ed9"
 }
