@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-20T12:59:38+00:00",
-  "source_commit": "512fdf1",
+  "generated_at": "2026-10-20T13:04:41+00:00",
+  "source_commit": "2cbd904",
   "totals": {
-    "accepted": 475,
-    "challenges": 466,
+    "accepted": 477,
+    "challenges": 468,
     "languages": 2,
     "streak": 5,
-    "synced": "475 / 475",
-    "grand": 475
+    "synced": "477 / 477",
+    "grand": 477
   },
   "by_language": {
-    "sql": 248,
+    "sql": 250,
     "python": 227
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 142,
+    "medium": 144,
     "hard": 62,
     "nightmare": 79
   },
   "by_category": {
-    "SQL Querying": 210,
+    "SQL Querying": 211,
     "Advanced Analytics & Cohorts": 11,
     "SQL Aggregations": 19,
-    "SQL Window Functions": 6,
+    "SQL Window Functions": 7,
     "SQL Joins & Relational": 2,
     "Python Data Logic": 206,
     "Dynamic Programming": 3,
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 129
+      "count": 131
     }
   ],
   "activity": {
@@ -67,9 +67,9 @@
     "2026-10-18": 2,
     "2026-10-17": 9,
     "2026-10-10": 10,
+    "2026-10-20": 5,
     "2026-09-06": 2,
     "2026-08-24": 31,
-    "2026-10-20": 3,
     "2026-09-25": 7,
     "2026-10-02": 3,
     "2026-10-04": 4,
@@ -117,6 +117,16 @@
       "url": "https://xomdata.com/practice/medium-winjoin-002"
     },
     {
+      "name": "Sales rank within each region",
+      "slug": "medium-rank-002",
+      "file": "practice/sql/medium/medium-rank-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Window Functions",
+      "date": "2026-10-20",
+      "url": "https://xomdata.com/practice/medium-rank-002"
+    },
+    {
       "name": "Each customer's cumulative spending",
       "slug": "medium-runtotal-002",
       "file": "practice/sql/medium/medium-runtotal-002/solution.sql",
@@ -125,6 +135,16 @@
       "category": "SQL Querying",
       "date": "2026-10-20",
       "url": "https://xomdata.com/practice/medium-runtotal-002"
+    },
+    {
+      "name": "Change versus last month",
+      "slug": "medium-lag-002",
+      "file": "practice/sql/medium/medium-lag-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-20",
+      "url": "https://xomdata.com/practice/medium-lag-002"
     },
     {
       "name": "Balance after each transaction",
