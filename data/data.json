@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-20T13:04:41+00:00",
-  "source_commit": "2cbd904",
+  "generated_at": "2026-10-20T13:07:18+00:00",
+  "source_commit": "01609ef",
   "totals": {
-    "accepted": 477,
-    "challenges": 468,
+    "accepted": 479,
+    "challenges": 470,
     "languages": 2,
     "streak": 5,
-    "synced": "477 / 477",
-    "grand": 477
+    "synced": "479 / 479",
+    "grand": 479
   },
   "by_language": {
-    "sql": 250,
+    "sql": 252,
     "python": 227
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 144,
+    "medium": 146,
     "hard": 62,
     "nightmare": 79
   },
   "by_category": {
-    "SQL Querying": 211,
+    "SQL Querying": 212,
     "Advanced Analytics & Cohorts": 11,
     "SQL Aggregations": 19,
-    "SQL Window Functions": 7,
+    "SQL Window Functions": 8,
     "SQL Joins & Relational": 2,
     "Python Data Logic": 206,
     "Dynamic Programming": 3,
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 131
+      "count": 133
     }
   ],
   "activity": {
@@ -62,12 +62,12 @@
     "2026-09-11": 1,
     "2026-10-16": 6,
     "2026-10-13": 10,
+    "2026-10-20": 7,
     "2026-10-19": 6,
     "2026-09-13": 10,
     "2026-10-18": 2,
     "2026-10-17": 9,
     "2026-10-10": 10,
-    "2026-10-20": 5,
     "2026-09-06": 2,
     "2026-08-24": 31,
     "2026-09-25": 7,
@@ -125,6 +125,26 @@
       "category": "SQL Window Functions",
       "date": "2026-10-20",
       "url": "https://xomdata.com/practice/medium-rank-002"
+    },
+    {
+      "name": "Revenue rank of each category",
+      "slug": "medium-rank-003",
+      "file": "practice/sql/medium/medium-rank-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Window Functions",
+      "date": "2026-10-20",
+      "url": "https://xomdata.com/practice/medium-rank-003"
+    },
+    {
+      "name": "Each device's next service date",
+      "slug": "medium-lead-001",
+      "file": "practice/sql/medium/medium-lead-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-20",
+      "url": "https://xomdata.com/practice/medium-lead-001"
     },
     {
       "name": "Each customer's cumulative spending",
