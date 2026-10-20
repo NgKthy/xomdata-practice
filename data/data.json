@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-20T10:48:38+00:00",
-  "source_commit": "c977420",
+  "generated_at": "2026-10-20T12:59:38+00:00",
+  "source_commit": "512fdf1",
   "totals": {
-    "accepted": 470,
-    "challenges": 461,
+    "accepted": 475,
+    "challenges": 466,
     "languages": 2,
-    "streak": 4,
-    "synced": "470 / 470",
-    "grand": 470
+    "streak": 5,
+    "synced": "475 / 475",
+    "grand": 475
   },
   "by_language": {
-    "sql": 243,
+    "sql": 248,
     "python": 227
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 137,
+    "medium": 142,
     "hard": 62,
     "nightmare": 79
   },
   "by_category": {
-    "SQL Querying": 205,
+    "SQL Querying": 210,
     "Advanced Analytics & Cohorts": 11,
     "SQL Aggregations": 19,
     "SQL Window Functions": 6,
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 124
+      "count": 129
     }
   ],
   "activity": {
@@ -62,13 +62,14 @@
     "2026-09-11": 1,
     "2026-10-16": 6,
     "2026-10-13": 10,
-    "2026-10-19": 4,
+    "2026-10-19": 6,
     "2026-09-13": 10,
     "2026-10-18": 2,
     "2026-10-17": 9,
     "2026-10-10": 10,
     "2026-09-06": 2,
     "2026-08-24": 31,
+    "2026-10-20": 3,
     "2026-09-25": 7,
     "2026-10-02": 3,
     "2026-10-04": 4,
@@ -106,6 +107,36 @@
   },
   "solutions": [
     {
+      "name": "The customer's total next to every order",
+      "slug": "medium-winjoin-002",
+      "file": "practice/sql/medium/medium-winjoin-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-20",
+      "url": "https://xomdata.com/practice/medium-winjoin-002"
+    },
+    {
+      "name": "Each customer's cumulative spending",
+      "slug": "medium-runtotal-002",
+      "file": "practice/sql/medium/medium-runtotal-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-20",
+      "url": "https://xomdata.com/practice/medium-runtotal-002"
+    },
+    {
+      "name": "Balance after each transaction",
+      "slug": "medium-runtotal-003",
+      "file": "practice/sql/medium/medium-runtotal-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-20",
+      "url": "https://xomdata.com/practice/medium-runtotal-003"
+    },
+    {
       "name": "Visit number within each day",
       "slug": "medium-rownum-003",
       "file": "practice/sql/medium/medium-rownum-003/solution.sql",
@@ -126,6 +157,16 @@
       "url": "https://xomdata.com/practice/medium-join-014"
     },
     {
+      "name": "Price tiers for rooms on sale",
+      "slug": "medium-denserank-001",
+      "file": "practice/sql/medium/medium-denserank-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-19",
+      "url": "https://xomdata.com/practice/medium-denserank-001"
+    },
+    {
       "name": "Opening order or returning order",
       "slug": "medium-cohort-002",
       "file": "practice/sql/medium/medium-cohort-002/solution.sql",
@@ -134,6 +175,16 @@
       "category": "SQL Querying",
       "date": "2026-10-19",
       "url": "https://xomdata.com/practice/medium-cohort-002"
+    },
+    {
+      "name": "Each customer's latest contact number",
+      "slug": "medium-dedup-001",
+      "file": "practice/sql/medium/medium-dedup-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-19",
+      "url": "https://xomdata.com/practice/medium-dedup-001"
     },
     {
       "name": "Each aisle's best seller",
