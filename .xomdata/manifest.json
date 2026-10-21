@@ -477,5 +477,8 @@
   "practice/sql/medium/medium-rank-002/solution.sql": "96f736ca25bf0ab62d550f05c02205a27ee040a4b12ad2967c9ca76404388f1b",
   "practice/sql/medium/medium-lag-002/solution.sql": "6dd6f2253d3c786eca84aa23bfd7285722ecae9903d8d62b9d3ab43b224de455",
   "practice/sql/medium/medium-rank-003/solution.sql": "5bb543db3d8e7784c4dcd56c32c0efa8ceef72040b28d2d575fac0465f13ba0e",
-  "practice/sql/medium/medium-lead-001/solution.sql": "3bff690a4510b092b06f3c3c1eec283f9579a207f5839ea6c12fc72376c75bca"
+  "practice/sql/medium/medium-lead-001/solution.sql": "3bff690a4510b092b06f3c3c1eec283f9579a207f5839ea6c12fc72376c75bca",
+  "practice/sql/medium/medium-rolling-001/solution.sql": "5798decddcfc2221926c30d717dec6875535525e94f4dcec3df05b2737e1a3b9",
+  "practice/sql/medium/medium-winagg-006/solution.sql": "c0091cdfeb6f235a0f467f885746b883cd61912fc5f81c5f95831dd413376962",
+  "practice/sql/medium/medium-winagg-008/solution.sql": "0b2b59ca785a36db9fac4c294306c8af0fd5fd04433c0886fa03a69ea6943d55"
 }
