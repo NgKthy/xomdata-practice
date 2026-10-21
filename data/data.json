@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-21T11:41:05+00:00",
-  "source_commit": "67c6608",
+  "generated_at": "2026-10-21T11:47:44+00:00",
+  "source_commit": "2074031",
   "totals": {
-    "accepted": 482,
-    "challenges": 473,
+    "accepted": 484,
+    "challenges": 475,
     "languages": 2,
     "streak": 6,
-    "synced": "482 / 482",
-    "grand": 482
+    "synced": "484 / 484",
+    "grand": 484
   },
   "by_language": {
-    "sql": 255,
+    "sql": 257,
     "python": 227
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 149,
+    "medium": 151,
     "hard": 62,
     "nightmare": 79
   },
   "by_category": {
-    "SQL Querying": 215,
+    "SQL Querying": 217,
     "Advanced Analytics & Cohorts": 11,
     "SQL Aggregations": 19,
     "SQL Window Functions": 8,
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 136
+      "count": 138
     }
   ],
   "activity": {
@@ -66,7 +66,7 @@
     "2026-10-19": 6,
     "2026-09-13": 10,
     "2026-10-18": 2,
-    "2026-10-21": 3,
+    "2026-10-21": 5,
     "2026-10-17": 9,
     "2026-10-10": 10,
     "2026-09-06": 2,
@@ -118,6 +118,16 @@
       "url": "https://xomdata.com/practice/medium-rolling-001"
     },
     {
+      "name": "First purchase date next to every order",
+      "slug": "medium-firstval-002",
+      "file": "practice/sql/medium/medium-firstval-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-21",
+      "url": "https://xomdata.com/practice/medium-firstval-002"
+    },
+    {
       "name": "Each expense's share of the fund",
       "slug": "medium-winagg-006",
       "file": "practice/sql/medium/medium-winagg-006/solution.sql",
@@ -136,6 +146,16 @@
       "category": "SQL Querying",
       "date": "2026-10-21",
       "url": "https://xomdata.com/practice/medium-winagg-008"
+    },
+    {
+      "name": "Above or below the department norm",
+      "slug": "medium-winagg-007",
+      "file": "practice/sql/medium/medium-winagg-007/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-21",
+      "url": "https://xomdata.com/practice/medium-winagg-007"
     },
     {
       "name": "The customer's total next to every order",
