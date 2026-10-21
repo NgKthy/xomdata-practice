@@ -480,5 +480,7 @@
   "practice/sql/medium/medium-lead-001/solution.sql": "3bff690a4510b092b06f3c3c1eec283f9579a207f5839ea6c12fc72376c75bca",
   "practice/sql/medium/medium-rolling-001/solution.sql": "5798decddcfc2221926c30d717dec6875535525e94f4dcec3df05b2737e1a3b9",
   "practice/sql/medium/medium-winagg-006/solution.sql": "c0091cdfeb6f235a0f467f885746b883cd61912fc5f81c5f95831dd413376962",
-  "practice/sql/medium/medium-winagg-008/solution.sql": "0b2b59ca785a36db9fac4c294306c8af0fd5fd04433c0886fa03a69ea6943d55"
+  "practice/sql/medium/medium-winagg-008/solution.sql": "0b2b59ca785a36db9fac4c294306c8af0fd5fd04433c0886fa03a69ea6943d55",
+  "practice/sql/medium/medium-firstval-002/solution.sql": "e486a8e03b905d40c619d7611943a2d8cc6c10a50205ced93b2237bbc469ac69",
+  "practice/sql/medium/medium-winagg-007/solution.sql": "7a299bbb7f9f078cfc991a34d6c0adbfd42268af45fc4db7bdd8081785a2e8e6"
 }
