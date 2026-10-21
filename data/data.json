@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-21T11:00:17+00:00",
-  "source_commit": "01609ef",
+  "generated_at": "2026-10-21T11:41:05+00:00",
+  "source_commit": "67c6608",
   "totals": {
-    "accepted": 479,
-    "challenges": 470,
+    "accepted": 482,
+    "challenges": 473,
     "languages": 2,
-    "streak": 5,
-    "synced": "479 / 479",
-    "grand": 479
+    "streak": 6,
+    "synced": "482 / 482",
+    "grand": 482
   },
   "by_language": {
-    "sql": 252,
+    "sql": 255,
     "python": 227
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 146,
+    "medium": 149,
     "hard": 62,
     "nightmare": 79
   },
   "by_category": {
-    "SQL Querying": 212,
+    "SQL Querying": 215,
     "Advanced Analytics & Cohorts": 11,
     "SQL Aggregations": 19,
     "SQL Window Functions": 8,
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 133
+      "count": 136
     }
   ],
   "activity": {
@@ -66,6 +66,7 @@
     "2026-10-19": 6,
     "2026-09-13": 10,
     "2026-10-18": 2,
+    "2026-10-21": 3,
     "2026-10-17": 9,
     "2026-10-10": 10,
     "2026-09-06": 2,
@@ -106,6 +107,36 @@
     "2026-09-02": 1
   },
   "solutions": [
+    {
+      "name": "Three-month rolling average revenue",
+      "slug": "medium-rolling-001",
+      "file": "practice/sql/medium/medium-rolling-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-21",
+      "url": "https://xomdata.com/practice/medium-rolling-001"
+    },
+    {
+      "name": "Each expense's share of the fund",
+      "slug": "medium-winagg-006",
+      "file": "practice/sql/medium/medium-winagg-006/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-21",
+      "url": "https://xomdata.com/practice/medium-winagg-006"
+    },
+    {
+      "name": "Category price range next to each item",
+      "slug": "medium-winagg-008",
+      "file": "practice/sql/medium/medium-winagg-008/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-21",
+      "url": "https://xomdata.com/practice/medium-winagg-008"
+    },
     {
       "name": "The customer's total next to every order",
       "slug": "medium-winjoin-002",
