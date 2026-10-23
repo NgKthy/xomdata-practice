@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-23T10:53:02+00:00",
-  "source_commit": "2074031",
+  "generated_at": "2026-10-23T15:25:17+00:00",
+  "source_commit": "19bfdf3",
   "totals": {
-    "accepted": 484,
-    "challenges": 475,
+    "accepted": 487,
+    "challenges": 478,
     "languages": 2,
-    "streak": 0,
-    "synced": "484 / 484",
-    "grand": 484
+    "streak": 1,
+    "synced": "487 / 487",
+    "grand": 487
   },
   "by_language": {
-    "sql": 257,
+    "sql": 260,
     "python": 227
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 151,
+    "medium": 154,
     "hard": 62,
     "nightmare": 79
   },
   "by_category": {
-    "SQL Querying": 217,
+    "SQL Querying": 220,
     "Advanced Analytics & Cohorts": 11,
     "SQL Aggregations": 19,
     "SQL Window Functions": 8,
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 138
+      "count": 141
     }
   ],
   "activity": {
@@ -64,6 +64,7 @@
     "2026-10-13": 10,
     "2026-10-20": 7,
     "2026-10-19": 6,
+    "2026-10-23": 3,
     "2026-09-13": 10,
     "2026-10-18": 2,
     "2026-10-21": 5,
@@ -107,6 +108,36 @@
     "2026-09-02": 1
   },
   "solutions": [
+    {
+      "name": "Product share within its store",
+      "slug": "medium-winagg-002",
+      "file": "practice/sql/medium/medium-winagg-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-23",
+      "url": "https://xomdata.com/practice/medium-winagg-002"
+    },
+    {
+      "name": "Last month's revenue next to each month",
+      "slug": "medium-lag-001",
+      "file": "practice/sql/medium/medium-lag-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-23",
+      "url": "https://xomdata.com/practice/medium-lag-001"
+    },
+    {
+      "name": "Last month per branch",
+      "slug": "medium-lag-003",
+      "file": "practice/sql/medium/medium-lag-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-23",
+      "url": "https://xomdata.com/practice/medium-lag-003"
+    },
     {
       "name": "Three-month rolling average revenue",
       "slug": "medium-rolling-001",
