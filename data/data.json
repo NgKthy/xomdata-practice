@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-23T16:17:18+00:00",
-  "source_commit": "19bfdf3",
+  "generated_at": "2026-10-23T18:40:16+00:00",
+  "source_commit": "fe22524",
   "totals": {
-    "accepted": 487,
-    "challenges": 478,
+    "accepted": 490,
+    "challenges": 481,
     "languages": 2,
     "streak": 1,
-    "synced": "487 / 487",
-    "grand": 487
+    "synced": "490 / 490",
+    "grand": 490
   },
   "by_language": {
-    "sql": 260,
+    "sql": 263,
     "python": 227
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 154,
+    "medium": 157,
     "hard": 62,
     "nightmare": 79
   },
   "by_category": {
-    "SQL Querying": 220,
+    "SQL Querying": 222,
     "Advanced Analytics & Cohorts": 11,
     "SQL Aggregations": 19,
-    "SQL Window Functions": 8,
+    "SQL Window Functions": 9,
     "SQL Joins & Relational": 2,
     "Python Data Logic": 206,
     "Dynamic Programming": 3,
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 141
+      "count": 144
     }
   ],
   "activity": {
@@ -64,7 +64,7 @@
     "2026-10-13": 10,
     "2026-10-20": 7,
     "2026-10-19": 6,
-    "2026-10-23": 3,
+    "2026-10-23": 6,
     "2026-09-13": 10,
     "2026-10-18": 2,
     "2026-10-21": 5,
@@ -109,6 +109,16 @@
   },
   "solutions": [
     {
+      "name": "Regional payroll with shares",
+      "slug": "medium-winagg-010",
+      "file": "practice/sql/medium/medium-winagg-010/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-23",
+      "url": "https://xomdata.com/practice/medium-winagg-010"
+    },
+    {
       "name": "Product share within its store",
       "slug": "medium-winagg-002",
       "file": "practice/sql/medium/medium-winagg-002/solution.sql",
@@ -117,6 +127,16 @@
       "category": "SQL Querying",
       "date": "2026-10-23",
       "url": "https://xomdata.com/practice/medium-winagg-002"
+    },
+    {
+      "name": "National rank and province rank",
+      "slug": "medium-rank-004",
+      "file": "practice/sql/medium/medium-rank-004/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Window Functions",
+      "date": "2026-10-23",
+      "url": "https://xomdata.com/practice/medium-rank-004"
     },
     {
       "name": "Last month's revenue next to each month",
@@ -137,6 +157,16 @@
       "category": "SQL Querying",
       "date": "2026-10-23",
       "url": "https://xomdata.com/practice/medium-lag-003"
+    },
+    {
+      "name": "Distance from the class average",
+      "slug": "medium-winagg-003",
+      "file": "practice/sql/medium/medium-winagg-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "medium",
+      "category": "SQL Querying",
+      "date": "2026-10-23",
+      "url": "https://xomdata.com/practice/medium-winagg-003"
     },
     {
       "name": "Three-month rolling average revenue",
