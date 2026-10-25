@@ -496,5 +496,6 @@
   "practice/sql/hard/hard-streak-001/solution.sql": "c160d002a43a22e96be6cd28cc50d4a834f938819b2b8381032bd260917c7ef6",
   "practice/sql/hard/hard-retention-005/solution.sql": "ed9cf5ff5f5671faf7bad855e95ee00d16cf807c76a552eecaf55e4a7df588fe",
   "practice/sql/nightmare/nightmare-coinchange-001/solution.sql": "dc2c0f0834aecf7f024d64afcf8b605b24fbc1788133f907d56994b501e17a93",
-  "practice/sql/nightmare/nightmare-stadium-001/solution.sql": "c763d5425cddc9667aca0bcaab1c22719dce5adb51940c301186ccd31cfb09cc"
+  "practice/sql/nightmare/nightmare-stadium-001/solution.sql": "c763d5425cddc9667aca0bcaab1c22719dce5adb51940c301186ccd31cfb09cc",
+  "practice/sql/nightmare/expert-final-cohort-002/solution.sql": "686a8f9a466187bc448c0e4cebab8da0e04891b10b26a9985a9a674467527f85"
 }
