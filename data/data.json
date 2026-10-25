@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-25T14:48:29+00:00",
-  "source_commit": "d00c9cf",
+  "generated_at": "2026-10-25T14:50:11+00:00",
+  "source_commit": "117af63",
   "totals": {
-    "accepted": 498,
-    "challenges": 489,
+    "accepted": 499,
+    "challenges": 490,
     "languages": 2,
     "streak": 3,
-    "synced": "498 / 498",
-    "grand": 498
+    "synced": "499 / 499",
+    "grand": 499
   },
   "by_language": {
-    "sql": 271,
+    "sql": 272,
     "python": 227
   },
   "by_difficulty": {
     "easy": 192,
     "medium": 160,
     "hard": 65,
-    "nightmare": 81
+    "nightmare": 82
   },
   "by_category": {
     "SQL Querying": 229,
-    "Advanced Analytics & Cohorts": 12,
+    "Advanced Analytics & Cohorts": 13,
     "SQL Aggregations": 19,
     "SQL Window Functions": 9,
     "SQL Joins & Relational": 2,
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 152
+      "count": 153
     }
   ],
   "activity": {
@@ -77,7 +77,7 @@
     "2026-10-02": 3,
     "2026-10-04": 4,
     "2026-09-30": 3,
-    "2026-10-25": 5,
+    "2026-10-25": 6,
     "2026-09-15": 5,
     "2026-09-05": 1,
     "2026-09-01": 1,
@@ -129,6 +129,16 @@
       "category": "SQL Querying",
       "date": "2026-10-25",
       "url": "https://xomdata.com/practice/nightmare-stadium-001"
+    },
+    {
+      "name": "Next-month customer retention rate by cohort",
+      "slug": "expert-final-cohort-002",
+      "file": "practice/sql/nightmare/expert-final-cohort-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "Advanced Analytics & Cohorts",
+      "date": "2026-10-25",
+      "url": "https://xomdata.com/practice/expert-final-cohort-002"
     },
     {
       "name": "Minimum coins to make the target amount (unlimited denominations)",
