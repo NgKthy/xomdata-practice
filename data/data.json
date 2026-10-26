@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-26T12:05:41+00:00",
-  "source_commit": "117af63",
+  "generated_at": "2026-10-26T12:49:22+00:00",
+  "source_commit": "ed77c41",
   "totals": {
-    "accepted": 499,
-    "challenges": 490,
+    "accepted": 502,
+    "challenges": 493,
     "languages": 2,
-    "streak": 3,
-    "synced": "499 / 499",
-    "grand": 499
+    "streak": 4,
+    "synced": "502 / 502",
+    "grand": 502
   },
   "by_language": {
-    "sql": 272,
+    "sql": 275,
     "python": 227
   },
   "by_difficulty": {
     "easy": 192,
     "medium": 160,
-    "hard": 65,
-    "nightmare": 82
+    "hard": 67,
+    "nightmare": 83
   },
   "by_category": {
-    "SQL Querying": 229,
-    "Advanced Analytics & Cohorts": 13,
+    "SQL Querying": 231,
+    "Advanced Analytics & Cohorts": 14,
     "SQL Aggregations": 19,
     "SQL Window Functions": 9,
     "SQL Joins & Relational": 2,
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 153
+      "count": 156
     }
   ],
   "activity": {
@@ -82,6 +82,7 @@
     "2026-09-05": 1,
     "2026-09-01": 1,
     "2026-09-27": 5,
+    "2026-10-26": 3,
     "2026-09-23": 6,
     "2026-09-14": 6,
     "2026-09-08": 9,
@@ -110,6 +111,36 @@
     "2026-09-02": 1
   },
   "solutions": [
+    {
+      "name": "The longest silence period for each customer",
+      "slug": "hard-gap-002",
+      "file": "practice/sql/hard/hard-gap-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-10-26",
+      "url": "https://xomdata.com/practice/hard-gap-002"
+    },
+    {
+      "name": "Average lifetime value by cohort",
+      "slug": "hard-ltv-001",
+      "file": "practice/sql/hard/hard-ltv-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "Advanced Analytics & Cohorts",
+      "date": "2026-10-26",
+      "url": "https://xomdata.com/practice/hard-ltv-001"
+    },
+    {
+      "name": "3-month rolling payroll (excluding each employee's latest month)",
+      "slug": "nightmare-cumulative-salary-001",
+      "file": "practice/sql/nightmare/nightmare-cumulative-salary-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-10-26",
+      "url": "https://xomdata.com/practice/nightmare-cumulative-salary-001"
+    },
     {
       "name": "Surviving from the second month onward",
       "slug": "hard-retention-005",
