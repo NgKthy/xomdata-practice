@@ -501,5 +501,6 @@
   "practice/sql/hard/hard-gap-002/solution.sql": "eb96180b12a11a933ea68398ab7192bae4e2c2b8fb470b55653afc3040c30cc7",
   "practice/sql/nightmare/nightmare-cumulative-salary-001/solution.sql": "a653878fa879bb103371498fc5b97e781d376ff1448484452d20c96f191914ae",
   "practice/sql/hard/hard-ltv-001/solution.sql": "d731537ff386e79f261dcafa04950cd9facbe05eac60ccc6be66a2c492b69f5c",
-  "practice/sql/nightmare/sql-nightmare-008/solution.sql": "2fe6bd389c15f141a87f76426e6a369b6617bfa234a6209a5463ff6a5f19a9ee"
+  "practice/sql/nightmare/sql-nightmare-008/solution.sql": "2fe6bd389c15f141a87f76426e6a369b6617bfa234a6209a5463ff6a5f19a9ee",
+  "practice/sql/hard/hard-streak-002/solution.sql": "c49f5e5de2d52f4b4f033c5a0878230d78fb9aba7d94494cbb63f364c3a124e2"
 }
