@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-26T12:52:45+00:00",
-  "source_commit": "1a4c82b",
+  "generated_at": "2026-10-26T12:54:37+00:00",
+  "source_commit": "42af2d9",
   "totals": {
-    "accepted": 503,
-    "challenges": 494,
+    "accepted": 504,
+    "challenges": 495,
     "languages": 2,
     "streak": 4,
-    "synced": "503 / 503",
-    "grand": 503
+    "synced": "504 / 504",
+    "grand": 504
   },
   "by_language": {
-    "sql": 276,
+    "sql": 277,
     "python": 227
   },
   "by_difficulty": {
     "easy": 192,
     "medium": 160,
-    "hard": 67,
+    "hard": 68,
     "nightmare": 84
   },
   "by_category": {
-    "SQL Querying": 231,
+    "SQL Querying": 232,
     "Advanced Analytics & Cohorts": 15,
     "SQL Aggregations": 19,
     "SQL Window Functions": 9,
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 157
+      "count": 158
     }
   ],
   "activity": {
@@ -78,7 +78,7 @@
     "2026-10-04": 4,
     "2026-09-30": 3,
     "2026-10-25": 6,
-    "2026-10-26": 4,
+    "2026-10-26": 5,
     "2026-09-15": 5,
     "2026-09-05": 1,
     "2026-09-01": 1,
@@ -111,6 +111,16 @@
     "2026-09-02": 1
   },
   "solutions": [
+    {
+      "name": "Who is still on an active streak today",
+      "slug": "hard-streak-002",
+      "file": "practice/sql/hard/hard-streak-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-10-26",
+      "url": "https://xomdata.com/practice/hard-streak-002"
+    },
     {
       "name": "The longest silence period for each customer",
       "slug": "hard-gap-002",
