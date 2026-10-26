@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-26T12:49:22+00:00",
-  "source_commit": "ed77c41",
+  "generated_at": "2026-10-26T12:52:45+00:00",
+  "source_commit": "1a4c82b",
   "totals": {
-    "accepted": 502,
-    "challenges": 493,
+    "accepted": 503,
+    "challenges": 494,
     "languages": 2,
     "streak": 4,
-    "synced": "502 / 502",
-    "grand": 502
+    "synced": "503 / 503",
+    "grand": 503
   },
   "by_language": {
-    "sql": 275,
+    "sql": 276,
     "python": 227
   },
   "by_difficulty": {
     "easy": 192,
     "medium": 160,
     "hard": 67,
-    "nightmare": 83
+    "nightmare": 84
   },
   "by_category": {
     "SQL Querying": 231,
-    "Advanced Analytics & Cohorts": 14,
+    "Advanced Analytics & Cohorts": 15,
     "SQL Aggregations": 19,
     "SQL Window Functions": 9,
     "SQL Joins & Relational": 2,
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 156
+      "count": 157
     }
   ],
   "activity": {
@@ -78,11 +78,11 @@
     "2026-10-04": 4,
     "2026-09-30": 3,
     "2026-10-25": 6,
+    "2026-10-26": 4,
     "2026-09-15": 5,
     "2026-09-05": 1,
     "2026-09-01": 1,
     "2026-09-27": 5,
-    "2026-10-26": 3,
     "2026-09-23": 6,
     "2026-09-14": 6,
     "2026-09-08": 9,
@@ -120,6 +120,16 @@
       "category": "SQL Querying",
       "date": "2026-10-26",
       "url": "https://xomdata.com/practice/hard-gap-002"
+    },
+    {
+      "name": "Score customers by RFM",
+      "slug": "sql-nightmare-008",
+      "file": "practice/sql/nightmare/sql-nightmare-008/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "Advanced Analytics & Cohorts",
+      "date": "2026-10-26",
+      "url": "https://xomdata.com/practice/sql-nightmare-008"
     },
     {
       "name": "Average lifetime value by cohort",
