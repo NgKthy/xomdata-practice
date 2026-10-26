@@ -4,15 +4,18 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**490** problems solved on [Xom Data](https://xomdata.com/practice).
+**493** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 104 | 57 | 20 | 46 | 227 |
-| SQL | 88 | 94 | 45 | 36 | 263 |
+| SQL | 88 | 94 | 47 | 37 | 266 |
 
 **Recently solved**
 
+- [hard-ltv-001](https://xomdata.com/practice/hard-ltv-001) · Hard · 2026-10-26
+- [nightmare-cumulative-salary-001](https://xomdata.com/practice/nightmare-cumulative-salary-001) · Nightmare · 2026-10-26
+- [hard-gap-002](https://xomdata.com/practice/hard-gap-002) · Hard · 2026-10-26
 - [expert-final-cohort-002](https://xomdata.com/practice/expert-final-cohort-002) · Nightmare · 2026-10-25
 - [nightmare-stadium-001](https://xomdata.com/practice/nightmare-stadium-001) · Nightmare · 2026-10-25
 - [nightmare-coinchange-001](https://xomdata.com/practice/nightmare-coinchange-001) · Nightmare · 2026-10-25
@@ -20,11 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [hard-streak-001](https://xomdata.com/practice/hard-streak-001) · Hard · 2026-10-25
 - [hard-churn-001](https://xomdata.com/practice/hard-churn-001) · Hard · 2026-10-25
 - [medium-ntile-002](https://xomdata.com/practice/medium-ntile-002) · Medium · 2026-10-24
-- [medium-winagg-004](https://xomdata.com/practice/medium-winagg-004) · Medium · 2026-10-24
-- [medium-rownum-001](https://xomdata.com/practice/medium-rownum-001) · Medium · 2026-10-24
-- [medium-winagg-010](https://xomdata.com/practice/medium-winagg-010) · Medium · 2026-10-23
 
-_Synced 499 solutions · last update 2026-10-25_
+_Synced 502 solutions · last update 2026-10-26_
 
 <!-- xomdata:stats:end -->
 
