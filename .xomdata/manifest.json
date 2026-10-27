@@ -505,5 +505,6 @@
   "practice/sql/hard/hard-streak-002/solution.sql": "c49f5e5de2d52f4b4f033c5a0878230d78fb9aba7d94494cbb63f364c3a124e2",
   "practice/sql/hard/hard-gap-003/solution.sql": "a55295f6d15951ec45fe76d301cb47f56a873865f7e80e28968c1e290acc7f5a",
   "practice/sql/hard/hard-gap-001/solution.sql": "5e87438ea59514dd76578f7108d0a2145c2ccbe8ca631a7a142d39ea36830159",
-  "practice/sql/nightmare/nightmare-median-freq-001/solution.sql": "6083f5b2935364676c70a4095b32f274c6b7a9051b65069213d3747bb9b148ed"
+  "practice/sql/nightmare/nightmare-median-freq-001/solution.sql": "6083f5b2935364676c70a4095b32f274c6b7a9051b65069213d3747bb9b148ed",
+  "practice/sql/nightmare/sql-nightmare-006/solution.sql": "19757230c5eeca710c358ff1f3a67d8663e21ffdc81417bc4a5319cc54e052a7"
 }

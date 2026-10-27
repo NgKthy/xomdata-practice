@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**498** problems solved on [Xom Data](https://xomdata.com/practice).
+**499** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 104 | 57 | 20 | 46 | 227 |
-| SQL | 88 | 94 | 50 | 39 | 271 |
+| SQL | 88 | 94 | 50 | 40 | 272 |
 
 **Recently solved**
 
+- [sql-nightmare-006](https://xomdata.com/practice/sql-nightmare-006) · Nightmare · 2026-10-27
 - [nightmare-median-freq-001](https://xomdata.com/practice/nightmare-median-freq-001) · Nightmare · 2026-10-27
 - [hard-gap-001](https://xomdata.com/practice/hard-gap-001) · Hard · 2026-10-27
 - [hard-gap-003](https://xomdata.com/practice/hard-gap-003) · Hard · 2026-10-27
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [nightmare-cumulative-salary-001](https://xomdata.com/practice/nightmare-cumulative-salary-001) · Nightmare · 2026-10-26
 - [hard-gap-002](https://xomdata.com/practice/hard-gap-002) · Hard · 2026-10-26
 - [expert-final-cohort-002](https://xomdata.com/practice/expert-final-cohort-002) · Nightmare · 2026-10-25
-- [nightmare-stadium-001](https://xomdata.com/practice/nightmare-stadium-001) · Nightmare · 2026-10-25
 
-_Synced 507 solutions · last update 2026-10-27_
+_Synced 508 solutions · last update 2026-10-27_
 
 <!-- xomdata:stats:end -->
 
