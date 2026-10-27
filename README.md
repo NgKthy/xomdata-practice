@@ -4,15 +4,17 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**495** problems solved on [Xom Data](https://xomdata.com/practice).
+**497** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 104 | 57 | 20 | 46 | 227 |
-| SQL | 88 | 94 | 48 | 38 | 268 |
+| SQL | 88 | 94 | 50 | 38 | 270 |
 
 **Recently solved**
 
+- [hard-gap-001](https://xomdata.com/practice/hard-gap-001) · Hard · 2026-10-27
+- [hard-gap-003](https://xomdata.com/practice/hard-gap-003) · Hard · 2026-10-27
 - [hard-streak-002](https://xomdata.com/practice/hard-streak-002) · Hard · 2026-10-26
 - [sql-nightmare-008](https://xomdata.com/practice/sql-nightmare-008) · Nightmare · 2026-10-26
 - [hard-ltv-001](https://xomdata.com/practice/hard-ltv-001) · Hard · 2026-10-26
@@ -21,10 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [expert-final-cohort-002](https://xomdata.com/practice/expert-final-cohort-002) · Nightmare · 2026-10-25
 - [nightmare-stadium-001](https://xomdata.com/practice/nightmare-stadium-001) · Nightmare · 2026-10-25
 - [nightmare-coinchange-001](https://xomdata.com/practice/nightmare-coinchange-001) · Nightmare · 2026-10-25
-- [hard-retention-005](https://xomdata.com/practice/hard-retention-005) · Hard · 2026-10-25
-- [hard-streak-001](https://xomdata.com/practice/hard-streak-001) · Hard · 2026-10-25
 
-_Synced 504 solutions · last update 2026-10-26_
+_Synced 506 solutions · last update 2026-10-27_
 
 <!-- xomdata:stats:end -->
 
