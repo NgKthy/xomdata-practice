@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-27T11:26:19+00:00",
-  "source_commit": "42af2d9",
+  "generated_at": "2026-10-27T13:59:16+00:00",
+  "source_commit": "829a2b7",
   "totals": {
-    "accepted": 504,
-    "challenges": 495,
+    "accepted": 506,
+    "challenges": 497,
     "languages": 2,
-    "streak": 4,
-    "synced": "504 / 504",
-    "grand": 504
+    "streak": 5,
+    "synced": "506 / 506",
+    "grand": 506
   },
   "by_language": {
-    "sql": 277,
+    "sql": 279,
     "python": 227
   },
   "by_difficulty": {
     "easy": 192,
     "medium": 160,
-    "hard": 68,
+    "hard": 70,
     "nightmare": 84
   },
   "by_category": {
-    "SQL Querying": 232,
-    "Advanced Analytics & Cohorts": 15,
+    "SQL Querying": 233,
+    "Advanced Analytics & Cohorts": 16,
     "SQL Aggregations": 19,
     "SQL Window Functions": 9,
     "SQL Joins & Relational": 2,
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 158
+      "count": 160
     }
   ],
   "activity": {
@@ -86,6 +86,7 @@
     "2026-09-23": 6,
     "2026-09-14": 6,
     "2026-09-08": 9,
+    "2026-10-27": 2,
     "2026-09-12": 27,
     "2026-10-06": 14,
     "2026-09-18": 11,
@@ -111,6 +112,26 @@
     "2026-09-02": 1
   },
   "solutions": [
+    {
+      "name": "Purchase rhythm and churn signal",
+      "slug": "hard-gap-001",
+      "file": "practice/sql/hard/hard-gap-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "Advanced Analytics & Cohorts",
+      "date": "2026-10-27",
+      "url": "https://xomdata.com/practice/hard-gap-001"
+    },
+    {
+      "name": "Predicting the customer's next visit date",
+      "slug": "hard-gap-003",
+      "file": "practice/sql/hard/hard-gap-003/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "SQL Querying",
+      "date": "2026-10-27",
+      "url": "https://xomdata.com/practice/hard-gap-003"
+    },
     {
       "name": "Who is still on an active streak today",
       "slug": "hard-streak-002",
