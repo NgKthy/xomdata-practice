@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-28T13:59:03+00:00",
-  "source_commit": "f2f2764",
+  "generated_at": "2026-10-28T14:01:27+00:00",
+  "source_commit": "907e53c",
   "totals": {
-    "accepted": 511,
-    "challenges": 502,
+    "accepted": 512,
+    "challenges": 503,
     "languages": 2,
     "streak": 6,
-    "synced": "511 / 511",
-    "grand": 511
+    "synced": "512 / 512",
+    "grand": 512
   },
   "by_language": {
-    "sql": 284,
+    "sql": 285,
     "python": 227
   },
   "by_difficulty": {
     "easy": 192,
     "medium": 160,
-    "hard": 70,
+    "hard": 71,
     "nightmare": 89
   },
   "by_category": {
     "SQL Querying": 238,
-    "Advanced Analytics & Cohorts": 16,
+    "Advanced Analytics & Cohorts": 17,
     "SQL Window Functions": 9,
     "SQL Joins & Relational": 2,
     "SQL Aggregations": 19,
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 165
+      "count": 166
     }
   ],
   "activity": {
@@ -55,7 +55,7 @@
     "2026-09-30": 3,
     "2026-09-05": 1,
     "2026-10-02": 3,
-    "2026-10-28": 3,
+    "2026-10-28": 4,
     "2026-10-26": 5,
     "2026-10-17": 9,
     "2026-09-15": 5,
@@ -132,6 +132,16 @@
       "category": "SQL Querying",
       "date": "2026-10-28",
       "url": "https://xomdata.com/practice/nightmare-consecutive-001"
+    },
+    {
+      "name": "Cumulative revenue by cohort age",
+      "slug": "hard-ltv-002",
+      "file": "practice/sql/hard/hard-ltv-002/solution.sql",
+      "lang": "sql",
+      "difficulty": "hard",
+      "category": "Advanced Analytics & Cohorts",
+      "date": "2026-10-28",
+      "url": "https://xomdata.com/practice/hard-ltv-002"
     },
     {
       "name": "Conversion rate through a 4-step purchase funnel",
