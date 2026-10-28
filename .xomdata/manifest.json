@@ -506,5 +506,7 @@
   "practice/sql/hard/hard-gap-003/solution.sql": "a55295f6d15951ec45fe76d301cb47f56a873865f7e80e28968c1e290acc7f5a",
   "practice/sql/hard/hard-gap-001/solution.sql": "5e87438ea59514dd76578f7108d0a2145c2ccbe8ca631a7a142d39ea36830159",
   "practice/sql/nightmare/nightmare-median-freq-001/solution.sql": "6083f5b2935364676c70a4095b32f274c6b7a9051b65069213d3747bb9b148ed",
-  "practice/sql/nightmare/sql-nightmare-006/solution.sql": "19757230c5eeca710c358ff1f3a67d8663e21ffdc81417bc4a5319cc54e052a7"
+  "practice/sql/nightmare/sql-nightmare-006/solution.sql": "19757230c5eeca710c358ff1f3a67d8663e21ffdc81417bc4a5319cc54e052a7",
+  "practice/sql/nightmare/sql-nightmare-009/solution.sql": "95e2cee5728a3374cfa2a88084c508119a0371a520c21bd05c47d104cde10858",
+  "practice/sql/nightmare/nightmare-consecutive-001/solution.sql": "559eb2b483c6a061767f226f7afb7585d32760346439865b7b735b7dbc351f81"
 }
