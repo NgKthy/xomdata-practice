@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-28T11:57:42+00:00",
-  "source_commit": "29750e2",
+  "generated_at": "2026-10-28T13:57:12+00:00",
+  "source_commit": "b76f68b",
   "totals": {
-    "accepted": 508,
-    "challenges": 499,
+    "accepted": 510,
+    "challenges": 501,
     "languages": 2,
-    "streak": 5,
-    "synced": "508 / 508",
-    "grand": 508
+    "streak": 6,
+    "synced": "510 / 510",
+    "grand": 510
   },
   "by_language": {
-    "sql": 281,
+    "sql": 283,
     "python": 227
   },
   "by_difficulty": {
     "easy": 192,
     "medium": 160,
     "hard": 70,
-    "nightmare": 86
+    "nightmare": 88
   },
   "by_category": {
-    "SQL Querying": 235,
+    "SQL Querying": 237,
     "Advanced Analytics & Cohorts": 16,
     "SQL Aggregations": 19,
     "SQL Window Functions": 9,
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 162
+      "count": 164
     }
   ],
   "activity": {
@@ -77,6 +77,7 @@
     "2026-10-02": 3,
     "2026-10-04": 4,
     "2026-10-27": 4,
+    "2026-10-28": 2,
     "2026-09-30": 3,
     "2026-10-25": 6,
     "2026-10-26": 5,
@@ -112,6 +113,26 @@
     "2026-09-02": 1
   },
   "solutions": [
+    {
+      "name": "Numbers appearing 3 times in a row in the log",
+      "slug": "nightmare-consecutive-001",
+      "file": "practice/sql/nightmare/nightmare-consecutive-001/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-10-28",
+      "url": "https://xomdata.com/practice/nightmare-consecutive-001"
+    },
+    {
+      "name": "Conversion rate through a 4-step purchase funnel",
+      "slug": "sql-nightmare-009",
+      "file": "practice/sql/nightmare/sql-nightmare-009/solution.sql",
+      "lang": "sql",
+      "difficulty": "nightmare",
+      "category": "SQL Querying",
+      "date": "2026-10-28",
+      "url": "https://xomdata.com/practice/sql-nightmare-009"
+    },
     {
       "name": "Revenue split by new vs returning customers",
       "slug": "sql-nightmare-006",
