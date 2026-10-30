@@ -515,5 +515,7 @@
   "practice/python/medium/py-aggregate-two-fields/solution.py": "5b40a1ea8a549b72c068c05d038c5102de7d751b0aa65832a6c21d24a03a2dfd",
   "practice/python/nightmare/py-max-profit/solution.py": "a006f6d15f0323e3dbac93b13e3875980e6195b1d323d143e450c4c7c042f9f9",
   "practice/python/medium/py-competition-rank/solution.py": "bf3ecd4f2a36e71bd53659287c34829362de6c4a2988f50e47559f6aa9c3a0f4",
-  "practice/python/medium/py-fill-missing/solution.py": "502bed08f48c7aa48fdf89c0d43a9652fa472a62e4d1e694971b6b640da835cd"
+  "practice/python/medium/py-fill-missing/solution.py": "502bed08f48c7aa48fdf89c0d43a9652fa472a62e4d1e694971b6b640da835cd",
+  "practice/python/easy/py-common-customers/solution.py": "74558813f28603bb2262bf460d946b7697827a99f41e9436155d5f447836f1c9",
+  "practice/python/medium/py-title-case-exceptions/solution.py": "135da915913e74909a7e65c941d244051028f050d1a86ba7c9f4a6be11c2b751"
 }

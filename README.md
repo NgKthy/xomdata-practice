@@ -4,15 +4,17 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**508** problems solved on [Xom Data](https://xomdata.com/practice).
+**510** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 104 | 61 | 20 | 47 | 232 |
+| Python | 105 | 62 | 20 | 47 | 234 |
 | SQL | 88 | 94 | 51 | 43 | 276 |
 
 **Recently solved**
 
+- [py-title-case-exceptions](https://xomdata.com/practice/py-title-case-exceptions) · Medium · 2026-10-30
+- [py-common-customers](https://xomdata.com/practice/py-common-customers) · Easy · 2026-10-30
 - [py-fill-missing](https://xomdata.com/practice/py-fill-missing) · Medium · 2026-10-30
 - [py-competition-rank](https://xomdata.com/practice/py-competition-rank) · Medium · 2026-10-30
 - [py-max-profit](https://xomdata.com/practice/py-max-profit) · Nightmare · 2026-10-30
@@ -21,10 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [hard-ltv-002](https://xomdata.com/practice/hard-ltv-002) · Hard · 2026-10-28
 - [expert-final-subq-003](https://xomdata.com/practice/expert-final-subq-003) · Nightmare · 2026-10-28
 - [nightmare-consecutive-001](https://xomdata.com/practice/nightmare-consecutive-001) · Nightmare · 2026-10-28
-- [sql-nightmare-009](https://xomdata.com/practice/sql-nightmare-009) · Nightmare · 2026-10-28
-- [sql-nightmare-006](https://xomdata.com/practice/sql-nightmare-006) · Nightmare · 2026-10-27
 
-_Synced 517 solutions · last update 2026-10-30_
+_Synced 519 solutions · last update 2026-10-30_
 
 <!-- xomdata:stats:end -->
 
