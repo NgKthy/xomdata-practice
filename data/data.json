@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-30T14:37:47+00:00",
-  "source_commit": "a62473c",
+  "generated_at": "2026-10-30T14:40:21+00:00",
+  "source_commit": "5cbaf1a",
   "totals": {
-    "accepted": 517,
-    "challenges": 508,
+    "accepted": 519,
+    "challenges": 510,
     "languages": 2,
     "streak": 1,
-    "synced": "517 / 517",
-    "grand": 517
+    "synced": "519 / 519",
+    "grand": 519
   },
   "by_language": {
     "sql": 285,
-    "python": 232
+    "python": 234
   },
   "by_difficulty": {
-    "easy": 192,
-    "medium": 164,
+    "easy": 193,
+    "medium": 165,
     "hard": 71,
     "nightmare": 90
   },
@@ -25,7 +25,7 @@
     "SQL Window Functions": 9,
     "SQL Joins & Relational": 2,
     "SQL Aggregations": 19,
-    "Python Data Logic": 211,
+    "Python Data Logic": 213,
     "Dynamic Programming": 3,
     "Data Structures & Algos": 16,
     "Trees & Graphs": 2
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 171
+      "count": 173
     }
   ],
   "activity": {
@@ -90,7 +90,7 @@
     "2026-08-20": 3,
     "2026-09-26": 6,
     "2026-09-28": 8,
-    "2026-10-30": 5,
+    "2026-10-30": 7,
     "2026-09-21": 12,
     "2026-09-17": 9,
     "2026-10-06": 14,
@@ -143,6 +143,26 @@
       "category": "Python Data Logic",
       "date": "2026-10-30",
       "url": "https://xomdata.com/practice/py-fill-missing"
+    },
+    {
+      "name": "Customers who bought at both branches",
+      "slug": "py-common-customers",
+      "file": "practice/python/easy/py-common-customers/solution.py",
+      "lang": "python",
+      "difficulty": "easy",
+      "category": "Python Data Logic",
+      "date": "2026-10-30",
+      "url": "https://xomdata.com/practice/py-common-customers"
+    },
+    {
+      "name": "Capitalise a book title the publisher's way",
+      "slug": "py-title-case-exceptions",
+      "file": "practice/python/medium/py-title-case-exceptions/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-30",
+      "url": "https://xomdata.com/practice/py-title-case-exceptions"
     },
     {
       "name": "Best time to buy and sell stock",
