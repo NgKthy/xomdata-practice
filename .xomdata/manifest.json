@@ -512,5 +512,6 @@
   "practice/sql/nightmare/expert-final-subq-003/solution.sql": "992dc9630d8314290e27c7d057a6b618dcfa56d60c948cf491c710fd85b47127",
   "practice/sql/hard/hard-ltv-002/solution.sql": "3ab3a9260b56f7a9ba1cfa903b5958377252f1c764fb893b3b10967df881fcf9",
   "practice/python/medium/py-numeric-strings/solution.py": "f6eaa3437996b947b9c000a10d2598bbc50265cfa621ea0c4e497072a7ec3d09",
-  "practice/python/medium/py-aggregate-two-fields/solution.py": "5b40a1ea8a549b72c068c05d038c5102de7d751b0aa65832a6c21d24a03a2dfd"
+  "practice/python/medium/py-aggregate-two-fields/solution.py": "5b40a1ea8a549b72c068c05d038c5102de7d751b0aa65832a6c21d24a03a2dfd",
+  "practice/python/nightmare/py-max-profit/solution.py": "a006f6d15f0323e3dbac93b13e3875980e6195b1d323d143e450c4c7c042f9f9"
 }
