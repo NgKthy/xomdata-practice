@@ -510,5 +510,7 @@
   "practice/sql/nightmare/sql-nightmare-009/solution.sql": "95e2cee5728a3374cfa2a88084c508119a0371a520c21bd05c47d104cde10858",
   "practice/sql/nightmare/nightmare-consecutive-001/solution.sql": "559eb2b483c6a061767f226f7afb7585d32760346439865b7b735b7dbc351f81",
   "practice/sql/nightmare/expert-final-subq-003/solution.sql": "992dc9630d8314290e27c7d057a6b618dcfa56d60c948cf491c710fd85b47127",
-  "practice/sql/hard/hard-ltv-002/solution.sql": "3ab3a9260b56f7a9ba1cfa903b5958377252f1c764fb893b3b10967df881fcf9"
+  "practice/sql/hard/hard-ltv-002/solution.sql": "3ab3a9260b56f7a9ba1cfa903b5958377252f1c764fb893b3b10967df881fcf9",
+  "practice/python/medium/py-numeric-strings/solution.py": "f6eaa3437996b947b9c000a10d2598bbc50265cfa621ea0c4e497072a7ec3d09",
+  "practice/python/medium/py-aggregate-two-fields/solution.py": "5b40a1ea8a549b72c068c05d038c5102de7d751b0aa65832a6c21d24a03a2dfd"
 }
