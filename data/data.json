@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-30T14:36:13+00:00",
-  "source_commit": "0e866b7",
+  "generated_at": "2026-10-30T14:37:47+00:00",
+  "source_commit": "a62473c",
   "totals": {
-    "accepted": 515,
-    "challenges": 506,
+    "accepted": 517,
+    "challenges": 508,
     "languages": 2,
     "streak": 1,
-    "synced": "515 / 515",
-    "grand": 515
+    "synced": "517 / 517",
+    "grand": 517
   },
   "by_language": {
     "sql": 285,
-    "python": 230
+    "python": 232
   },
   "by_difficulty": {
     "easy": 192,
-    "medium": 162,
+    "medium": 164,
     "hard": 71,
     "nightmare": 90
   },
@@ -25,7 +25,7 @@
     "SQL Window Functions": 9,
     "SQL Joins & Relational": 2,
     "SQL Aggregations": 19,
-    "Python Data Logic": 209,
+    "Python Data Logic": 211,
     "Dynamic Programming": 3,
     "Data Structures & Algos": 16,
     "Trees & Graphs": 2
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-10",
-      "count": 169
+      "count": 171
     }
   ],
   "activity": {
@@ -90,7 +90,7 @@
     "2026-08-20": 3,
     "2026-09-26": 6,
     "2026-09-28": 8,
-    "2026-10-30": 3,
+    "2026-10-30": 5,
     "2026-09-21": 12,
     "2026-09-17": 9,
     "2026-10-06": 14,
@@ -135,6 +135,16 @@
       "url": "https://xomdata.com/practice/py-aggregate-two-fields"
     },
     {
+      "name": "Fill in a default for a missing field",
+      "slug": "py-fill-missing",
+      "file": "practice/python/medium/py-fill-missing/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-30",
+      "url": "https://xomdata.com/practice/py-fill-missing"
+    },
+    {
       "name": "Best time to buy and sell stock",
       "slug": "py-max-profit",
       "file": "practice/python/nightmare/py-max-profit/solution.py",
@@ -143,6 +153,16 @@
       "category": "Python Data Logic",
       "date": "2026-10-30",
       "url": "https://xomdata.com/practice/py-max-profit"
+    },
+    {
+      "name": "Assign ranks with ties to runners",
+      "slug": "py-competition-rank",
+      "file": "practice/python/medium/py-competition-rank/solution.py",
+      "lang": "python",
+      "difficulty": "medium",
+      "category": "Python Data Logic",
+      "date": "2026-10-30",
+      "url": "https://xomdata.com/practice/py-competition-rank"
     },
     {
       "name": "Second-highest-paid employee per department",
